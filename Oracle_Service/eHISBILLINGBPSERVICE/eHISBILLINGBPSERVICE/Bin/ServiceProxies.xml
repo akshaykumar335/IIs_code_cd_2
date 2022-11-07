@@ -1,0 +1,1720 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ServiceProxies
+</name>
+</assembly>
+<members>
+<member name="T:My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:My.Resources.ServiceDetails">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.AHCBPService">
+<summary>
+  Looks up a localized string similar to AHCBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.AHCService">
+<summary>
+  Looks up a localized string similar to AHCSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.AmbulanceBPService">
+<summary>
+  Looks up a localized string similar to AMBULANCEBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.AmbulanceService">
+<summary>
+  Looks up a localized string similar to AMBULANCESERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.ATBPService">
+<summary>
+  Looks up a localized string similar to ATBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.ATService">
+<summary>
+  Looks up a localized string similar to ATSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.BBBPService">
+<summary>
+  Looks up a localized string similar to BBBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.BBService">
+<summary>
+  Looks up a localized string similar to BBSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.BILLINGBPService">
+<summary>
+  Looks up a localized string similar to BILLINGBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.BILLINGService">
+<summary>
+  Looks up a localized string similar to BILLINGSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CACHEMANAGER">
+<summary>
+  Looks up a localized string similar to CACHEMANAGER.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CertificateName">
+<summary>
+  Looks up a localized string similar to CN=localhost.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CLAIMService">
+<summary>
+  Looks up a localized string similar to CLAIMSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CRMBPService">
+<summary>
+  Looks up a localized string similar to CRMBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CRMCLAIMBPService">
+<summary>
+  Looks up a localized string similar to CRMCLAIMBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CRMCLAIMService">
+<summary>
+  Looks up a localized string similar to CRMCLAIMSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CRMService">
+<summary>
+  Looks up a localized string similar to CRMSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.ESBPService">
+<summary>
+  Looks up a localized string similar to ESBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.ESService">
+<summary>
+  Looks up a localized string similar to ESSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.FNBBPService">
+<summary>
+  Looks up a localized string similar to FNBBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.FNBService">
+<summary>
+  Looks up a localized string similar to FNBSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.HRBPService">
+<summary>
+  Looks up a localized string similar to HRBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.HRService">
+<summary>
+  Looks up a localized string similar to HRSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.LABORATORYBPService">
+<summary>
+  Looks up a localized string similar to LABORATORYBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.LABORATORYService">
+<summary>
+  Looks up a localized string similar to LABORATORYSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.LHKBPService">
+<summary>
+  Looks up a localized string similar to LHKBPService.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.LHKService">
+<summary>
+  Looks up a localized string similar to LHKService.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.MMBPService">
+<summary>
+  Looks up a localized string similar to MMBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.MMService">
+<summary>
+  Looks up a localized string similar to MMSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.MNMBPService">
+<summary>
+  Looks up a localized string similar to MNMBPService.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.MNMService">
+<summary>
+  Looks up a localized string similar to MNMService.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.OTBPService">
+<summary>
+  Looks up a localized string similar to OTBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.OTService">
+<summary>
+  Looks up a localized string similar to OTSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.PAYROLLBPService">
+<summary>
+  Looks up a localized string similar to PAYROLLBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.PAYROLLService">
+<summary>
+  Looks up a localized string similar to PAYROLLSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.PFService">
+<summary>
+  Looks up a localized string similar to PFSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.PharmacyBPService">
+<summary>
+  Looks up a localized string similar to PHARMACYBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.PharmacyService">
+<summary>
+  Looks up a localized string similar to PHARMACYSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.PRMService">
+<summary>
+  Looks up a localized string similar to PRMSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.QUOTEBPService">
+<summary>
+  Looks up a localized string similar to QUOTEBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.QUOTEService">
+<summary>
+  Looks up a localized string similar to QUOTESERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.RadiologyBPService">
+<summary>
+  Looks up a localized string similar to RADLOGYBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.RadiologyService">
+<summary>
+  Looks up a localized string similar to RADLOGYSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.RegistrationBPService">
+<summary>
+  Looks up a localized string similar to REGISTRATIONBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.RegistrationService">
+<summary>
+  Looks up a localized string similar to REGISTRATIONSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.TimeMngmntBPService">
+<summary>
+  Looks up a localized string similar to TimeMngmntBPService.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.TimeMngmntService">
+<summary>
+  Looks up a localized string similar to TimeMngmntService.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.WARDSBPService">
+<summary>
+  Looks up a localized string similar to WARDSBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.WARDSService">
+<summary>
+  Looks up a localized string similar to WARDSSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.WsFederationHttpBinding">
+<summary>
+  Looks up a localized string similar to WSFEDERATIONHTTPBINDING.
+</summary>
+</member>
+<member name="T:GetCacheInfoResponseDC">
+<remarks/>
+</member>
+<member name="P:GetCacheInfoResponseDC.ResultSet">
+<remarks/>
+</member>
+<member name="T:ReRegisterResponseDC">
+<remarks/>
+</member>
+<member name="P:ReRegisterResponseDC.Register">
+<remarks/>
+</member>
+<member name="T:ReRegisterRequestDC">
+<remarks/>
+</member>
+<member name="P:ReRegisterRequestDC.PollInterval">
+<remarks/>
+</member>
+<member name="T:GetAllCacheInfoRequestDC">
+<remarks/>
+</member>
+<member name="P:GetAllCacheInfoRequestDC.GetAllCacheset">
+<remarks/>
+</member>
+<member name="T:SaveCacheTablesInfoRequestDc">
+<remarks/>
+</member>
+<member name="P:SaveCacheTablesInfoRequestDc.SchemaName">
+<remarks/>
+</member>
+<member name="P:SaveCacheTablesInfoRequestDc.CacheSPName">
+<remarks/>
+</member>
+<member name="P:SaveCacheTablesInfoRequestDc.CreatedUserId">
+<remarks/>
+</member>
+<member name="T:DeleteCacheDetailsInfoRequestDC">
+<remarks/>
+</member>
+<member name="P:DeleteCacheDetailsInfoRequestDC.CacheID">
+<remarks/>
+</member>
+<member name="T:CacheDetailsInfoResponseDC">
+<remarks/>
+</member>
+<member name="P:CacheDetailsInfoResponseDC.ReturnID">
+<remarks/>
+</member>
+<member name="T:CreateCacheDetailsInfoRequestDC">
+<remarks/>
+</member>
+<member name="P:CreateCacheDetailsInfoRequestDC.SchemaName">
+<remarks/>
+</member>
+<member name="P:CreateCacheDetailsInfoRequestDC.CacheSPName">
+<remarks/>
+</member>
+<member name="P:CreateCacheDetailsInfoRequestDC.CacheKey">
+<remarks/>
+</member>
+<member name="P:CreateCacheDetailsInfoRequestDC.CreatedUserId">
+<remarks/>
+</member>
+<member name="T:GetSPListInfoRequestDC">
+<remarks/>
+</member>
+<member name="P:GetSPListInfoRequestDC.SchemaName">
+<remarks/>
+</member>
+<member name="P:GetSPListInfoRequestDC.Connectionstring">
+<remarks/>
+</member>
+<member name="T:GetPollDataInfoRequestDC">
+<remarks/>
+</member>
+<member name="P:GetPollDataInfoRequestDC.LastUpdatedTime">
+<remarks/>
+</member>
+<member name="T:GetLastUpdateInfoResponceDC">
+<remarks/>
+</member>
+<member name="P:GetLastUpdateInfoResponceDC.LastUpdatedTime">
+<remarks/>
+</member>
+<member name="T:GetRefreshCacheInfoRequestDC">
+<remarks/>
+</member>
+<member name="P:GetRefreshCacheInfoRequestDC.CacheKeySet">
+<remarks/>
+</member>
+<member name="T:OTBPConsumptionRequestDC">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.Guid">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.Action">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.IPNumber">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.PatientTypeID">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.LocationID">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.LoginId">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.UHID">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.TeamLeadID">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.DtSurgery">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.DtParticipent">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.DtEqupipment">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.PatientServiceId">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.BillingTypeId">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.BedCategoryid">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.CustomerID">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.AgreementID">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.RRchkOutTime">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.RRchkOutDate">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.RRTimeoutTime">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.RRTimeoutDate">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.OTchkOutTime">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.OTchkOutDate">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.OTTimeoutTime">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.OTTimeoutDate">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.OTID">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.RequestNo">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.OTChargeServiceID">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.OTChargeServiceTypeID">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.RecoveryRoomChargeServiceID">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.RecoveryRoomChargeServiceTypeID">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.ASAPlanId">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.FreeTextSurgery">
+<remarks/>
+</member>
+<member name="P:OTBPConsumptionRequestDC.TransStatus">
+<remarks/>
+</member>
+<member name="T:OTBPSurgicalAdviceRequestDC">
+<remarks/>
+</member>
+<member name="P:OTBPSurgicalAdviceRequestDC.Guid">
+<remarks/>
+</member>
+<member name="P:OTBPSurgicalAdviceRequestDC.Action">
+<remarks/>
+</member>
+<member name="P:OTBPSurgicalAdviceRequestDC.RegistrationNumber">
+<remarks/>
+</member>
+<member name="P:OTBPSurgicalAdviceRequestDC.PatientIdentifier">
+<remarks/>
+</member>
+<member name="P:OTBPSurgicalAdviceRequestDC.RequestFrom">
+<remarks/>
+</member>
+<member name="P:OTBPSurgicalAdviceRequestDC.PlannedDate">
+<remarks/>
+</member>
+<member name="P:OTBPSurgicalAdviceRequestDC.AdmissionNumber">
+<remarks/>
+</member>
+<member name="P:OTBPSurgicalAdviceRequestDC.LocationID">
+<remarks/>
+</member>
+<member name="P:OTBPSurgicalAdviceRequestDC.CreatedBy">
+<remarks/>
+</member>
+<member name="P:OTBPSurgicalAdviceRequestDC.CreatedOn">
+<remarks/>
+</member>
+<member name="P:OTBPSurgicalAdviceRequestDC.SurgicalAdviceId">
+<remarks/>
+</member>
+<member name="P:OTBPSurgicalAdviceRequestDC.SurgicalAdviceDetails">
+<remarks/>
+</member>
+<member name="T:OTBPPACRequestDC">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.Guid">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.Action">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.PACPhysicalExamDataId">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.ASAGradeId">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.ASAPlanId">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.PACASAGradingID">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.Height">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.HeightUnit">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.RequestHeaderID">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.Dentition">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.Thyroid">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.Spine">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.Clubbing">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.Cyanosis">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.Edema">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.Icterus">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.Lymphadenopathy">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.Pallor">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.PACstatus">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.PreOPOpinion">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.CreatedBy">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.PatientRegistrationID">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.RegistrationNo">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.PACDataset">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.LocationID">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.PatientIdentifierNumber">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.PreOPComments">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.RiskFactorId">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.RiskFactComment">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.PAC_RISKFACTOR_ID">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.MallampattigrdId">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.TMDistance">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.TMDistanceUnit">
+<remarks/>
+</member>
+<member name="P:OTBPPACRequestDC.SpfcAnaeCnIssues">
+<remarks/>
+</member>
+<member name="T:OTBPCancelRequestDC">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.Guid">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.Action">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.SurAdvID">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.IPNumber">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.SpecialityID">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.PatientTypeID">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.Duration">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.PlannedDur">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.PlannedSrTime">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.PlannedEndTime">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.PlannedDate">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.PlannedOTID">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.LocationID">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.LoginId">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.RequestPriority">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.OpNumber">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.Ern">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.AppointmentID">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.ProcedureRequestNo">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.UHID">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.TeamLeadID">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.SurgeryData">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.PatientServiceId">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.BillingTypeId">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.BedCategoryid">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.CustomerID">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.AgreementID">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.ReasonForCancellation">
+<remarks/>
+</member>
+<member name="P:OTBPCancelRequestDC.OtherDetails">
+<remarks/>
+</member>
+<member name="T:OTBPRaiseRequestDC">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.Guid">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.Action">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.SurAdvID">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.IPNumber">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.SpecialityID">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.PatientTypeID">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.Duration">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.PlannedDur">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.PlannedSrTime">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.PlannedEndTime">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.PlannedDate">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.PlannedOTID">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.LocationID">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.LoginId">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.RequestPriority">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.OpNumber">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.Ern">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.AppointmentID">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.ProcedureRequestNo">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.UHID">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.TeamLeadID">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.SurgeryData">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.TeamData">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.EquipData">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.PatientServiceId">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.BillingTypeId">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.BedCategoryid">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.CustomerID">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.AgreementID">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.PlannedEndDate">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.BedSideProcedure">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.RequestNo">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.OTBookingChargeReqdFlag">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.FreeTextSurgery">
+<remarks/>
+</member>
+<member name="P:OTBPRaiseRequestDC.ProcReqType">
+<remarks/>
+</member>
+<member name="T:OTBPBedSideConsumptionRequestDC">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.Guid">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.Action">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.IPNumber">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.PatientTypeID">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.LocationID">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.LoginId">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.UHID">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.TeamLeadID">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.DtSurgery">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.DtParticipent">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.DtEqupipment">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.PatientServiceId">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.BillingTypeId">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.BedCategoryid">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.CustomerID">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.AgreementID">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.OTchkOutTime">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.OTchkOutDate">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.OTTimeoutTime">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.OTTimeoutDate">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.RequestNo">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.AnaesthesianNotes">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.SurgeonNotes">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.RRTimeoutDate">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.RRchkOutDate">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.RRTimeoutTime">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.RRchkOutTime">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.RecoveryRoomChargeServiceID">
+<remarks/>
+</member>
+<member name="P:OTBPBedSideConsumptionRequestDC.RecoveryRoomChargeServiceTypeID">
+<remarks/>
+</member>
+<member name="T:OTBPResponseDC">
+<remarks/>
+</member>
+<member name="P:OTBPResponseDC.CorrelationID">
+<remarks/>
+</member>
+<member name="P:OTBPResponseDC.RetCode">
+<remarks/>
+</member>
+<member name="P:OTBPResponseDC.RetCodeSpecified">
+<remarks/>
+</member>
+<member name="P:OTBPResponseDC.ErrorMessage">
+<remarks/>
+</member>
+<member name="P:OTBPResponseDC.Response">
+<remarks/>
+</member>
+<member name="P:OTBPResponseDC.Resultset">
+<remarks/>
+</member>
+<member name="T:OTRaiseRequestDC">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.Guid">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.Action">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.SurAdvID">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.IPNumber">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.SpecialityID">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.PatientTypeID">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.Duration">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.PlannedDur">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.PlannedSrTime">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.PlannedEndTime">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.PlannedDate">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.PlannedOTID">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.LocationID">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.LoginId">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.RequestPriority">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.OpNumber">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.Ern">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.AppointmentID">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.ProcedureRequestNo">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.UHID">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.TeamLeadID">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.SurgeryData">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.TeamData">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.EquipData">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.PatientServiceId">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.BillingTypeId">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.BedCategoryid">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.CustomerID">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.AgreementID">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.PlannedEndDate">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.BedSideProcedure">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.BillNo">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.RequestNo">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.RequestNoDatatable">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.OTBookingChargeReqdFlag">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.FreeTextSurgery">
+<remarks/>
+</member>
+<member name="P:OTRaiseRequestDC.ProcReqType">
+<remarks/>
+</member>
+<member name="T:OTSurgicalAdviceRequestDC">
+<remarks/>
+</member>
+<member name="P:OTSurgicalAdviceRequestDC.Guid">
+<remarks/>
+</member>
+<member name="P:OTSurgicalAdviceRequestDC.Action">
+<remarks/>
+</member>
+<member name="P:OTSurgicalAdviceRequestDC.RegistrationNumber">
+<remarks/>
+</member>
+<member name="P:OTSurgicalAdviceRequestDC.PatientIdentifier">
+<remarks/>
+</member>
+<member name="P:OTSurgicalAdviceRequestDC.RequestFrom">
+<remarks/>
+</member>
+<member name="P:OTSurgicalAdviceRequestDC.PlannedDate">
+<remarks/>
+</member>
+<member name="P:OTSurgicalAdviceRequestDC.AdmissionNumber">
+<remarks/>
+</member>
+<member name="P:OTSurgicalAdviceRequestDC.LocationID">
+<remarks/>
+</member>
+<member name="P:OTSurgicalAdviceRequestDC.CreatedBy">
+<remarks/>
+</member>
+<member name="P:OTSurgicalAdviceRequestDC.CreatedOn">
+<remarks/>
+</member>
+<member name="P:OTSurgicalAdviceRequestDC.SurgicalAdviceId">
+<remarks/>
+</member>
+<member name="P:OTSurgicalAdviceRequestDC.SurgicalAdviceDetails">
+<remarks/>
+</member>
+<member name="T:OTPACRequestDC">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.Guid">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.Action">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.PACPhysicalExamDataId">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.ASAGradeId">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.ASAPlanId">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.PACASAGradingID">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.Height">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.HeightUnit">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.RequestHeaderID">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.Dentition">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.Thyroid">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.Spine">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.Clubbing">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.Cyanosis">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.Edema">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.Icterus">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.Lymphadenopathy">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.Pallor">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.PACstatus">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.PreOPOpinion">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.CreatedBy">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.PACDataset">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.PreOPComments">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.RiskFactorId">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.RiskFactComment">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.PAC_RISKFACTOR_ID">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.MallampattigrdId">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.TMDistance">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.TMDistanceUnit">
+<remarks/>
+</member>
+<member name="P:OTPACRequestDC.SpfcAnaeCnIssues">
+<remarks/>
+</member>
+<member name="T:OTCancelRequestDC">
+<remarks/>
+</member>
+<member name="P:OTCancelRequestDC.Guid">
+<remarks/>
+</member>
+<member name="P:OTCancelRequestDC.Action">
+<remarks/>
+</member>
+<member name="P:OTCancelRequestDC.ProcedureRequestNo">
+<remarks/>
+</member>
+<member name="P:OTCancelRequestDC.ReasonForCancellation">
+<remarks/>
+</member>
+<member name="P:OTCancelRequestDC.CancelledBY">
+<remarks/>
+</member>
+<member name="P:OTCancelRequestDC.LocationID">
+<remarks/>
+</member>
+<member name="P:OTCancelRequestDC.patientIdentifier">
+<remarks/>
+</member>
+<member name="P:OTCancelRequestDC.surgeryDetails">
+<remarks/>
+</member>
+<member name="P:OTCancelRequestDC.otherDetails">
+<remarks/>
+</member>
+<member name="T:OTBedSideConsumptionRequestDC">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.Guid">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.Action">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.IPNumber">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.PatientTypeID">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.LocationID">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.LoginId">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.UHID">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.TeamLeadID">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.DtSurgery">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.DtParticipent">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.DtEqupipment">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.PatientServiceId">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.BillingTypeId">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.BedCategoryid">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.CustomerID">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.AgreementID">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.OTchkOutTime">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.OTchkOutDate">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.OTTimeoutTime">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.OTTimeoutDate">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.RequestNo">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.AnaesthesianNotes">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.SurgeonNotes">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.RRTimeoutDate">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.RRchkOutDate">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.RRTimeoutTime">
+<remarks/>
+</member>
+<member name="P:OTBedSideConsumptionRequestDC.RRchkOutTime">
+<remarks/>
+</member>
+<member name="T:OTConsumptionRequestDC">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.Guid">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.Action">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.IPNumber">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.PatientTypeID">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.LocationID">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.LoginId">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.UHID">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.TeamLeadID">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.DtSurgery">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.DtParticipent">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.DtEqupipment">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.PatientServiceId">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.BillingTypeId">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.BedCategoryid">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.CustomerID">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.AgreementID">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.RRchkOutTime">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.RRchkOutDate">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.RRTimeoutTime">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.RRTimeoutDate">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.OTchkOutTime">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.OTchkOutDate">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.OTTimeoutTime">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.OTTimeoutDate">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.OTID">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.RequestNo">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.ASAPlanId">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.FreeTextSurgery">
+<remarks/>
+</member>
+<member name="P:OTConsumptionRequestDC.TransStatus">
+<remarks/>
+</member>
+<member name="T:OTResponseDC">
+<remarks/>
+</member>
+<member name="P:OTResponseDC.CorrelationID">
+<remarks/>
+</member>
+<member name="P:OTResponseDC.RetCode">
+<remarks/>
+</member>
+<member name="P:OTResponseDC.RetCodeSpecified">
+<remarks/>
+</member>
+<member name="P:OTResponseDC.ErrorMessage">
+<remarks/>
+</member>
+<member name="P:OTResponseDC.Response">
+<remarks/>
+</member>
+<member name="P:OTResponseDC.Resultset">
+<remarks/>
+</member>
+<member name="T:PayrollBPRequestDC">
+<remarks/>
+</member>
+<member name="P:PayrollBPRequestDC.guid">
+<remarks/>
+</member>
+<member name="P:PayrollBPRequestDC.requestXML">
+<remarks/>
+</member>
+<member name="T:PayrollBPResponseDC">
+<remarks/>
+</member>
+<member name="P:PayrollBPResponseDC.result">
+<remarks/>
+</member>
+<member name="P:PayrollBPResponseDC.resultset">
+<remarks/>
+</member>
+<member name="T:PayrollRequestDC">
+<remarks/>
+</member>
+<member name="P:PayrollRequestDC.guid">
+<remarks/>
+</member>
+<member name="P:PayrollRequestDC.requestXML">
+<remarks/>
+</member>
+<member name="T:PayrollResponseDC">
+<remarks/>
+</member>
+<member name="P:PayrollResponseDC.result">
+<remarks/>
+</member>
+<member name="P:PayrollResponseDC.resultset">
+<remarks/>
+</member>
+<member name="T:PRMRequestDC">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.UHID">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.LOCATIONID">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.LOCATIONIDSpecified">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.NatureOfFeedback">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.NatureOfFeedbackSpecified">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.FeedbackStatus">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.FeedbackStatusSpecified">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.DepartmentID">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.DepartmentIDSpecified">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.FeedbackID">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.FeedbackIDSpecified">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.LoginID">
+<remarks/>
+</member>
+<member name="P:PRMRequestDC.LoginIDSpecified">
+<remarks/>
+</member>
+<member name="T:PRMResponseDC">
+<remarks/>
+</member>
+<member name="P:PRMResponseDC.CorrelationID">
+<remarks/>
+</member>
+<member name="P:PRMResponseDC.RetCode">
+<remarks/>
+</member>
+<member name="P:PRMResponseDC.RetCodeSpecified">
+<remarks/>
+</member>
+<member name="P:PRMResponseDC.ErrorMessage">
+<remarks/>
+</member>
+<member name="P:PRMResponseDC.Response">
+<remarks/>
+</member>
+<member name="P:PRMResponseDC.Resultset">
+<remarks/>
+</member>
+<member name="P:PRMResponseDC.ResultTable">
+<remarks/>
+</member>
+<member name="T:RadiologyBPRequestDC">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.PATIENTNO">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.UHID">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.PATIENTTYPE">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.LOCATIONID">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.CENTERID">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.CENTERIDSpecified">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.CAMPID">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.CAMPIDSpecified">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.AGENCYID">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.AGENCYIDSpecified">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.REQUESTID">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.REQUESTIDSpecified">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.CREATEDBY">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.DTBLREQUESTDTLS">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.DETAILTABLE">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.DOCTORID">
+<remarks/>
+</member>
+<member name="P:RadiologyBPRequestDC.DOCTORIDSpecified">
+<remarks/>
+</member>
+<member name="T:RadiologyBPResponseDC">
+<remarks/>
+</member>
+<member name="P:RadiologyBPResponseDC.CorrelationID">
+<remarks/>
+</member>
+<member name="P:RadiologyBPResponseDC.RetCode">
+<remarks/>
+</member>
+<member name="P:RadiologyBPResponseDC.RetCodeSpecified">
+<remarks/>
+</member>
+<member name="P:RadiologyBPResponseDC.ErrorMessage">
+<remarks/>
+</member>
+<member name="P:RadiologyBPResponseDC.Response">
+<remarks/>
+</member>
+<member name="P:RadiologyBPResponseDC.Resultset">
+<remarks/>
+</member>
+<member name="T:RadiologyRequestDC">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.PATIENTNO">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.UHID">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.PATIENTTYPE">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.LOCATIONID">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.CENTERID">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.CAMPID">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.AGENCYID">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.REQUESTID">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.CREATEDBY">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.REQUESTDTLID">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.UPDATEDBY">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.FLAG">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.DRN">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.COMMENTS">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.EQUIPMENTID">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.CONSENTPATH">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.EMPLOYEEID">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.DOSE">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.BADGEISSUEDATE">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.DOSAGECAPTUREDATE">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.BADGNO">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.STATUSID">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.STATUSTIMESTAMP">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.COLLECTEDBY">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.REPORTEDFLAG">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.REPORTEDBY">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.SERVICENAME">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.REPORTED2NDBY">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.STATUS">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.REFERREDTO">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.DETAILTABLE">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.DTBLREQUESTDTLS">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.ADMISSIONNO">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.REPORTED3rdBY">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.REPORTED4thBY">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.doctorname">
+<remarks/>
+</member>
+<member name="P:RadiologyRequestDC.templatename">
+<remarks/>
+</member>
+<member name="T:RadiologyResponseDC">
+<remarks/>
+</member>
+<member name="P:RadiologyResponseDC.CorrelationID">
+<remarks/>
+</member>
+<member name="P:RadiologyResponseDC.RetCode">
+<remarks/>
+</member>
+<member name="P:RadiologyResponseDC.RetCodeSpecified">
+<remarks/>
+</member>
+<member name="P:RadiologyResponseDC.ErrorMessage">
+<remarks/>
+</member>
+<member name="P:RadiologyResponseDC.Response">
+<remarks/>
+</member>
+<member name="P:RadiologyResponseDC.Resultset">
+<remarks/>
+</member>
+</members>
+</doc>

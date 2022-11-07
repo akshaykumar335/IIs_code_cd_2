@@ -1,0 +1,74 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHISDateFormat
+</name>
+</assembly>
+<members>
+<member name="T:eHISDateFormat.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHISDateFormat.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHISDateFormat.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHISDateFormat.eHISDateFormat.eHISDate.FormatDate(System.String)">
+ <summary>
+ Takes the date in "dd/MM/yyyy" format and returns date object
+ </summary>
+ <param name="inputStr">Date string in "dd/MM/yyyy" format</param>
+ <returns>DateTime object</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHISDateFormat.eHISDateFormat.eHISDate.MONFormatDate(System.String)">
+ <summary>
+ Takes the date in "dd/MM/yyyy" format and returns date in string format "dd-MON-yyyy"
+ </summary>
+ <param name="inputStr">Date string in "dd/MM/yyyy" format</param>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHISDateFormat.eHISDateFormat.eHISDate.DOBDATE(System.String)">
+ <summary>
+ Takes the date in "dd/MM/yyyy" format and returns date in string format "dd-MON-yyyy HH:mm:ss tt"
+ </summary>
+ <param name="inputStr">Date string in "dd/MM/yyyy" format</param>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHISDateFormat.eHISDateFormat.eHISDate.MONReverseDateFormat(System.String)">
+ <summary>
+ Takes the date in "dd-MON-yyyy" format and returns date in string format "dd/MM/yyyy". Truncates the time part if given.
+ </summary>
+ <param name="inputStr">Date string in "dd/MM/yyyy" format</param>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHISDateFormat.eHISDateFormat.eHISDate.MONReverseDateFormatWITHTIME(System.String)">
+ <summary>
+ Takes the date in "dd-MON-yyyy" format and returns date in string format "dd/MM/yyyy". Appends the time part if not given.
+ </summary>
+ <param name="inputStr">Date string in "dd/MM/yyyy" format</param>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHISDateFormat.eHISDateFormat.eHISDate.ReverseDateFormat(System.String)">
+ <summary>
+ Takes the date in "dd/MM/yyyy" format and returns date in string format "MM/dd/yyyy", and vice versa
+ </summary>
+ <param name="inputStr">Date string in "dd/MM/yyyy" format</param>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

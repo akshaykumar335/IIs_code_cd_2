@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.CRM.Business
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.CRM.Business.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Business.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Business.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.CRM.Business.ApprovalServiceProvider.ApproveOpportunityProcess(System.String,System.String@,System.String)">
+ <summary>
+ This method contains functionality for merging of UHID'sapproval process
+ </summary>
+ <param name="requestXml"></param>
+ <param name="responseXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Business.ApprovalServiceProvider.ApprovingProcess(System.String,System.String@,System.String)">
+ <summary>
+ This method contains functionality for updating the Approval Status
+ </summary>
+ <param name="requestXml"></param>
+ <param name="responseXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Business.ApprovalServiceProvider.ApproveCampaignProcess(System.String,System.String@,System.String)">
+ <summary>
+ This method contains functionality for delinking of UHID's approval process
+ </summary>
+ <param name="requestXml"></param>
+ <param name="responseXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

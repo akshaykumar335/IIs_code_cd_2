@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="TransferRequest" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="TransferRequest" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Transfer">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OccupiedBeds" type="xs:string" minOccurs="0" msdata:Ordinal="0" />
+              <xs:element name="VacantBeds" type="xs:string" minOccurs="0" msdata:Ordinal="1" />
+              <xs:element name="PreviousBed" type="xs:string" minOccurs="0" msdata:Ordinal="2" />
+            </xs:sequence>
+            <xs:attribute name="Remarks" type="xs:string" />
+            <xs:attribute name="EligibleTariffCategoryID" type="xs:string" />
+            <xs:attribute name="RequestedBedCategoryID" type="xs:string" />
+            <xs:attribute name="BillableTariffCategoryID" type="xs:string" />
+            <xs:attribute name="InPatientNo" type="xs:string" />
+            <xs:attribute name="ReasonForTransfer" type="xs:string" />
+            <xs:attribute name="TransferType" type="xs:string" />
+            <xs:attribute name="DateOfTransfer" type="xs:string" />
+            <xs:attribute name="DateOfRequest" type="xs:string" />
+            <xs:attribute name="TransferInitiatedBy" type="xs:string" />
+            <xs:attribute name="AdmittingDoctor" type="xs:string" />
+            <xs:attribute name="PrimaryPhysician" type="xs:string" />
+            <xs:attribute name="CategoryFrom" type="xs:string" />
+            <xs:attribute name="CategoryTo" type="xs:string" />
+            <xs:attribute name="BedIDFrom" type="xs:string" />
+            <xs:attribute name="BedIDTo" type="xs:string" />
+            <xs:attribute name="TransferingNurse" type="xs:string" />
+            <xs:attribute name="ReceivingNurse" type="xs:string" />
+            <xs:attribute name="ActualDateOfTransfer" type="xs:string" />
+            <xs:attribute name="CancellationDate" type="xs:string" />
+            <xs:attribute name="ReasonForCancellation" type="xs:string" />
+            <xs:attribute name="NeedEquipment" type="xs:string" />
+            <xs:attribute name="Equipment" type="xs:string" />
+            <xs:attribute name="NeedEscort" type="xs:string" />
+            <xs:attribute name="Escort" type="xs:string" />
+            <xs:attribute name="NeedTransportation" type="xs:string" />
+            <xs:attribute name="NeedAuthorization" type="xs:string" />
+            <xs:attribute name="Transportation" type="xs:string" />
+            <xs:attribute name="TypeofPatient" type="xs:string" />
+            <xs:attribute name="LocationID" type="xs:string" />
+            <xs:attribute name="LoginID" type="xs:string" />
+            <xs:attribute name="BillableTariffCategoryName" type="xs:string" />
+            <xs:attribute name="EligibleTariffCategoryName" type="xs:string" />
+            <xs:attribute name="RequestedBedCategoryName" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ActionRequest">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Target" type="xs:string" minOccurs="0" />
+              <xs:element name="Identifier" type="xs:string" minOccurs="0" />
+              <xs:element name="LoginID" type="xs:string" minOccurs="0" />
+              <xs:element name="Action" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

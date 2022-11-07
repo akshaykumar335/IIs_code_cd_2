@@ -1,0 +1,722 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Pharmacy.Business.Process
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.AddAdjustmentTag">
+<summary>
+  Looks up a localized string similar to ADJUSTMENTREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.AddCountItemData">
+<summary>
+  Looks up a localized string similar to AddCountItemData.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.AddCycleCountData">
+<summary>
+  Looks up a localized string similar to AddCycleCountData.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.AddGoodsReturnToVendor">
+<summary>
+  Looks up a localized string similar to AddGoodsReturnToVendor.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.ADDGRNDetails">
+<summary>
+  Looks up a localized string similar to ADDGRNDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.AddIndents">
+<summary>
+  Looks up a localized string similar to AddIndents.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.ADDInspectionDetails">
+<summary>
+  Looks up a localized string similar to ADDInspectionDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.ADDInvoiceDetails">
+<summary>
+  Looks up a localized string similar to ADDInvoiceDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.AddIssue">
+<summary>
+  Looks up a localized string similar to AddIssue.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.AddPO">
+<summary>
+  Looks up a localized string similar to AddPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.ADDPOAmendementDetails">
+<summary>
+  Looks up a localized string similar to ADDPOAmendementDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.AddPOPR">
+<summary>
+  Looks up a localized string similar to AddPOPR.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.ADDPrDetails">
+<summary>
+  Looks up a localized string similar to ADDPrDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.AddQuotationItemTag">
+<summary>
+  Looks up a localized string similar to QUOTATIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.AddReceiveItemTag">
+<summary>
+  Looks up a localized string similar to RECEIVEITEMREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.AddRFQ">
+<summary>
+  Looks up a localized string similar to AddRFQ.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.ADDSRVDetails">
+<summary>
+  Looks up a localized string similar to ADDSRVDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.BatchSerialItems">
+<summary>
+  Looks up a localized string similar to BatchSerialItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.BatchSerialReturnAcknowledge">
+<summary>
+  Looks up a localized string similar to BatchSerialReturnAcknowledge.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.DETAILS">
+<summary>
+  Looks up a localized string similar to DETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GatePassAgainstDetails">
+<summary>
+  Looks up a localized string similar to GatePassAgainstDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GatePassDetails">
+<summary>
+  Looks up a localized string similar to GatePassDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GatePassPOVendorDetails">
+<summary>
+  Looks up a localized string similar to GatePassPOVendorDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetAllVendors">
+<summary>
+  Looks up a localized string similar to GetAllVendors.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetBatchSerial">
+<summary>
+  Looks up a localized string similar to GetBatchSerial.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetConsignmentEntryDetailsTag">
+<summary>
+  Looks up a localized string similar to CONSIGNMENTENTRYRECEIPT.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetConsignmentEntryReceiptDetailsTag">
+<summary>
+  Looks up a localized string similar to GETCONSIGNMENTENTRYDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetConsignmentPODetailsTag">
+<summary>
+  Looks up a localized string similar to ADDCONSIGNMENTPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetConsignmentPRDetailsTag">
+<summary>
+  Looks up a localized string similar to ADDCONSIGNMENTPR.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetConsignmentPRItemDetailsTag">
+<summary>
+  Looks up a localized string similar to CONSIGNMENTPRDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetConsignmentPRSearchDetailTag">
+<summary>
+  Looks up a localized string similar to GETCONSIGNMENTPRCODEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetConsignmentSearchDetailTag">
+<summary>
+  Looks up a localized string similar to GETCONSIGNMENTCODEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetContractItems">
+<summary>
+  Looks up a localized string similar to GetContractItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetContractPopUp">
+<summary>
+  Looks up a localized string similar to GetContractPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetCostCeneterCode">
+<summary>
+  Looks up a localized string similar to GetCostCeneterCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetCount">
+<summary>
+  Looks up a localized string similar to GetCountDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetCountItems">
+<summary>
+  Looks up a localized string similar to GetCountItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetDetails">
+<summary>
+  Looks up a localized string similar to GETDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetGRNCode">
+<summary>
+  Looks up a localized string similar to GetGRNCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetGRNDetails">
+<summary>
+  Looks up a localized string similar to GetGRNDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetIndent">
+<summary>
+  Looks up a localized string similar to GetIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetInspectionCode">
+<summary>
+  Looks up a localized string similar to GetInspectionCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetInspectionDetails">
+<summary>
+  Looks up a localized string similar to GetInspectionDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetIssueCodeDetails">
+<summary>
+  Looks up a localized string similar to GETISSUECODEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetIssuedetails">
+<summary>
+  Looks up a localized string similar to GetIssuedetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetIssueDetailsTag">
+<summary>
+  Looks up a localized string similar to ISSUEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetIssueForIndent">
+<summary>
+  Looks up a localized string similar to GetIssueForIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetIssueSearchTag">
+<summary>
+  Looks up a localized string similar to ISSUESEARCHDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetItemCategeroy">
+<summary>
+  Looks up a localized string similar to GetItemCategeroy.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetItemCategeroy1">
+<summary>
+  Looks up a localized string similar to GetItemCategeroy1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetItemCategeroy2">
+<summary>
+  Looks up a localized string similar to GetItemCategeroy2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetItemCategeroy3">
+<summary>
+  Looks up a localized string similar to GetItemCategeroy3.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetItemCodeTag">
+<summary>
+  Looks up a localized string similar to BATCHSERIALPROCESS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetItemLookUpIndent">
+<summary>
+  Looks up a localized string similar to GetItemLookUpIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetItemLookUpStore">
+<summary>
+  Looks up a localized string similar to GetItemLookUpStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetItems">
+<summary>
+  Looks up a localized string similar to GETITEMS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetItemSearchTag">
+<summary>
+  Looks up a localized string similar to SEARCHDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetItemSearchTag1">
+<summary>
+  Looks up a localized string similar to SEARCHDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetMasterDetails">
+<summary>
+  Looks up a localized string similar to LOADMASTERDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetParentStoreCode">
+<summary>
+  Looks up a localized string similar to GetParentStoreCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetPayTermPopUp">
+<summary>
+  Looks up a localized string similar to GetPayTermPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetPOAmendementPODetails">
+<summary>
+  Looks up a localized string similar to GetPOAmendementPODetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetPODropDownValues">
+<summary>
+  Looks up a localized string similar to GetPODropDownValues.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetPONo">
+<summary>
+  Looks up a localized string similar to GetPONo.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetPOPRItems">
+<summary>
+  Looks up a localized string similar to GetPOPRItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetPOVendorSearchDetailsTag">
+<summary>
+  Looks up a localized string similar to GETPOVENDORSPOPUP.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GETPRDetails">
+<summary>
+  Looks up a localized string similar to GETPRDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetQuantityScheduleDetailsTag">
+<summary>
+  Looks up a localized string similar to GETQUANTITYSCHEDULEDETALS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetQuotationItems">
+<summary>
+  Looks up a localized string similar to GetQuotationItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetQuotationPopUp">
+<summary>
+  Looks up a localized string similar to GetQuotationPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetRateContractDetailsTag">
+<summary>
+  Looks up a localized string similar to ADDRATECONTRACT.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetReceiveCodeDetails">
+<summary>
+  Looks up a localized string similar to GETRECEIPTSCODEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetReceivedetails">
+<summary>
+  Looks up a localized string similar to GetReceivedetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetReceiveItemCodeTag">
+<summary>
+  Looks up a localized string similar to RECEIVEBATCHSERIAL.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetReturnCodeDetails">
+<summary>
+  Looks up a localized string similar to GETRETURNCODEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetReturndetails">
+<summary>
+  Looks up a localized string similar to GetReturndetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetRFQDetailsTag">
+<summary>
+  Looks up a localized string similar to GETRFQDETAILSEARCH.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetRFQPopUp">
+<summary>
+  Looks up a localized string similar to GetRFQPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetRFQSearchDetailsTag">
+<summary>
+  Looks up a localized string similar to GetRFQDetailsTag.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetSRVCode">
+<summary>
+  Looks up a localized string similar to GetSRVCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetSRVDetails">
+<summary>
+  Looks up a localized string similar to GetSRVDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetStatus">
+<summary>
+  Looks up a localized string similar to GetStatus.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetStoreDetailsSearchTag">
+<summary>
+  Looks up a localized string similar to STORESEARCH.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetStoreHomePage">
+<summary>
+  Looks up a localized string similar to GetStoreHomePage.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetStoreOnLogin">
+<summary>
+  Looks up a localized string similar to GetStoreOnLogin.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetStoreType">
+<summary>
+  Looks up a localized string similar to GetStoreType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetSubstitutes">
+<summary>
+  Looks up a localized string similar to GetSubstitutes.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetTaxPopUp">
+<summary>
+  Looks up a localized string similar to GetTaxPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetUOMConversion">
+<summary>
+  Looks up a localized string similar to GetUOMConversion.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetVendorComparison">
+<summary>
+  Looks up a localized string similar to GetVendorComparison.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetVendorDetailsPO">
+<summary>
+  Looks up a localized string similar to GetVendorDetailsPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetVendorItemsPO">
+<summary>
+  Looks up a localized string similar to GetVendorItemsPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GetVendorPopUp">
+<summary>
+  Looks up a localized string similar to GetVendorPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.GRNPODetails">
+<summary>
+  Looks up a localized string similar to GRNPODetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.IndentSearch">
+<summary>
+  Looks up a localized string similar to IndentSearch.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.Issuecode">
+<summary>
+  Looks up a localized string similar to Issuecode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.Materialbatchserial">
+<summary>
+  Looks up a localized string similar to Materialbatchserial.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.MateriallCode">
+<summary>
+  Looks up a localized string similar to MateriallCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.MateriallRecallItems">
+<summary>
+  Looks up a localized string similar to MateriallRecallItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.MaterialRecall">
+<summary>
+  Looks up a localized string similar to MaterialRecall.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.NoData">
+<summary>
+  Looks up a localized string similar to There are no records.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.PRSearch">
+<summary>
+  Looks up a localized string similar to PRSearch.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.PRShedule">
+<summary>
+  Looks up a localized string similar to PRShedule.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.PRType">
+<summary>
+  Looks up a localized string similar to PRType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.PurchaseDetails">
+<summary>
+  Looks up a localized string similar to PurchaseDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QueryDepartment">
+<summary>
+  Looks up a localized string similar to QueryDepartment.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.queryErrorTag">
+<summary>
+  Looks up a localized string similar to QueryErrorTag.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QueryFromDept">
+<summary>
+  Looks up a localized string similar to QueryFromDept.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QueryIndents">
+<summary>
+  Looks up a localized string similar to QueryIndents.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QueryIndentType">
+<summary>
+  Looks up a localized string similar to QueryIndentType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QueryItemSearch">
+<summary>
+  Looks up a localized string similar to QueryItemSearch.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QueryMainCategory">
+<summary>
+  Looks up a localized string similar to QueryMainCategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QueryMaterialProfile">
+<summary>
+  Looks up a localized string similar to QueryMaterialProfile.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QueryProfileChange">
+<summary>
+  Looks up a localized string similar to QueryProfileChange.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QueryStore">
+<summary>
+  Looks up a localized string similar to QueryStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QuerySubCategory">
+<summary>
+  Looks up a localized string similar to QuerySubCategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QuerySubCategory2">
+<summary>
+  Looks up a localized string similar to QuerySubCategory2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QuerySubCategory3">
+<summary>
+  Looks up a localized string similar to QuerySubCategory3.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QuerySystemGeneratedIndent">
+<summary>
+  Looks up a localized string similar to QuerySystemGeneratedIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.QueryToStore">
+<summary>
+  Looks up a localized string similar to QueryToStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.RecallItems">
+<summary>
+  Looks up a localized string similar to RecallItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.ReceiveBatchSerialItems">
+<summary>
+  Looks up a localized string similar to RECEIVEBATCHSERIALITEMS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.ReturnAcknowledge">
+<summary>
+  Looks up a localized string similar to ReturnAcknowledge.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.ReturnDetails">
+<summary>
+  Looks up a localized string similar to ReturnDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.ReturnItems">
+<summary>
+  Looks up a localized string similar to ReturnItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.SRVDetails">
+<summary>
+  Looks up a localized string similar to SRVDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.UserIndentDetailsTag">
+<summary>
+  Looks up a localized string similar to USERINDENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.eHISProcessorResources.WithoutBatchSerialItems">
+<summary>
+  Looks up a localized string similar to WithoutBatchSerialItems.
+</summary>
+</member>
+<member name="T:eHIS.Pharmacy.Business.Process.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.Process.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.Pharmacy.Business.Process.ActionProcessor.ProcessQuery(eHIS.Pharmacy.Utility.Entities.ActionRequest,System.String,System.String@)">
+ <summary>
+ This method is called for processing query like serializing the response
+ </summary>
+ <param name="requestXml"></param>
+ <param name="responseXml"></param>
+ <returns>Integer</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Business.Process.PharmacyResponseProcessor.SerializeObject">
+ <summary>
+ This method is used for Serializing Object
+ </summary>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Business.Process.PharmacyResponseProcessor.ProcessResponse(System.String)">
+ <summary>
+ This method is used for Processing the Response
+ </summary>
+ <param name="masterXml"></param>
+ <returns>Integer</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Business.Process.PharmacyResponseProcessor.SendResponse(System.String,System.String)">
+ <summary>
+ This method is used for sending the response
+ </summary>
+ <returns>Integer</returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Pharmacy.Business.Process.PharmacyResponseProcessor.DeserializeObject(System.String)">
+ <summary>
+ This method is used for Deserializing Object
+ </summary>
+ <param name="xmlInput"></param>
+ <returns>RegistrationResponseProcessor</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

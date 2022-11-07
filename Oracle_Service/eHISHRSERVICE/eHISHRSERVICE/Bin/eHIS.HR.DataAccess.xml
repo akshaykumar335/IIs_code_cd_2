@@ -1,0 +1,302 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.HR.DataAccess
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.HR.DataAccess.My.Resources.DataAccessResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetCOAStructureDetails">
+<summary>
+  Looks up a localized string similar to P_GETCOASTRUCTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetCOAStructureMaster">
+<summary>
+  Looks up a localized string similar to P_Getcoastrucmaster.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetCounter">
+<summary>
+  Looks up a localized string similar to P_GETCOUNTER.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetDepartments">
+<summary>
+  Looks up a localized string similar to P_GETDEPARTMENTS.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetDoctors">
+<summary>
+  Looks up a localized string similar to p_getdoctors .
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GETDOCTORSALPHABETIC">
+<summary>
+  Looks up a localized string similar to P_GET_DOCTORS_ALPHABETIC.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetDoctorsonGenderLang">
+<summary>
+  Looks up a localized string similar to P_getAhcDoctors.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetDoctorSpecializations">
+<summary>
+  Looks up a localized string similar to p_getdoctorspecializations .
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetDrivers">
+<summary>
+  Looks up a localized string similar to P_GETDRIVERS.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetDrShift">
+<summary>
+  Looks up a localized string similar to p_getdrshiftcounter.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetDutyRoasterEmpList">
+<summary>
+  Looks up a localized string similar to p_getdutyroasteremployeelist.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeAdminDetails">
+<summary>
+  Looks up a localized string similar to P_GetEmployeeAdminDetails.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeCategory">
+<summary>
+  Looks up a localized string similar to p_getemployeecategory .
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeCounterAssignment">
+<summary>
+  Looks up a localized string similar to p_getemployeecntassment.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeDepartmentDetails">
+<summary>
+  Looks up a localized string similar to P_GetEmployeeDepartmentDetails.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeDescription">
+<summary>
+  Looks up a localized string similar to p_getemployeedescription.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeDesignation">
+<summary>
+  Looks up a localized string similar to P_GETEMPLOYEEDESIGNATION.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeDetails">
+<summary>
+  Looks up a localized string similar to P_GETEMPLOYEEDETAILS1.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeGradeOnCategroy">
+<summary>
+  Looks up a localized string similar to p_getempgradeoncategory .
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeList">
+<summary>
+  Looks up a localized string similar to P_GETEMPLOYEESLIST.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeMainDetails">
+<summary>
+  Looks up a localized string similar to P_GETEMPLOYEEMAINDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeePositionOnGrade">
+<summary>
+  Looks up a localized string similar to p_getemppositionongrade.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeShiftStatus">
+<summary>
+  Looks up a localized string similar to p_getemployeeshiftstatus .
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeesOnRole">
+<summary>
+  Looks up a localized string similar to P_GETEMPLOYEEROLES.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeSubCategoryDetails">
+<summary>
+  Looks up a localized string similar to P_GETEMPSUBCATEGORYDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeType">
+<summary>
+  Looks up a localized string similar to p_getemployeetype .
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmployeeUHIDDetails">
+<summary>
+  Looks up a localized string similar to p_GetEmployeeUHIDDetails.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmplyeesOnService">
+<summary>
+  Looks up a localized string similar to p_Getemployeelistonservice.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmpResourceListOnItem">
+<summary>
+  Looks up a localized string similar to p_GetemplistonResourceItem.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetEmyMedicalTeam">
+<summary>
+  Looks up a localized string similar to P_GETEMYMEDICALTEAM.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetLocationDepartments">
+<summary>
+  Looks up a localized string similar to p_getlocationdepartments.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetLocationResourceLanguages">
+<summary>
+  Looks up a localized string similar to P_GETEMPLOYEELANGUAGEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetLocations">
+<summary>
+  Looks up a localized string similar to P_Getregionmappingmaster.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetMaxLoanAmt">
+<summary>
+  Looks up a localized string similar to payroll.p_getmaxloanamt.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetNotSettledEmployeesForTransfer">
+<summary>
+  Looks up a localized string similar to p_get_transfer_not_settled.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetNurses">
+<summary>
+  Looks up a localized string similar to p_getnurses .
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetQulaifications">
+<summary>
+  Looks up a localized string similar to p_getqualificationmaster .
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetRegions">
+<summary>
+  Looks up a localized string similar to p_getregionmaster.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetResourcesOnServiceID">
+<summary>
+  Looks up a localized string similar to P_GETprivilegemapping.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetRoleByCategory">
+<summary>
+  Looks up a localized string similar to p_getrolemaster.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetRoles">
+<summary>
+  Looks up a localized string similar to P_GETROLES.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetRolesOnEmployee">
+<summary>
+  Looks up a localized string similar to p_getrolesonemployees.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetSpecialities">
+<summary>
+  Looks up a localized string similar to p_getlocationspecialities.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetSubDepartments">
+<summary>
+  Looks up a localized string similar to P_GETSUBDEPARTMENTS.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.GetUSerRoles">
+<summary>
+  Looks up a localized string similar to p_getuserroles.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.procduGetDRShifts">
+<summary>
+  Looks up a localized string similar to P_DUGetDRShift.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.procGetATWorkAreas">
+<summary>
+  Looks up a localized string similar to P_get_DUHRWORKAREAMAPPING.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.procGetCurrentandNextYrHolidays">
+<summary>
+  Looks up a localized string similar to p_getcurrentnextyearholidays.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.ProcGetDutyRoasterEmpList">
+<summary>
+  Looks up a localized string similar to P_DUGetDutyRoasterEmployeelist.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.procGetDUWADepartments">
+<summary>
+  Looks up a localized string similar to P_GetWADEPTMAPPING.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.procrptreportingauthority">
+<summary>
+  Looks up a localized string similar to p_rptreportingauthority.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.DataAccessResources.ValidateHoliday">
+<summary>
+  Looks up a localized string similar to p_validateholiday.
+</summary>
+</member>
+<member name="T:eHIS.HR.DataAccess.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.HR.DataAccess.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

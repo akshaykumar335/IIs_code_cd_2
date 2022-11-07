@@ -1,0 +1,365 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.HR.Business.Process
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.HR.Business.Process.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.HR.Business.Process.My.Resources.ProcessorResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetAllLocations">
+<summary>
+  Looks up a localized string similar to GETALLLOCATIONS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetATWorkAreas">
+<summary>
+  Looks up a localized string similar to GETHRWORKAREAS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetCOAStructureDetails">
+<summary>
+  Looks up a localized string similar to COASTRUCTUREDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetCOAStructureMaster">
+<summary>
+  Looks up a localized string similar to COASTRUCTUREMASTER.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetCounter">
+<summary>
+  Looks up a localized string similar to GetCounter.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetCounterSecretaryRoom">
+<summary>
+  Looks up a localized string similar to GETCOUNTERSECRETARYROOM.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetCurrentandNextYrHolidays">
+<summary>
+  Looks up a localized string similar to GETCURRENTHOLIDAYS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetDepartments">
+<summary>
+  Looks up a localized string similar to GETDEPARTMENTS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetDoctors">
+<summary>
+  Looks up a localized string similar to GETDOCTORS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GETDOCTORSALPHABETIC">
+<summary>
+  Looks up a localized string similar to GETDOCTORSALPHABETIC.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetDoctorsonGenderLang">
+<summary>
+  Looks up a localized string similar to GETDOCTORSONGENDERLANG.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetDoctorSpecializations">
+<summary>
+  Looks up a localized string similar to GETDOCTORSPECIALIZATIONS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetDrivers">
+<summary>
+  Looks up a localized string similar to GETDRIVERS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetDrShift">
+<summary>
+  Looks up a localized string similar to GETCOUNTERSHIFTMASTER.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetDutyRoasterEmployeeList">
+<summary>
+  Looks up a localized string similar to GETDUTYROASTEREMPLOYEELIST.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetDutyroasterEmployees">
+<summary>
+  Looks up a localized string similar to GETDUTYROASTEREMPLOYEES.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeAdminDetails">
+<summary>
+  Looks up a localized string similar to EMPLOYEEADMINDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeCategory">
+<summary>
+  Looks up a localized string similar to GETEMPLOYEECATEGORY.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeCounterAssignment">
+<summary>
+  Looks up a localized string similar to GETEMPCOUNTERASSIGNMENT.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeDepartmentDetails">
+<summary>
+  Looks up a localized string similar to GETEMPLOYEEDEPARTMENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeDescription">
+<summary>
+  Looks up a localized string similar to GETEMPLOYEEDESCRIPTION.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeDesignation">
+<summary>
+  Looks up a localized string similar to GETEMPLOYEEDESIGNATION.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeDetails">
+<summary>
+  Looks up a localized string similar to EMPLOYEEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeGradeOnCategroy">
+<summary>
+  Looks up a localized string similar to GETEMPLOYEEGRADEONCATEGORY.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeMainDetails">
+<summary>
+  Looks up a localized string similar to GETEMPLOYEEMAINDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeNamesListOnEmpID">
+<summary>
+  Looks up a localized string similar to GETEMPLOYEELIST.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeePositionOnGrade">
+<summary>
+  Looks up a localized string similar to GETEMPLOYEEPOSITIONONGRADE.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeResourceListOnItem">
+<summary>
+  Looks up a localized string similar to GETRESOURCELISTONITEM.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeShiftStatus">
+<summary>
+  Looks up a localized string similar to GETSHIFTSTATUSFOREMPLOYEES.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeesOnRole">
+<summary>
+  Looks up a localized string similar to GETEMPLOYEESONROLE.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeesOnService">
+<summary>
+  Looks up a localized string similar to GETEMPLOYEESONSERVICE.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeSubCategoryDetails">
+<summary>
+  Looks up a localized string similar to EMPLOYEESUBCATEGORYDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeType">
+<summary>
+  Looks up a localized string similar to GETEMPLOYEETYPE.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmployeeUHIDDetails">
+<summary>
+  Looks up a localized string similar to GetEmployeeUHIDDetails.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetEmyMedicalTeam">
+<summary>
+  Looks up a localized string similar to GETEMYMEDICALTEAM.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetLocationDepartments">
+<summary>
+  Looks up a localized string similar to GETLOCATIONDEPARTMENTS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetLocationResourceLanguages">
+<summary>
+  Looks up a localized string similar to LOCATIONRESOURCELANGUAGES.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetLocations">
+<summary>
+  Looks up a localized string similar to GETLOCATIONS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetMaxLoanAmt">
+<summary>
+  Looks up a localized string similar to GETMAXLOANAMT.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetNurses">
+<summary>
+  Looks up a localized string similar to GETNURSES.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetOncallDetails">
+<summary>
+  Looks up a localized string similar to GETONCALLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetOncallEsDetails">
+<summary>
+  Looks up a localized string similar to GETONCALLESDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetQulaifications">
+<summary>
+  Looks up a localized string similar to GETQUALIFICATIONS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetRegions">
+<summary>
+  Looks up a localized string similar to GETREGIONS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetResourcesOnServiceID">
+<summary>
+  Looks up a localized string similar to GETRESOURCESONSERVICEID.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetRoleByCategory">
+<summary>
+  Looks up a localized string similar to GETROLEBYCATEGORY.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetRoles">
+<summary>
+  Looks up a localized string similar to GETROLES.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetRolesOnEmployees">
+<summary>
+  Looks up a localized string similar to GETROLESONEMPLOYEES.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetShiftsAssignedEmployeeList">
+<summary>
+  Looks up a localized string similar to GETSHIFTASSIGNEDEMPLOYEES.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetSpecialities">
+<summary>
+  Looks up a localized string similar to GETSPECIALITIES.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetSubDepartments">
+<summary>
+  Looks up a localized string similar to GETSUBDEPARTMENTS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetSupervisors">
+<summary>
+  Looks up a localized string similar to GETSUPERVISORS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetTransferNotSettledEmployees">
+<summary>
+  Looks up a localized string similar to GETTRANSFERNOTSETTLEDEMPLOYEES.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetUserRoles">
+<summary>
+  Looks up a localized string similar to GETUSERROLES.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetWADepartments">
+<summary>
+  Looks up a localized string similar to GETWORKAREADEPARTMENTS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.GetWAShifts">
+<summary>
+  Looks up a localized string similar to GETWORKAREASHIFTS.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.UpdateCounterAssignmentDetails">
+<summary>
+  Looks up a localized string similar to UpdateCounterAssignmentStatus.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.UpdateCounterAssignmentDetailsError">
+<summary>
+  Looks up a localized string similar to UpdateCounterAssignmentDetailsError.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.Process.My.Resources.ProcessorResources.ValidateHoliday">
+<summary>
+  Looks up a localized string similar to VALIDATEHOLIDAY.
+</summary>
+</member>
+<member name="M:eHIS.HR.Business.Process.ActionProcessor.ProcessQuery(eHIS.HR.Utility.Entities.ActionRequest,System.String,System.String@)">
+ <summary>
+ This method call the the appropriate method of the service provider based on the action string of action request object 
+ </summary>
+ <param name="objActionRequest"></param>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.HR.Business.Process.ActionProcessor.Process(eHIS.HR.Utility.Entities.ActionRequest,System.String,System.String@)">
+ <summary>
+ this will call the appropriate method of HRserviceprovider based on the action
+ </summary>
+ <param name="objActionRequest"></param>
+ <param name="requestXml"></param>
+ <param name="response"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.HR.Business.Process.HRRequestProcessor.ProcessQueryRequest(System.String,System.String@)">
+ <summary>
+ This method is for all the get methods,these in turn call the process method of ActionProcessor
+ </summary>
+ <param name="requestXml"></param>
+ <param name="responseXml"></param>
+ <returns>Interger</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

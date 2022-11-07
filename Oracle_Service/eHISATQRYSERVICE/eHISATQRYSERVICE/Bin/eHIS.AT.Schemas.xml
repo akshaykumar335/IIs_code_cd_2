@@ -1,0 +1,647 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.AT.Schemas
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.AT.Schemas.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.My.Resources.SchemaResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.AddBedbooking">
+<summary>
+  Looks up a localized string similar to ADDBEDBOOKING.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.AddIPAdmission">
+<summary>
+  Looks up a localized string similar to ADDIPADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.ApprovalRequestSchema">
+<summary>
+  Looks up a localized string similar to ~Schemas\ApprovalRequest.xsd.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.BedBookingRequestSchema">
+<summary>
+  Looks up a localized string similar to ~Schemas\BedBooking.xsd.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.BlockOrLockRequestSchema">
+<summary>
+  Looks up a localized string similar to ~Schemas\BlockOrLock.xsd.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.CancelBedbooking">
+<summary>
+  Looks up a localized string similar to CANCELBEDBOOKING.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.CancelBedBookingRequestSchema">
+<summary>
+  Looks up a localized string similar to ~Schemas\CanBedBooking.xsd.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.CancelIPAdmission">
+<summary>
+  Looks up a localized string similar to CANCELIPADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.CancelIPAdmissionRequestSchema">
+<summary>
+  Looks up a localized string similar to ~Schemas\CancelAdmission.xsd.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.ConvertWaitingListRequestSchema">
+<summary>
+  Looks up a localized string similar to ~Schemas\ConvertWLtoBB.xsd.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.ConvertWaitingListToBooking">
+<summary>
+  Looks up a localized string similar to CONVERTWAITINGLISTTOBOOKING.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.IPAdmissionRequestSchema">
+<summary>
+  Looks up a localized string similar to ~Schemas\AdmissionNew.xsd.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.SearchRequestSchema">
+<summary>
+  Looks up a localized string similar to ~Schemas\SearchRequest.xsd.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.TransferRequestSchema">
+<summary>
+  Looks up a localized string similar to ~Schemas\TransferRequest.xsd.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.UpdateBedbooking">
+<summary>
+  Looks up a localized string similar to UPDATEBEDBOOKING.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.UpdateBedBookingRequestSchema">
+<summary>
+  Looks up a localized string similar to ~Schemas\UpBedBooking.xsd.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.UpdateBedStatusRequestSchema">
+<summary>
+  Looks up a localized string similar to ~Schemas\UpdateBedStatus.xsd.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.UpdateStatusOfBed">
+<summary>
+  Looks up a localized string similar to UPDATESTATUSOFBED.
+</summary>
+</member>
+<member name="P:eHIS.AT.Schemas.My.Resources.SchemaResources.WaitingListBooking">
+<summary>
+  Looks up a localized string similar to WAITINGLISTBOOKING.
+</summary>
+</member>
+<member name="M:eHIS.AT.Schemas.Schemas.ValidateSchema(eHIS.AT.Utility.Entities.ATSoapRequest)">
+ <summary>
+ This method contains functionality for validating xml based on
+ source action
+ </summary>
+ <param name="objATSoapRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Schemas.Schemas.ValidateSchema(System.String)">
+ <summary>
+ This method contains functionality for validating queries
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:eHIS.AT.Schemas.AdmissionNewRequest">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.AdmissionNewRequest.AdmissionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.AdmissionNewRequest.ActionRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.AdmissionNewRequest.AdmissionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.AdmissionNewRequest.ActionRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.AdmissionNewRequest.AdmissionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.AdmissionNewRequest.ActionRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.BlockOrLockRequest">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.BlockOrLockRequest.BlockOrLockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.BlockOrLockRequest.ActionRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.BlockOrLockRequest.BlockOrLockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.BlockOrLockRequest.ActionRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.BlockOrLockRequest.BlockOrLockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.BlockOrLockRequest.ActionRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CanBedBookingRequest">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CanBedBookingRequest.BedBookingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CanBedBookingRequest.AdmissionNoteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CanBedBookingRequest.ActionRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CanBedBookingRequest.BedBookingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CanBedBookingRequest.AdmissionNoteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CanBedBookingRequest.ActionRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CanBedBookingRequest.BedBookingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CanBedBookingRequest.AdmissionNoteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CanBedBookingRequest.ActionRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CancelAdmissionRequest">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CancelAdmissionRequest.AdmissionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CancelAdmissionRequest.ActionRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CancelAdmissionRequest.AdmissionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CancelAdmissionRequest.ActionRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CancelAdmissionRequest.AdmissionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.CancelAdmissionRequest.ActionRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertFromEPtoIPRequest">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertFromEPtoIPRequest.AdmissionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertFromEPtoIPRequest.AdmissionNoteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertFromEPtoIPRequest.ActionRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertFromEPtoIPRequest.AdmissionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertFromEPtoIPRequest.AdmissionNoteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertFromEPtoIPRequest.ActionRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertFromEPtoIPRequest.AdmissionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertFromEPtoIPRequest.AdmissionNoteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertFromEPtoIPRequest.ActionRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertWLtoBBRequest">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertWLtoBBRequest.BedBookingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertWLtoBBRequest.AdmissionNoteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertWLtoBBRequest.ActionRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertWLtoBBRequest.BedBookingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertWLtoBBRequest.AdmissionNoteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertWLtoBBRequest.ActionRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertWLtoBBRequest.BedBookingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertWLtoBBRequest.AdmissionNoteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.ConvertWLtoBBRequest.ActionRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.EPAdmissionRequest">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.EPAdmissionRequest.AdmissionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.EPAdmissionRequest.ActionRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.EPAdmissionRequest.AdmissionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.EPAdmissionRequest.ActionRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.EPAdmissionRequest.AdmissionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.EPAdmissionRequest.ActionRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.TransferRequest">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.TransferRequest.TransferDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.TransferRequest.ActionRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.TransferRequest.TransferRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.TransferRequest.ActionRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.TransferRequest.TransferRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.TransferRequest.ActionRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UPBedBookingRequest">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UPBedBookingRequest.BedBookingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UPBedBookingRequest.AdmissionNoteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UPBedBookingRequest.ActionRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UPBedBookingRequest.BedBookingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UPBedBookingRequest.AdmissionNoteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UPBedBookingRequest.ActionRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UPBedBookingRequest.BedBookingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UPBedBookingRequest.AdmissionNoteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UPBedBookingRequest.ActionRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UpdateBedStatusRequest">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UpdateBedStatusRequest.AdmissionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UpdateBedStatusRequest.AdmissionNoteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UpdateBedStatusRequest.ActionRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UpdateBedStatusRequest.AdmissionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UpdateBedStatusRequest.AdmissionNoteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UpdateBedStatusRequest.ActionRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UpdateBedStatusRequest.AdmissionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UpdateBedStatusRequest.AdmissionNoteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.UpdateBedStatusRequest.ActionRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.WLBedBookingRequest">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.WLBedBookingRequest.BedBookingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.WLBedBookingRequest.AdmissionNoteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.WLBedBookingRequest.ActionRequestDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.WLBedBookingRequest.BedBookingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.WLBedBookingRequest.AdmissionNoteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.WLBedBookingRequest.ActionRequestRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.WLBedBookingRequest.BedBookingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.WLBedBookingRequest.AdmissionNoteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:eHIS.AT.Schemas.WLBedBookingRequest.ActionRequestRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="M:eHIS.AT.Schemas.SchemaValidator.ValidateSchema(System.String,System.Xml.Schema.XmlSchema)">
+ <summary>
+ This method conatins funtionality for loading xml and schema files
+ </summary>
+ <param name="requestXml"></param>
+ <param name="schemaXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Schemas.XMLValidator.ValidateXML(System.Xml.XmlTextReader,System.Xml.Schema.XmlSchemaCollection)">
+ <summary>
+ This method contains functionality for validating xml against a schema file
+ </summary>
+ <param name="objXMLReader"></param>
+ <param name="objSchemas"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

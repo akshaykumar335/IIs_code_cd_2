@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="PackageCounsellingRequest" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="PackageCounsellingRequest" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PackageCounselling">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PackageSuggested" type="xs:string" minOccurs="0" msdata:Ordinal="0" />
+              <xs:element name="PackageSelected" type="xs:string" minOccurs="0" msdata:Ordinal="1" />
+              <xs:element name="AdditionalInvestigations" type="xs:string" minOccurs="0" msdata:Ordinal="2" />
+              <xs:element name="RescheduledInvestigations" type="xs:string" minOccurs="0" msdata:Ordinal="3" />
+              <xs:element name="CancelledPackages" type="xs:string" minOccurs="0" msdata:Ordinal="4" />
+            </xs:sequence>
+            <xs:attribute name="InterestedInAdditionalInvestigations" type="xs:string" />
+            <xs:attribute name="IsRegistered" type="xs:string" />
+            <xs:attribute name="Gender" type="xs:string" />
+            <xs:attribute name="Age" type="xs:string" />
+            <xs:attribute name="AHCNo" type="xs:string" />
+            <xs:attribute name="PackageID" type="xs:string" />
+            <xs:attribute name="CounsellorName" type="xs:string" />
+            <xs:attribute name="PaymentMode" type="xs:string" />
+            <xs:attribute name="StartDate" type="xs:string" />
+            <xs:attribute name="PatientType" type="xs:string" />
+            <xs:attribute name="CounsellorID" type="xs:string" />
+            <xs:attribute name="PatientInterestForAvailingAHC" type="xs:string" />
+            <xs:attribute name="AppointmentDate" type="xs:string" />
+            <xs:attribute name="ReasonForNotAvailingAHC" type="xs:string" />
+            <xs:attribute name="ModeOfDispatch" type="xs:string" />
+            <xs:attribute name="IsDiabetic" type="xs:string" />
+            <xs:attribute name="Allergies" type="xs:string" />
+            <xs:attribute name="TypeOfRegistrationNo" type="xs:string" />
+            <xs:attribute name="UHID" type="xs:string" />
+            <xs:attribute name="PreRegistrationNo" type="xs:string" />
+            <xs:attribute name="EmergencyNo" type="xs:string" />
+            <xs:attribute name="IsReferral" type="xs:string" />
+            <xs:attribute name="ReferralDoctor" type="xs:string" />
+            <xs:attribute name="ReferralDoctorSpecialization" type="xs:string" />
+            <xs:attribute name="ReferralEntity" type="xs:string" />
+            <xs:attribute name="EndDate" type="xs:string" />
+            <xs:attribute name="AmountToBePaid" type="xs:string" />
+            <xs:attribute name="LocationID" type="xs:string" />
+            <xs:attribute name="DateOfPostponement" type="xs:string" />
+            <xs:attribute name="ReasonForPostponement" type="xs:string" />
+            <xs:attribute name="DateOfCancellation" type="xs:string" />
+            <xs:attribute name="ReasonForCancellation" type="xs:string" />
+            <xs:attribute name="LoginID" type="xs:string" />
+            <xs:attribute name="ReferralType" type="xs:string" />
+            <xs:attribute name="ReferralTypeID" type="xs:string" />
+            <xs:attribute name="EmployeeID" type="xs:string" />
+            <xs:attribute name="RelationshipWithEmployee" type="xs:string" />
+            <xs:attribute name="ReportCollectedDate" type="xs:string" />
+            <xs:attribute name="ReportCollectedBy" type="xs:string" />
+            <xs:attribute name="Doctor1" type="xs:string" />
+            <xs:attribute name="Doctor2" type="xs:string" />
+            <xs:attribute name="ConsultationDate1" type="xs:string" />
+			 <xs:attribute name="ConsultationDate2" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ActionRequest">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Target" type="xs:string" minOccurs="0" />
+              <xs:element name="Identifier" type="xs:string" minOccurs="0" />
+              <xs:element name="Action" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

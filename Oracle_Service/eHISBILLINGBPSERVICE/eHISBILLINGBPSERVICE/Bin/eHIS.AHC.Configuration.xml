@@ -1,0 +1,168 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.AHC.Configuration
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.AHC.Configuration.My.Resources.ConfigSettings">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.CsfModifyStateResponsePath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/csfModifyStateResponse.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.CsfResponsePasswordOptionPath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/csfResponsePasswordOption.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.CsfResponsePasswordPath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/csfResponsePassword.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.CsfResponseUsernamePath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/csfResponseUsername.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.eHISSMTPServer">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/eHISSMTPServer.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.FaultToUriPath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/faultToUri.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.HCAsyncAuditLogLogNamePath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/hcAsyncAuditLogLogName.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.HCAsyncAuditLogMachineNamePath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/hcAsyncAuditLogMachineName.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.HCAsyncAuditLogSourceNamePath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/hcAsyncAuditLogSourceName.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.HCAsyncConnectionStringPath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/hcAsyncConnectionString.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.HCBusinessAuditConnectionStringPath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/hcBusinessAuditConnectionString.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.HCBusinessAuditingEnabledPath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/hcBusinessAuditingEnabled.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.HCConnectionStringPath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/hcConnectionString.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.HCLoggerFilePath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/hcLoggerFilePath.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.HCMaxInQueueConcurrentThreadsPath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/hcMaxInqueueConcurrentThreads.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.HCVasEnableQueuePath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/hcVasEnableQueue.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.PasswordValue">
+<summary>
+  Looks up a localized string similar to !!Nik1Man2Vin3Par4!!.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.ReplyToUriPath">
+<summary>
+  Looks up a localized string similar to /configuration/hcSettings/replyToUri.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.SourceCodePath">
+<summary>
+  Looks up a localized string similar to /configuration/source/code.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.SourcePath">
+<summary>
+  Looks up a localized string similar to /configuration/source/sourcePath.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.ConfigSettings.XmlFilePath">
+<summary>
+  Looks up a localized string similar to C:\apollo\dump\eHISBusinessServices\eHISRegistration\eHIS.Registration.Configuration\HCConfiguration.xml.
+</summary>
+</member>
+<member name="T:eHIS.AHC.Configuration.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.AHC.Configuration.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.AHC.Configuration.ConfigSettings.#ctor">
+ <summary>
+ This constructor contains functionality for initializing field values
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Configuration.XmlSettingsReader.#ctor(System.String)">
+ <summary>
+ This constructor contains functionality for initializing field values
+ </summary>
+ <param name="filePath"></param>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Configuration.XmlSettingsReader.Populate">
+ <summary>
+ This method contains functionality for populating data into respective
+ fields reading from different nodes
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

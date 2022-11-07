@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BlockOrLockRequest" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="BlockOrLockRequest" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BlockOrLock">
+          <xs:complexType>
+            <xs:attribute name="BedID" type="xs:string" />
+            <xs:attribute name="RegistrationNumber" type="xs:string" />
+            <xs:attribute name="RegistrationType" type="xs:string" />
+            <xs:attribute name="FromDate" type="xs:string" />
+            <xs:attribute name="ToDate" type="xs:string" />
+            <xs:attribute name="Reason" type="xs:string" />
+            <xs:attribute name="Remarks" type="xs:string" />
+            <xs:attribute name="Amount" type="xs:string" />
+            <xs:attribute name="TransactionID" type="xs:string" />
+            <xs:attribute name="BedStatus" type="xs:string" />
+            <xs:attribute name="UpdatedBy" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ActionRequest">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Target" type="xs:string" minOccurs="0" />
+              <xs:element name="Identifier" type="xs:string" minOccurs="0" />
+              <xs:element name="LoginID" type="xs:string" minOccurs="0" />
+              <xs:element name="Action" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.ES.Utility.Entities
+</name>
+</assembly>
+<members>
+<member name="M:eHIS.ES.Utility.Entities.ActionRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.ActionRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.AppointmentRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.AppointmentRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.AppointmentResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.AppointmentResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.ESResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.ESResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.ResourceCalendarRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.ResourceCalendarRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.SearchRequest.SerializeObject">
+ <summary>
+ This is for serializing
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.SearchRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.SearchResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.SearchResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.ServiceCalendarRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Utility.Entities.ServiceCalendarRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

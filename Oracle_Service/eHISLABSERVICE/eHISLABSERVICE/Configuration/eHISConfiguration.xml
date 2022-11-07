@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<eHISSettings>
+		-->
+<!-- ************************************************************ -->
+<!--
+		-->
+<!-- Database related settings -->
+<!--
+		-->
+<!-- ************************************************************  -->
+<!--
+
+		<eHISLoggerFilePath>~Logger\Logger.txt</eHISLoggerFilePath>
+		<Username>deepakkumar.b@tcs.com</Username>
+		<Password>tcs@12345</Password>
+		<Host>inhydm01.tcs.com</Host>
+		<FromMailAddress>Apollo@ApolloHospitals.com</FromMailAddress>
+		<ToMailAddress>deepakkumar.b@tcs.com</ToMailAddress>
+		<eHISOracleConnectionString>Data Source=EHISDEV;User Id=registration;Password=registration;Min Pool Size=10;Incr Pool Size=5;Decr Pool Size=2</eHISOracleConnectionString>
+		<eHISOracleBusinessAuditConnectionString>Data Source=EHISDEV;User Id=registration;Password=registration;Min Pool Size=10;Incr Pool Size=5;Decr Pool Size=2</eHISOracleBusinessAuditConnectionString>
+		<eHISOracleErrorCodesConnectionString>Data Source=EHISDEV;User Id=EHIS;Password=EHIS;Min Pool Size=10;Incr Pool Size=5;Decr Pool Size=2</eHISOracleErrorCodesConnectionString>
+		<eHISBusinessAuditingEnabled>1</eHISBusinessAuditingEnabled>
+	</eHISSettings>
+</configuration>-->
+
+
+<configuration>
+	<source>
+		<!--
+		code 0 - read from the current XML
+		code 1 - read from specified DB
+		-->
+		<code>0</code>
+		<!--
+		The connection string for the DB from which to read the settings.
+		CURRENTLY BEING IGNORED
+
+		-->
+		<sourcePath>currently ignored,do not use</sourcePath>
+		<!--
+		DB Admin login name
+		-->
+		<sourceAdminName>none</sourceAdminName>
+		<!--
+		DB Admin login password
+		-->
+		<sourceAdminPassword>none</sourceAdminPassword>
+	</source>
+	<eHISSettings>
+		<!-- ************************************************************ -->
+		<!-- Database related settings -->
+		<!-- ************************************************************  -->
+
+		<eHISConnectionString>Data Source=ehisdev;User id=labuser;Password=apollolab</eHISConnectionString>
+		<eHISCommonConnectionString>data source=ehisdev;user id=ehis;password=ehis;</eHISCommonConnectionString>
+		<eHISErrorsConnectionString>Server=L9a0826;Database=CommonModule;User=SOADeveloper;Password=SOADeveloper;</eHISErrorsConnectionString>
+		<eHISLoggerFilePath>~Logger\Log.txt</eHISLoggerFilePath>
+		<eHISBusinessAuditConnectionString>Server=L9a0826;Database=Ambulance;User=SOADeveloper;Password=SOADeveloper;</eHISBusinessAuditConnectionString>
+		<eHISBusinessAuditingEnabled>1</eHISBusinessAuditingEnabled>
+	</eHISSettings>
+</configuration>

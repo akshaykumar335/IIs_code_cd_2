@@ -1,0 +1,461 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Lab.Utility.Entities
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Lab.Utility.Entities.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Lab.Utility.Entities.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Lab.Utility.Entities.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.ActionRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.ActionRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.AddToFavoriteRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.AddToFavoriteRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.BatchRaiseRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.BatchRaiseRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.BatchWithinApollo.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.BatchWithinApollo.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.DeleteFavouriteRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.DeleteFavouriteRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:eHIS.Lab.Utility.Entities.DeleteProfileRequest.Service">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.DeleteProfileRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.DeleteTestRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.DeleteTestRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.DiscardSampleRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.DiscardSampleRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.DispatchRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.DispatchRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.GeneticsProcessSampleRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.GeneticsProcessSampleRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.Issues.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.LabIssueRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.LabResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.LabResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.PrepareSampleRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.PrepareSampleRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.ProcessElisaRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.ProcessElisaRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.ProcessSampleRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.ProcessSampleRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.RaiseRequestRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.RaiseRequestRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.ReAssignRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.RepeatSampleRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.RepeatSampleRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.ResultsVerificationRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.ResultsVerificationRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.SampleCollectionRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.SampleCollectionRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.SearchRequest.SerializeObject">
+ <summary>
+ This is for serializing
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.SearchRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.SearchResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.SearchResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.Services.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.StoreSamplesRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.StoreSamplesRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.ToExternalRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.ToExternalRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.TransferSampleRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.TransferSampleRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.UpdateLRNRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.UpdateLRNRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.UpdateWithinApolloRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.WithinApolloRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Lab.Utility.Entities.WithinApolloRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

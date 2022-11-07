@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="PackageConfigurationRequest" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="PackageConfigurationRequest" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PackageConfiguration">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SelectedInvestigations" type="xs:string" minOccurs="0" msdata:Ordinal="0" />
+              <xs:element name="DependentInvestigations" type="xs:string" minOccurs="0" msdata:Ordinal="1" />
+              <xs:element name="VisitDetails" type="xs:string" minOccurs="0" msdata:Ordinal="2" />
+              <xs:element name="PackageApplicability" type="xs:string" minOccurs="0" msdata:Ordinal="3" />
+              <xs:element name="ApprovalDocument" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:attribute name="FilePath" type="xs:string" />
+                  <xs:attribute name="FileName" type="xs:string" />
+                  <xs:attribute name="FileType" type="xs:string" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="PackageServiceTime" type="xs:string" />
+            <xs:attribute name="PackageName" type="xs:string" />
+            <xs:attribute name="PackageType" type="xs:string" />
+            <xs:attribute name="PackageDescription" type="xs:string" />
+            <xs:attribute name="BreakfastNeeded" type="xs:string" />
+            <xs:attribute name="StartDate" type="xs:string" />
+            <xs:attribute name="ExpiryDate" type="xs:string" />
+            <xs:attribute name="PackageAmount" type="xs:string" />
+            <xs:attribute name="PackageDiscount" type="xs:string" />
+            <xs:attribute name="TotalAmount" type="xs:string" />
+            <xs:attribute name="PackageCode" type="xs:string" />
+            <xs:attribute name="PatientEducationMaterialFilePath" type="xs:string" />
+            <xs:attribute name="PatientEducationMaterialFileType" type="xs:string" />
+            <xs:attribute name="PatientEducationMaterialFileName" type="xs:string" />
+            <xs:attribute name="LocationID" type="xs:string" />
+            <xs:attribute name="ReasonForActivation" type="xs:string" />
+            <xs:attribute name="ReasonForDeActivation" type="xs:string" />
+            <xs:attribute name="FromDate" type="xs:string" />
+            <xs:attribute name="ToDate" type="xs:string" />
+            <xs:attribute name="DateofActivation" type="xs:string" />
+            <xs:attribute name="DateofDeactivation" type="xs:string" />
+            <xs:attribute name="ConfirmationFromCRM" type="xs:string" />
+            <xs:attribute name="LoginID" type="xs:string" />
+            <xs:attribute name="TestGroupName" type="xs:string" />
+            <xs:attribute name="FilePath" type="xs:string" />
+            <xs:attribute name="FileName" type="xs:string" />
+            <xs:attribute name="FileType" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ActionRequest">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Target" type="xs:string" minOccurs="0" />
+              <xs:element name="Identifier" type="xs:string" minOccurs="0" />
+              <xs:element name="Action" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

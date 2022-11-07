@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<eHISSettings>
+		<eHISLoggerFilePath>~Logger/Log.txt</eHISLoggerFilePath>
+		<LoginPageLink>../LoginPage.aspx</LoginPageLink>
+		<AppHomeLink>Home.aspx</AppHomeLink>
+		<SessionExpirePageLink>../SessionExpire.aspx</SessionExpirePageLink>
+		<RegInterfacePagePath>../Registration/Interface.aspx</RegInterfacePagePath>
+		<RegistrationServiceID>2</RegistrationServiceID>
+		<OracleEhisConnectionString>Data Source=EHISDEV;User ID=ehis;Password=ehis;</OracleEhisConnectionString>
+		<OracleAbmulanceConnectionString>Data Source=EHISDEV;User ID=amb;Password=amb;</OracleAbmulanceConnectionString>
+		<AmbServiceID>30</AmbServiceID>
+		<extFileUploadPath>\\172.19.57.231\eHISFileUpload\AHC</extFileUploadPath>
+		<AmbFromPage>../Ambulance/AmbulanceRequests.aspx</AmbFromPage>
+		<RegistrationToPage>../Registration/Registration.aspx</RegistrationToPage>
+		<OracleRegistrationConnectionString>Data Source=EHISDEV;User ID=registration;Password=registration;</OracleRegistrationConnectionString>
+		<OracleMmConnectionString>Data Source=EHISDEV;User ID=mm;Password=mm;</OracleMmConnectionString>
+		<eHISBusinessAuditEnabled>1</eHISBusinessAuditEnabled>
+	</eHISSettings>
+</configuration>
+
+
+
+
+
+
+<!--			
+		<eHISLoggerFilePath>C:\websitemigrationamb\eHISUIServices\Logger\Log.txt</eHISLoggerFilePath>
+			
+	<LoginPageLink>../Ambulance/LoginPage.aspx</LoginPageLink>
+					
+			<SessionExpirePageLink>../Ambulance/SessionExpire.aspx</SessionExpirePageLink>	
+			<RegInterfacePage>../eHISRegistration/Interface.aspx</RegInterfacePage>	
+					<RegistrationServiceID>2</RegistrationServiceID>
+			
+		
+
+					
+				<eHISConnectionStringPath>
+					<OracleEhisConnectionString>Data Source=EHISDEV;User ID=ehis;Password=ehis;</OracleEhisConnectionString>
+				<eHISOracleCommonConnectionString>
+					<extFileUploadPath>
+					<HomePage>
+						<AmbServiceID>30</AmbServiceID>
+						
+						
+						
+				
+		
+		<OracleCRMConnectionString>Data Source=EHISDEV;User ID=crm;Password=Tcsdb123;</OracleCRMConnectionString>
+		<eHISMastersConnectionString>Server=172.19.56.253;Database=Registration;User=SOADeveloper;Password=SOADeveloper;</eHISMastersConnectionString>
+		<eHISCommonConnectionString>Server=172.19.56.253;Database=EHIS;User=SOADeveloper;Password=SOADeveloper;</eHISCommonConnectionString>
+		<eHISAsyncConnectionString>Server=172.19.56.253;Database=Ambulance;User=SOADeveloper;Password=SOADeveloper;</eHISAsyncConnectionString>
+		<eHISBusinessAuditConnectionString>Server=172.19.56.253;Database=Ambulance;User=SOADeveloper;Password=SOADeveloper;</eHISBusinessAuditConnectionString>
+		<eHISBusinessAuditingEnabled>1</eHISBusinessAuditingEnabled>
+		<eHISVasEnableQueue>2</eHISVasEnableQueue>
+		<eHISMaxInqueueConcurrentThreads>50</eHISMaxInqueueConcurrentThreads>
+		<eHISSMTPServer>SMTPServer</eHISSMTPServer>
+		<eHISProviderType>1</eHISProviderType>
+		
+		
+		<AmbulancePageLink>../Ambulance/Home.aspx</AmbulancePageLink>
+		<AppHomeLink>HomePage.aspx</AppHomeLink>
+		<DateFormat>MM/DD/YYYY</DateFormat>
+		
+		<AmbulanceSessionTimeout>60</AmbulanceSessionTimeout>
+
+		
+		<OracleEhisConnectionString>Data Source=EHISDEV;User ID=ehis;Password=ehis;</OracleEhisConnectionString>
+		<OracleRegistrationConnectionString>Data Source=EHISDEV;User ID=registration;Password=registration;</OracleRegistrationConnectionString>
+		<OracleMmConnectionString>Data Source=EHISDEV;User ID=mm;Password=mm;</OracleMmConnectionString>
+		
+		The Machinename in which the auditing has to be logged
+		"." :: Dot, without the quotes denotes localmachine.
+		"Machine0HE" :: Machine0HE, without the quotes denotes the particular machine
+		eg:<heAuditLogMachineName>HEServerLogger.tcs.com</heAuditingLogMachineName>
+      
+		<eHISAsyncAuditLogMachineName>.</eHISAsyncAuditLogMachineName>
+		<! The Logname the Custom Eventlog to be created as
+		<eHISAsyncAuditLogLogName>eHISAsyncAudit</eHISAsyncAuditLogLogName>
+		<! The SourceName for the custom Eventlog to be created as
+		<eHISAsyncAuditLogSourceName>eHISAsyncService</eHISAsyncAuditLogSourceName>
+		<! ************************************************************ 
+		<! HEAdapter Response related settings -
+		<! ************************************************************ -
+		<! The CSF Response Method to post to-
+		<faultToUri>http://172.19.56.144/RegisterResponseWorkflowService/RegisterPatientResponseWorkflow.RegResponseWorkflow_WebService.asmx</faultToUri>
+		<replyToUri>http://172.19.56.144/RegisterResponseWorkflowService/RegisterPatientResponseWorkflow.RegResponseWorkflow_WebService.asmx</replyToUri>
+
+
+<! 
+<configuration>
+  <source>
+    <!		code 0 - read from the current XML
+		code 1 - read from specified DB
+		
+    <code>0</code>-
+   
+		The connection string for the DB from which to read the settings.
+		CURRENTLY BEING IGNORED
+
+		
+    <sourcePath>currently ignored,do not use</sourcePath>-
+  
+		DB Admin login name
+		
+    <sourceAdminName>none</sourceAdminName>-
+  
+		DB Admin login password
+		
+    <sourceAdminPassword>none</sourceAdminPassword>
+  </source>
+  <eHISSettings>
+    <! **************************************** 
+    Database related settings 
+    <! ****************\******************************* \
+    <!C:\ApolloUI\Ambulance\Logger
+	New code
+		
+	  <RegistrationServiceID>2</RegistrationServiceID>
+	   <OracleEhisConnectionString>Data Source=EHISDEV;User ID=ehis;Password=ehis;</OracleEhisConnectionString>
+	<OracleCRMConnectionString>Data Source=EHISDEV;User ID=crm;Password=Tcsdb123;</OracleCRMConnectionString>
+	  <eHISLoggerFilePath>C:\websitemigrationamb\eHISUIServices\Logger\Log.txt</eHISLoggerFilePath>
+	  
+	  
+	  
+	  
+	  <eHISConnectionString>Server=172.19.56.253;Database=Ambulance;User=SOADeveloper;Password=SOADeveloper;</eHISConnectionString>
+    <eHISMastersConnectionString>Server=172.19.56.253;Database=Registration;User=SOADeveloper;Password=SOADeveloper;</eHISMastersConnectionString>
+	
+	  <eHISCommonConnectionString>Server=172.19.56.253;Database=EHIS;User=SOADeveloper;Password=SOADeveloper;</eHISCommonConnectionString>
+	  <eHISAsyncConnectionString>Server=172.19.56.253;Database=Ambulance;User=SOADeveloper;Password=SOADeveloper;</eHISAsyncConnectionString>
+    <eHISBusinessAuditConnectionString>Server=172.19.56.253;Database=Ambulance;User=SOADeveloper;Password=SOADeveloper;</eHISBusinessAuditConnectionString>
+    <eHISBusinessAuditingEnabled>1</eHISBusinessAuditingEnabled>
+    <eHISVasEnableQueue>2</eHISVasEnableQueue>
+    <eHISMaxInqueueConcurrentThreads>50</eHISMaxInqueueConcurrentThreads>
+	<eHISSMTPServer>SMTPServer</eHISSMTPServer>
+    <eHISProviderType>1</eHISProviderType>
+    <LoginPageLink>../Ambulance/LoginPage.aspx</LoginPageLink>
+    <SessionExpirePageLink>../Ambulance/SessionExpire.aspx</SessionExpirePageLink>
+    <AmbulancePageLink>../Ambulance/Home.aspx</AmbulancePageLink>
+	  <AppHomeLink>HomePage.aspx</AppHomeLink>
+    <DateFormat>MM/DD/YYYY</DateFormat>
+	  <RegInterfacePage>../eHISRegistration/Interface.aspx</RegInterfacePage>
+	  <AmbulanceSessionTimeout>60</AmbulanceSessionTimeout>
+
+	  <OracleAbmulanceConnectionString>Data Source=EHISDEV;User ID=amb;Password=amb;</OracleAbmulanceConnectionString>
+	  <OracleEhisConnectionString>Data Source=EHISDEV;User ID=ehis;Password=ehis;</OracleEhisConnectionString>
+	  <OracleRegistrationConnectionString>Data Source=EHISDEV;User ID=registration;Password=registration;</OracleRegistrationConnectionString>
+	  <OracleMmConnectionString>Data Source=EHISDEV;User ID=mm;Password=mm;</OracleMmConnectionString>
+	
+		The Machinename in which the auditing has to be logged
+		"." :: Dot, without the quotes denotes localmachine.
+		"Machine0HE" :: Machine0HE, without the quotes denotes the particular machine
+		eg:<heAuditLogMachineName>HEServerLogger.tcs.com</heAuditingLogMachineName>
+     
+    <eHISAsyncAuditLogMachineName>.</eHISAsyncAuditLogMachineName>
+    <! The Logname the Custom Eventlog to be created as
+    <eHISAsyncAuditLogLogName>eHISAsyncAudit</eHISAsyncAuditLogLogName>
+    <! The SourceName for the custom Eventlog to be created as
+    <eHISAsyncAuditLogSourceName>eHISAsyncService</eHISAsyncAuditLogSourceName>
+    <! ************************************************************ 
+    <! HEAdapter Response related settings 
+    <! ************************************************************ 
+    <! The CSF Response Method to post to
+    <faultToUri>http://172.19.56.144/RegisterResponseWorkflowService/RegisterPatientResponseWorkflow.RegResponseWorkflow_WebService.asmx</faultToUri>
+    <replyToUri>http://172.19.56.144/RegisterResponseWorkflowService/RegisterPatientResponseWorkflow.RegResponseWorkflow_WebService.asmx</replyToUri>
+
+  </eHISSettings>
+</configuration>
+-->

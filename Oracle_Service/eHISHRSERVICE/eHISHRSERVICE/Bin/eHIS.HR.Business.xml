@@ -1,0 +1,99 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.HR.Business
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.HR.Business.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.HR.Business.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.HR.Business.HRServiceProvider.UpdateCounterAssignmentDetails(System.String,System.String@)">
+ <summary>
+ It is for updating the CounterAssignemnt details,it inturn calls the method of DataServiceTransactionHandler
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.HR.Business.QueryServiceProvider.GetEmployeesOnRole(System.String)">
+ <summary>
+ this method is used for getting the Employee Details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.HR.Business.QueryServiceProvider.GetEmployeeSubCategoryDetails(System.String)">
+ <summary>
+ this method is used for getting the EmployeeSubCategory Details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.HR.Business.QueryServiceProvider.GetEmployeeAdminDetails(System.String)">
+ <summary>
+ this method is used for getting the EmployeeAdmin Details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.HR.Business.QueryServiceProvider.GetSubDepartments(System.String)">
+ <summary>
+ this method is used for getting the SubDepartments Details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.HR.Business.QueryServiceProvider.GetLocations(System.String)">
+ <summary>
+ this method is used for getting the Locations Details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.HR.Business.QueryServiceProvider.GetCOAStructureMaster(System.String)">
+ <summary>
+ this method is used for getting the GetCOAStructureMaster Details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.HR.Business.QueryServiceProvider.GetCOAStructureDetails(System.String)">
+ <summary>
+ this method is used for getting the GetCOAStructureDetails Details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.HR.Business.QueryServiceProvider.GetEmployeesOnService(System.String)">
+ <summary>
+ this method is used for getting the Employee Details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

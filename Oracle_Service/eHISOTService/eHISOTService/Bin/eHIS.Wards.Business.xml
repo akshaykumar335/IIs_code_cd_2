@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.OT.Business
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.OT.Business.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.OT.Business.QueryServiceProvider.GetAllOpenSurgeriesForAnIP(eHIS.OT.Utility.Entities.SearchRequest)">
+ <summary>
+ To fetch all the requests for which consumption was not declared. Used while cancelling the requests from Discharge / Death
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.OT.Business.OTServiceProvider.CancelAllOpenRequestsForIP(eHIS.OT.DataContracts.OTCancelRequestDC,eHIS.OT.DataContracts.OTResponseDC@)">
+ <summary>
+ Method to cancel all the open requests for an IPNumber
+ </summary>
+ <param name="objOTRequestDC"></param>
+ <param name="objOTResponseDC"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Payroll.DataAccess
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Payroll.DataAccess.My.Resources.DataAccessResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.DataAccess.My.Resources.DataAccessResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.DataAccess.My.Resources.DataAccessResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.DataAccess.My.Resources.DataAccessResources.GETEMPANNUALCTCAMOUNTS">
+<summary>
+  Looks up a localized string similar to P_GETEMPANNUALCTCAMOUNTS.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.DataAccess.My.Resources.DataAccessResources.GETEMPLOYEEWISEDEDUCTIONS">
+<summary>
+  Looks up a localized string similar to P_GETEMPLOYEEWISEDEDUCTIONS.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.DataAccess.My.Resources.DataAccessResources.GETEMPLOYEEWISEEARNINGS">
+<summary>
+  Looks up a localized string similar to P_GETEMPLOYEEWISEEARNINGS.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.DataAccess.My.Resources.DataAccessResources.SaveEmployeeEarnings">
+<summary>
+  Looks up a localized string similar to P_SaveEmployeeWiseEarnings.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.DataAccess.My.Resources.DataAccessResources.SAVEEMPLOYEEWISEDEDUCTIONS">
+<summary>
+  Looks up a localized string similar to P_SAVEEMPLOYEEWISEDEDUCTIONS.
+</summary>
+</member>
+<member name="T:eHIS.Payroll.DataAccess.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.DataAccess.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.DataAccess.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

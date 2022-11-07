@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AHCFlowRequest" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="AHCFlowRequest" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="AHCFlow">
+          <xs:complexType>
+			  <xs:sequence>
+				  <xs:element name="MappedPatientsToDoctors" type="xs:string" minOccurs="0" msdata:Ordinal="0"  />
+			  </xs:sequence>
+			  <xs:attribute name="AHCNo" type="xs:string" />
+            <xs:attribute name="CounterID" type="xs:string" />
+            <xs:attribute name="InvestigationID" type="xs:string" />
+            <xs:attribute name="QueueInTime" type="xs:string" />
+            <xs:attribute name="QueueOutTime" type="xs:string" />
+            <xs:attribute name="InTime" type="xs:string" />
+            <xs:attribute name="OutTime" type="xs:string" />
+            <xs:attribute name="InvestigationTypeID" type="xs:string" />
+            <xs:attribute name="PatientEntryTime" type="xs:string" />
+            <xs:attribute name="LoginID" type="xs:string" />
+            <xs:attribute name="Status" type="xs:string" />
+            <xs:attribute name="locationID" type="xs:string" />
+            <xs:attribute name="VisitID" type="xs:string" />
+			<xs:attribute name="RepeatVisitComments" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ActionRequest">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Target" type="xs:string" minOccurs="0" />
+              <xs:element name="Identifier" type="xs:string" minOccurs="0" />
+              <xs:element name="Action" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

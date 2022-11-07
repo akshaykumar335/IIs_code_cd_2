@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <eHISSettings>
+    <eHISOracleCommonConnectionString>Data Source=aplthyd;User Id=MM;Password=MM;</eHISOracleCommonConnectionString>
+    <eHISOracleConnectionString>Data Source=aplthyd;User Id=MM;Password=MM;</eHISOracleConnectionString>
+    <eHISLoggerFilePath>~Logger\Logger.txt</eHISLoggerFilePath>
+    <eHISBusinessAuditConnectionString>Data Source=aplthyd;User Id=MM;Password=MM;</eHISBusinessAuditConnectionString>
+    <eHISBusinessAuditingEnabled>1</eHISBusinessAuditingEnabled>
+  </eHISSettings>
+</configuration>

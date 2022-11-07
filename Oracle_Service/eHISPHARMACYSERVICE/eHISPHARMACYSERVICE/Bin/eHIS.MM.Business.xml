@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Pharmacy.Business
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Pharmacy.Business.My.Resources.BusinessResource">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.My.Resources.BusinessResource.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.My.Resources.BusinessResource.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.Pharmacy.Business.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Business.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.Pharmacy.Business.QueryServiceProvider.QueryItemSearchDetails(System.String,System.String@)">
+ <summary>
+ This method is called for quering Item Search details 
+ and deserializing the request XML
+ </summary>
+ <param name="requestXml"></param>
+ <param name="responseXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

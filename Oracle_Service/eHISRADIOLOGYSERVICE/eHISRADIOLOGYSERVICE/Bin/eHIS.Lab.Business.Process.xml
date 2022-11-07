@@ -1,0 +1,202 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Radiology.Business.Process
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Radiology.Business.Process.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.AddMMInventoryDetails">
+<summary>
+  Looks up a localized string similar to ADDMMINVENTORYDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetAdmissionRadiologyRequest">
+<summary>
+  Looks up a localized string similar to GetAdmissionRadiologyRequest.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetAuthorizedWorklist">
+<summary>
+  Looks up a localized string similar to GetAuthorizedWorklist.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetCheckinStatusforEquipment">
+<summary>
+  Looks up a localized string similar to GetCheckinStatusforEquipment.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetConsumables">
+<summary>
+  Looks up a localized string similar to GetConsumables.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetDepartmentModalities">
+<summary>
+  Looks up a localized string similar to GetDepartmentModalities.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetDispatchReports">
+<summary>
+  Looks up a localized string similar to GetDispatchReports.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetEquipments">
+<summary>
+  Looks up a localized string similar to GetEquipments.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetFilmWastageTag">
+<summary>
+  Looks up a localized string similar to GetFilmWastageTag.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetLOVDetails">
+<summary>
+  Looks up a localized string similar to GetLOVDetails.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetModalities">
+<summary>
+  Looks up a localized string similar to GetModalities.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetPatientRadiologyServiceStatus">
+<summary>
+  Looks up a localized string similar to GetPatientRadiologyServiceStatus.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetPreparationChecklist">
+<summary>
+  Looks up a localized string similar to GetPreparationChecklist.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetPreRequisietes">
+<summary>
+  Looks up a localized string similar to GetPreRequisietes.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetQuickList">
+<summary>
+  Looks up a localized string similar to GetQuickList.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetQuickListServices">
+<summary>
+  Looks up a localized string similar to GetQuickListServices.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetRadiationExposureTag">
+<summary>
+  Looks up a localized string similar to GetRadiationExposureTag.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetRadiologyRequest">
+<summary>
+  Looks up a localized string similar to GETRADIOLOGYREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetRadiologyRequests">
+<summary>
+  Looks up a localized string similar to GetRadiologyRequests.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetRadiologyServices">
+<summary>
+  Looks up a localized string similar to GetRadiologyServices.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetReportingWorklist">
+<summary>
+  Looks up a localized string similar to GetReportingWorklist.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetReportTable">
+<summary>
+  Looks up a localized string similar to GetReportTable.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetReqPreRequisiteData">
+<summary>
+  Looks up a localized string similar to GetReqPreRequisiteData.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetRequestStatus">
+<summary>
+  Looks up a localized string similar to GETREQUESTSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetResultReport">
+<summary>
+  Looks up a localized string similar to GetResultReport.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetResults">
+<summary>
+  Looks up a localized string similar to GetResults.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetResultsForReport">
+<summary>
+  Looks up a localized string similar to GetResultsForReport.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetRptWorklistTag">
+<summary>
+  Looks up a localized string similar to GetRptWorklistTag.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetUserPriviledges">
+<summary>
+  Looks up a localized string similar to GetUserPriviledges.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.GetWorklist">
+<summary>
+  Looks up a localized string similar to GetWorklist.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.RaiseRequest">
+<summary>
+  Looks up a localized string similar to RAISEREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.Business.Process.My.Resources.ProcessorResources.UpdateInventoryDetails">
+<summary>
+  Looks up a localized string similar to UPDATEINVENTORYDETAILS.
+</summary>
+</member>
+</members>
+</doc>

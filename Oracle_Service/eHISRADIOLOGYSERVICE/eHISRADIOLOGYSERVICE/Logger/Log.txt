@@ -1,0 +1,14 @@
+In RadiologyRequestProcessor
+In ProcessRaiseRequestRequest
+In ActionProcessor
+In RaiseRequest
+In RadiologyServiceProvider
+In DataTransactionhandler GenerateLRN
+In dsp AddLRN
+In dataServiceProvider AddLRN before assigning
+In dataServiceProvider AddLRN assigned
+ConnectionStringData Source=aplthyd;User id=Radiology;Password=Radiology
+procAddLRN -- P_AddRadiologyRequest
+In dataServiceProvider AddLRN after sp
+LRN2600
+retCode0

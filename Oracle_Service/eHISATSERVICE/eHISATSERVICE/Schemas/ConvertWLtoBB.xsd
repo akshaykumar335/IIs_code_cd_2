@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BedBookingRequest" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="BedBookingRequest" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BedBooking">
+          <xs:complexType>
+            <xs:sequence>
+				<xs:element name="AdmissionNote" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:attribute name="MLCase" type="xs:string" />
+						<xs:attribute name="MLCaseNo" type="xs:string" />
+						<xs:attribute name="ReferralTypeID" type="xs:string" />
+						<xs:attribute name="CategoryID" type="xs:string" />
+						<xs:attribute name="ReasonForAdmission" type="xs:string" />
+						<xs:attribute name="FilePath" type="xs:string" />
+						<xs:attribute name="FileName" type="xs:string" />
+						<xs:attribute name="FileType" type="xs:string" />
+						<xs:attribute name="ProvisionalDiagnosis" type="xs:string" />
+						<xs:attribute name="DateofAdmission" type="xs:string" />
+						<xs:attribute name="AdmittingDoctorName" type="xs:string" />
+						<xs:attribute name="ReferringDoctorName" type="xs:string" />
+						<xs:attribute name="AdmittingDepartment" type="xs:string" />
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PolicyNo" type="xs:string" minOccurs="0" msdata:Ordinal="1" />
+            </xs:sequence>
+            <xs:attribute name="HiddenFieldRegistrationNo" type="xs:string" />
+            <xs:attribute name="HBookingNumber" type="xs:string" />
+            <xs:attribute name="HiddenFieldStatus1" type="xs:string" />
+            <xs:attribute name="FromDate" type="xs:string" />
+            <xs:attribute name="ToDate" type="xs:string" />
+            <xs:attribute name="HiddenFieldGridStatus" type="xs:string" />
+            <xs:attribute name="HiddenConformSubmit" type="xs:string" />
+            <xs:attribute name="HiddenRefDoctor" type="xs:string" />
+            <xs:attribute name="LocationCode" type="xs:string" />
+            <xs:attribute name="SelectedCategory" type="xs:string" />
+            <xs:attribute name="HiddenConformMessage" type="xs:string" />
+            <xs:attribute name="HiddenAdmitBtn" type="xs:string" />
+            <xs:attribute name="HiddenCancelConformMessage" type="xs:string" />
+            <xs:attribute name="HiddenCategory" type="xs:string" />
+            <xs:attribute name="HiddenBtnStatus" type="xs:string" />
+            <xs:attribute name="ExpDateOfAdmission" type="xs:string" />
+            <xs:attribute name="BookNo" type="xs:string" />
+            <xs:attribute name="AdmissionNoteAvailable" type="xs:string" />
+            <xs:attribute name="AuthorizationRequired" type="xs:string" />
+            <xs:attribute name="AdmissionNoteType" type="xs:string" />
+            <xs:attribute name="PaymentMode" type="xs:string" />
+            <xs:attribute name="UHID" type="xs:string" />
+            <xs:attribute name="PRN" type="xs:string" />
+            <xs:attribute name="ExpectedDurationOfStay" type="xs:string" />
+            <xs:attribute name="ExpectedDateOfAdmission" type="xs:string" />
+            <xs:attribute name="Category" type="xs:string" />
+            <xs:attribute name="SpecificPreference" type="xs:string" />
+            <xs:attribute name="ReasonForBedBooking" type="xs:string" />
+            <xs:attribute name="OnlineBedBookingNumber" type="xs:string" />
+            <xs:attribute name="BookingDate" type="xs:string" />
+            <xs:attribute name="ModificationDate" type="xs:string" />
+            <xs:attribute name="ReasonForModification" type="xs:string" />
+            <xs:attribute name="CancellationDate" type="xs:string" />
+            <xs:attribute name="ReasonForCancellation" type="xs:string" />
+            <xs:attribute name="LocationID" type="xs:string" />
+            <xs:attribute name="WaitingListNo" type="xs:string" />
+            <xs:attribute name="LoginID" type="xs:string" />
+            <xs:attribute name="EmpNo" type="xs:string" />
+            <xs:attribute name="CorporateCode" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ActionRequest">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Target" type="xs:string" minOccurs="0" />
+              <xs:element name="Identifier" type="xs:string" minOccurs="0" />
+              <xs:element name="LoginID" type="xs:string" minOccurs="0" />
+              <xs:element name="Action" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

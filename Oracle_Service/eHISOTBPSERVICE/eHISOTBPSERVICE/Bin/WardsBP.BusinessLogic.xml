@@ -1,0 +1,137 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OTBP.BusinessLogic
+</name>
+</assembly>
+<members>
+<member name="T:OTBP.BusinessLogic.My.Resources.BusinessLogicResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.BillingRequestError">
+<summary>
+  Looks up a localized string similar to BillingRequestError.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.BillingxmlgenarationRequestError">
+<summary>
+  Looks up a localized string similar to BillingxmlgenarationRequestError.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.CancelAllOpenRequestsForIP">
+<summary>
+  Looks up a localized string similar to CancelAllOpenRequestsForIP.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.CancelProcedureRequest">
+<summary>
+  Looks up a localized string similar to CancelProcedureRequest.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.CancelRequestError">
+<summary>
+  Looks up a localized string similar to CancelRequestError.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.DeleteOTBedSideConsumptionRequest">
+<summary>
+  Looks up a localized string similar to DeleteOTBedSideConsumptionRequest.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.DeleteOTConsumptionRequest">
+<summary>
+  Looks up a localized string similar to DeleteOTConsumptionRequest.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.DeleteSurgery">
+<summary>
+  Looks up a localized string similar to DeleteSurgery.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.InsertdelUpdtOTBedSideConsumptionRequest">
+<summary>
+  Looks up a localized string similar to InsertdelUpdtOTBedSideConsumptionRequest.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.InsertdelUpdtOTConsumptionRequest">
+<summary>
+  Looks up a localized string similar to InsertdelUpdtOTConsumptionRequest.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.InsertdelUpdtRaiseRequest">
+<summary>
+  Looks up a localized string similar to InsertdelUpdtRaiseRequest.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.InsertNewSurgery">
+<summary>
+  Looks up a localized string similar to InsertNewSurgery.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.InsertNewSurgeryUpdate">
+<summary>
+  Looks up a localized string similar to InsertNewSurgeryUpdate.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.OTPACRequestError">
+<summary>
+  Looks up a localized string similar to OTPACRequestError.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.OTRaiseRequestError">
+<summary>
+  Looks up a localized string similar to OTRaiseRequestError.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.OTSurgicalAdviceRequestError">
+<summary>
+  Looks up a localized string similar to OTSurgicalAdviceRequestError.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.RegistrationRequestError">
+<summary>
+  Looks up a localized string similar to RegistrationRequestError.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.UpdateOTBedSideConsumptionRequest">
+<summary>
+  Looks up a localized string similar to UpdateOTBedSideConsumptionRequest.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.BusinessLogicResources.UpdateOTConsumptionRequest">
+<summary>
+  Looks up a localized string similar to UpdateOTConsumptionRequest.
+</summary>
+</member>
+<member name="T:OTBP.BusinessLogic.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:OTBP.BusinessLogic.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

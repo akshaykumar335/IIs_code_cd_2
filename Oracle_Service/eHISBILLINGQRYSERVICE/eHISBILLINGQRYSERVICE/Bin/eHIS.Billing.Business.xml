@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Billing.Business
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Billing.Business.My.Resources.BusinessResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.My.Resources.BusinessResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.My.Resources.BusinessResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.My.Resources.BusinessResources.ProcessAddNewPackage">
+<summary>
+  Looks up a localized string similar to 1.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.My.Resources.BusinessResources.StatusApproved">
+<summary>
+  Looks up a localized string similar to Approved.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.My.Resources.BusinessResources.StatusRejected">
+<summary>
+  Looks up a localized string similar to Rejected.
+</summary>
+</member>
+<member name="T:eHIS.Billing.Business.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.Billing.Business.ApprovalServiceProvider.ApprovingProcess(System.String,System.String@)">
+ <summary>
+ This method contains functionality for Approving Process
+ </summary>
+ <param name="requestXml"></param>
+ <param name="responseXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Billing.Business.ApprovalServiceProvider.ApproveAddPackageMaster(System.String,System.String@)">
+ <summary>
+ This method contains functionality for Approval of New Package Configuration
+ </summary>
+ <param name="requestXml"></param>
+ <param name="responseXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

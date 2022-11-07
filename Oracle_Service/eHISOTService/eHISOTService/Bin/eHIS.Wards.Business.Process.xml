@@ -1,0 +1,169 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.OT.Business.Process
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.OT.Business.Process.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.OT.Business.Process.My.Resources.ProcessorResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.AddAppointmentDetails">
+<summary>
+  Looks up a localized string similar to BOOKAPPOINTMENT.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.AddAppointmentsDetailsError">
+<summary>
+  Looks up a localized string similar to AddAppointmentsDetailsError.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.AddRepeatDetailsError">
+<summary>
+  Looks up a localized string similar to AddRepeatDetailsError.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.AddRepeats">
+<summary>
+  Looks up a localized string similar to ADDREPEATS.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.AddResourceCalendar">
+<summary>
+  Looks up a localized string similar to ADDRESOURCECALENDAR.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.AddServiceCalendar">
+<summary>
+  Looks up a localized string similar to ADDSERVICECALENDAR.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.AddWebAppointmentDetails">
+<summary>
+  Looks up a localized string similar to BOOKWEBAPPOINTMENT.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.AddWebAppointmentsDetailsError">
+<summary>
+  Looks up a localized string similar to AddWebAppointmentsDetailsError.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.CancelAppointmentDetails">
+<summary>
+  Looks up a localized string similar to CANCELAPPOINTMENT.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.CancelAppointmentsDetailsError">
+<summary>
+  Looks up a localized string similar to CancelAppointmentsDetailsError.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.CancelWebAppointmentDetails">
+<summary>
+  Looks up a localized string similar to CANCELWEBAPPOINTMENT.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.CancelWebAppointmentsDetailsError">
+<summary>
+  Looks up a localized string similar to CancelWebAppointmentsDetailsError.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.GetAppointmentDetails">
+<summary>
+  Looks up a localized string similar to GetAppointmentDetails.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.GetCalendarDetails">
+<summary>
+  Looks up a localized string similar to GETCALENDARDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.GetConflictCheck">
+<summary>
+  Looks up a localized string similar to CONFLICTCHECK.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.GetResourceDetails">
+<summary>
+  Looks up a localized string similar to GetResourceDetails.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.GetServiceDetails">
+<summary>
+  Looks up a localized string similar to GetServiceDetails.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.GetWebAppointmentDetails">
+<summary>
+  Looks up a localized string similar to GetWebAppointmentDetails.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.UpdateAppointmentDetails">
+<summary>
+  Looks up a localized string similar to UPDATEAPPOINTMENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.UpdateAppointmentsDetailsError">
+<summary>
+  Looks up a localized string similar to UpdateAppointmentsDetailsError.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.UpdateAppointmentStatus">
+<summary>
+  Looks up a localized string similar to UPDATEAPPOINTMENTSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.UpdateWebAppointmentDetails">
+<summary>
+  Looks up a localized string similar to UPDATEWEBAPPOINTMENT.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.UpdateWebAppointmentsDetailsError">
+<summary>
+  Looks up a localized string similar to UpdateWebAppointmentsDetailsError.
+</summary>
+</member>
+<member name="P:eHIS.OT.Business.Process.My.Resources.ProcessorResources.UpdateWebAppointmentStatus">
+<summary>
+  Looks up a localized string similar to UPDATEWEBAPPOINTMENTSTATUS.
+</summary>
+</member>
+<member name="M:eHIS.OT.Business.Process.OTRequestProcessor.ProcessQueryRequest(eHIS.OT.Utility.Entities.SearchRequest,eHIS.OT.Utility.Entities.SearchResponse@)">
+ <summary>
+ This method is for all the get methods,these in turn call the process method of ActionProcessor
+ </summary>
+ <returns>Interger</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

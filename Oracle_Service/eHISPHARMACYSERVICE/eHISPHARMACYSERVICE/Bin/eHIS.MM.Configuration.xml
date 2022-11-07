@@ -1,0 +1,93 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Pharmacy.Configuration
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Pharmacy.Configuration.My.Resources.ConfigSettings">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Configuration.My.Resources.ConfigSettings.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Configuration.My.Resources.ConfigSettings.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Configuration.My.Resources.ConfigSettings.eHISBusinessAuditConnectionStringPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISBusinessAuditConnectionString.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Configuration.My.Resources.ConfigSettings.eHISBusinessAuditingEnabledPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISBusinessAuditingEnabled.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Configuration.My.Resources.ConfigSettings.eHISLoggerFilePath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISLoggerFilePath.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Configuration.My.Resources.ConfigSettings.eHISOracleCommonConnectionStringPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISOracleCommonConnectionString.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Configuration.My.Resources.ConfigSettings.eHISOracleConnectionStringPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISOracleConnectionString.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Configuration.My.Resources.ConfigSettings.XmlFilePath">
+<summary>
+  Looks up a localized string similar to ~configuration\eHISConfiguration.xml.
+</summary>
+</member>
+<member name="T:eHIS.Pharmacy.Configuration.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Configuration.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Configuration.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.Pharmacy.Configuration.ConfigSettings.#ctor">
+ <summary>
+ This constructor contains functionality for initializing field values
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Configuration.XmlSettingsReader.#ctor(System.String)">
+ <summary>
+ This constructor contains functionality for initializing field values
+ </summary>
+ <param name="filePath"></param>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Configuration.XmlSettingsReader.Populate">
+ <summary>
+ This method contains functionality for populating data into respective
+ fields reading from different nodes
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

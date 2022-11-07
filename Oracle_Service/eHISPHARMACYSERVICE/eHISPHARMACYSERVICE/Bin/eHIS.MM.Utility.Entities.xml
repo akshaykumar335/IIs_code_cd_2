@@ -1,0 +1,2851 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Pharmacy.Utility.Entities
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Pharmacy.Utility.Entities.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.accountposting">
+<summary>
+  Looks up a localized string similar to p_accountpostingnew6.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddBinMaster">
+<summary>
+  Looks up a localized string similar to AddBinMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddBlock">
+<summary>
+  Looks up a localized string similar to dbo.AddBlockMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddCycleCount">
+<summary>
+  Looks up a localized string similar to P_AddCycleCount.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.addFAapps">
+<summary>
+  Looks up a localized string similar to p_addfixedassetsappsnew.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.addinvoiceapps">
+<summary>
+  Looks up a localized string similar to p_addinvoiceappsnew.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddItemCategory">
+<summary>
+  Looks up a localized string similar to p_additemcategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddItemCompany">
+<summary>
+  Looks up a localized string similar to dbo.AddItemCompany.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddItemMasterLocation">
+<summary>
+  Looks up a localized string similar to p_additemlocation.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddItemSubCategory1">
+<summary>
+  Looks up a localized string similar to p_additemsubcategory1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddItemSubCategory2">
+<summary>
+  Looks up a localized string similar to p_additemsubcategory2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddItemSubCategory3">
+<summary>
+  Looks up a localized string similar to p_additemsubcategory3.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddModifyROL">
+<summary>
+  Looks up a localized string similar to P_AddModifyROL.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddPayTerm">
+<summary>
+  Looks up a localized string similar to P_AddPayTerm.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddProfile">
+<summary>
+  Looks up a localized string similar to P_AddDrugProfile.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddRackMaster">
+<summary>
+  Looks up a localized string similar to AddRackMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddRowMaster">
+<summary>
+  Looks up a localized string similar to AddRowMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddStore">
+<summary>
+  Looks up a localized string similar to P_AddStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddStoreTypeMaster">
+<summary>
+  Looks up a localized string similar to P_AddStoreTypeMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddTaxCodes">
+<summary>
+  Looks up a localized string similar to P_AddTaxCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddTaxGroup">
+<summary>
+  Looks up a localized string similar to P_AddTaxGroup.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddTaxGroupDetails">
+<summary>
+  Looks up a localized string similar to P_AddTaxGroupDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddTaxType">
+<summary>
+  Looks up a localized string similar to P_AddTaxType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddUomClass">
+<summary>
+  Looks up a localized string similar to AddUOMClass.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddVendorCompanyMaster">
+<summary>
+  Looks up a localized string similar to p_addvendorcompany.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddVendorLocation">
+<summary>
+  Looks up a localized string similar to p_addvendorlocation.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.addvendororacleapps">
+<summary>
+  Looks up a localized string similar to P_AddVendorOracleAppsNew.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddVendorPOItems">
+<summary>
+  Looks up a localized string similar to P_AddVendorPOItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.AddZone">
+<summary>
+  Looks up a localized string similar to dbo.AddZoneMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.BinForRow">
+<summary>
+  Looks up a localized string similar to P_GETBINFORROW.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.CancelIndent">
+<summary>
+  Looks up a localized string similar to P_CancelIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.CancelPR">
+<summary>
+  Looks up a localized string similar to P_CancelPR.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ConversionAdd">
+<summary>
+  Looks up a localized string similar to AddConversionFactor.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.CostMethods">
+<summary>
+  Looks up a localized string similar to P_GetCostMethods.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.CountFrequency">
+<summary>
+  Looks up a localized string similar to CountFrequency.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteBinMaster">
+<summary>
+  Looks up a localized string similar to DeleteBinMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteBlock">
+<summary>
+  Looks up a localized string similar to dbo.DeleteBlock.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteItemCategory">
+<summary>
+  Looks up a localized string similar to p_deleteitemcategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteItemProfile">
+<summary>
+  Looks up a localized string similar to P_DeleteProfileItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteItemStore">
+<summary>
+  Looks up a localized string similar to P_DeleteItemStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteItemSubCategory1">
+<summary>
+  Looks up a localized string similar to p_deleteitemsubcategory1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteItemSubCategory2">
+<summary>
+  Looks up a localized string similar to p_deleteitemsubcategory2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteItemSubCategory3">
+<summary>
+  Looks up a localized string similar to p_deleteitemsubcategory3.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteLovDetails">
+<summary>
+  Looks up a localized string similar to P_DeleteLovDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteLovMaster">
+<summary>
+  Looks up a localized string similar to P_DeleteLovMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeletePayTerm">
+<summary>
+  Looks up a localized string similar to P_DeletePayterm.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteRackMaster">
+<summary>
+  Looks up a localized string similar to DeleteRackMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteROL">
+<summary>
+  Looks up a localized string similar to P_DeleteROL.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteRowMaster">
+<summary>
+  Looks up a localized string similar to DeleteRowMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteStore">
+<summary>
+  Looks up a localized string similar to P_DeleteStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteStoreTypeMaster">
+<summary>
+  Looks up a localized string similar to P_DeleteStoreTypeMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteStoreUserRole">
+<summary>
+  Looks up a localized string similar to P_DeleteStoreUserRoles.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteTaxCode">
+<summary>
+  Looks up a localized string similar to dbo.DeleteTaxCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteTaxGroup">
+<summary>
+  Looks up a localized string similar to P_DeleteTaxGroup.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteTaxGroupDetails">
+<summary>
+  Looks up a localized string similar to P_DeleteTaxGroupDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteTaxType">
+<summary>
+  Looks up a localized string similar to P_DeleteTaxType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteTaxTypeCode">
+<summary>
+  Looks up a localized string similar to P_DeleteTaxTypeCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteVendorCompanyMaster">
+<summary>
+  Looks up a localized string similar to P_DeleteVendorCompanyMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeletevendorLocationItems">
+<summary>
+  Looks up a localized string similar to DleteVendorLocationItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteVendorMaster">
+<summary>
+  Looks up a localized string similar to P_DeleteVendorCompanySites.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteVendorSiteItems">
+<summary>
+  Looks up a localized string similar to P_DeleteVendorSiteItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeletevendorSites">
+<summary>
+  Looks up a localized string similar to DleteVendorSite.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.DeleteZone">
+<summary>
+  Looks up a localized string similar to DeleteZoneMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GerROLAll">
+<summary>
+  Looks up a localized string similar to dbo.GetROLAll.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetAlertProcess">
+<summary>
+  Looks up a localized string similar to GetAlertProcess.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.Getalerts">
+<summary>
+  Looks up a localized string similar to GetAlerts.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetAllCategories">
+<summary>
+  Looks up a localized string similar to P_GETALLCATEGORIES.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetApprovalDetails">
+<summary>
+  Looks up a localized string similar to GetApprovalDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetApprovallevels">
+<summary>
+  Looks up a localized string similar to GetApprovallevels.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetApprovelProcess">
+<summary>
+  Looks up a localized string similar to GetApprovelProcess.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetAPrroveLevels">
+<summary>
+  Looks up a localized string similar to GetAPrroveLevels.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetBinMaster">
+<summary>
+  Looks up a localized string similar to GetBinMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetBlockMaster">
+<summary>
+  Looks up a localized string similar to dbo.GetBlockMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetBusinessType">
+<summary>
+  Looks up a localized string similar to P_GETBUSINESSTYPE.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetCity">
+<summary>
+  Looks up a localized string similar to P_GetCity.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetCityInfo">
+<summary>
+  Looks up a localized string similar to dbo.GetCityInfo.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetClassABC">
+<summary>
+  Looks up a localized string similar to GetClassABC.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetCountry">
+<summary>
+  Looks up a localized string similar to P_GetCountry.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetCurrency">
+<summary>
+  Looks up a localized string similar to P_GetCurrency.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetCycleCount">
+<summary>
+  Looks up a localized string similar to P_GetCycleCount.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetDistrict">
+<summary>
+  Looks up a localized string similar to  P_GetDistrict.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetDistrictInfo">
+<summary>
+  Looks up a localized string similar to dbo.GetDistrictInfo.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetGroupCodeDetails">
+<summary>
+  Looks up a localized string similar to P_GetGroupCodeDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetHospitals">
+<summary>
+  Looks up a localized string similar to P_GetHospitals.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetHospitalsOnParent">
+<summary>
+  Looks up a localized string similar to P_GETHOSPITALSONPARENT.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetIssuedQty">
+<summary>
+  Looks up a localized string similar to P_GetIssuedQuantity.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetIssuedQuantity">
+<summary>
+  Looks up a localized string similar to P_GetIssuedQuantity.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemCategory">
+<summary>
+  Looks up a localized string similar to GetItemCategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemClassification">
+<summary>
+  Looks up a localized string similar to GetItemClassification.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemCompany">
+<summary>
+  Looks up a localized string similar to GetItemCompany.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemDetails">
+<summary>
+  Looks up a localized string similar to P_GETITEMMASTERLOCATION.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemLookPageLoad">
+<summary>
+  Looks up a localized string similar to P_GetItemLookPageLoad.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemLookUpMaster">
+<summary>
+  Looks up a localized string similar to GetItemLookUpStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemLookUpStore">
+<summary>
+  Looks up a localized string similar to GetItemLookUpStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemSubCategory1">
+<summary>
+  Looks up a localized string similar to dbo.GetItemSubCategory1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemSubcategory1Master">
+<summary>
+  Looks up a localized string similar to P_GETITEMSUBCATEGORY1MASTER.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemSubCategory2">
+<summary>
+  Looks up a localized string similar to dbo.GetItemSubCategory2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemSubcategory2Master">
+<summary>
+  Looks up a localized string similar to P_GETITEMSUBCATEGORY2MASTER.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemSubCategory3">
+<summary>
+  Looks up a localized string similar to dbo.GetItemSubCategory3.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemSubcategory3Master">
+<summary>
+  Looks up a localized string similar to P_GETITEMSUBCATEGORY3MASTER.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetItemType">
+<summary>
+  Looks up a localized string similar to P_GetItemType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetLocation">
+<summary>
+  Looks up a localized string similar to p_getlocation.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetLocationId">
+<summary>
+  Looks up a localized string similar to P_GetLocationId.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetLovDetails">
+<summary>
+  Looks up a localized string similar to P_GetLovDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetLovMaster">
+<summary>
+  Looks up a localized string similar to P_GetLovMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetMainCategory">
+<summary>
+  Looks up a localized string similar to GetMainCategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetParent">
+<summary>
+  Looks up a localized string similar to P_GetParent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetParentStore">
+<summary>
+  Looks up a localized string similar to P_GetParentStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetPaymentTerms">
+<summary>
+  Looks up a localized string similar to GetPaymentterms.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetPaymode">
+<summary>
+  Looks up a localized string similar to P_GetPaymode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetPayTerm">
+<summary>
+  Looks up a localized string similar to P_Getpayterm.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetPinCode">
+<summary>
+  Looks up a localized string similar to P_GetPinCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetPrefix">
+<summary>
+  Looks up a localized string similar to P_GetPrefix.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetProfileDetails">
+<summary>
+  Looks up a localized string similar to P_GetProfile.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetPurchaseCostCenter">
+<summary>
+  Looks up a localized string similar to P_GETCOSTCENETRCODE.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetRackMaster">
+<summary>
+  Looks up a localized string similar to GetRackMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetRegion">
+<summary>
+  Looks up a localized string similar to P_GetRegion.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetROL">
+<summary>
+  Looks up a localized string similar to P_GETROL.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetROLAll">
+<summary>
+  Looks up a localized string similar to  P_GETROLALL.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetRowMaster">
+<summary>
+  Looks up a localized string similar to GetRowMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetSites">
+<summary>
+  Looks up a localized string similar to P_GETSITES.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetState">
+<summary>
+  Looks up a localized string similar to P_GetState.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.Getstatus">
+<summary>
+  Looks up a localized string similar to dbo.GetStatus.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetStorageType">
+<summary>
+  Looks up a localized string similar to GetItemStorageType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetStore">
+<summary>
+  Looks up a localized string similar to dbo.GetStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetStoreNames">
+<summary>
+  Looks up a localized string similar to P_GetStoreName.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetStoreType">
+<summary>
+  Looks up a localized string similar to P_GetStoreType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetStoreTypeMaster">
+<summary>
+  Looks up a localized string similar to P_GetStoreTypeMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetStoreTypeName">
+<summary>
+  Looks up a localized string similar to GetStoreName.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetStoreUserRole">
+<summary>
+  Looks up a localized string similar to P_GetStoreUserRole.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetSubstituteDetails">
+<summary>
+  Looks up a localized string similar to p_getsubstitute.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTaxAll">
+<summary>
+  Looks up a localized string similar to P_GetTaxAll.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTaxCode">
+<summary>
+  Looks up a localized string similar to P_GetTaxCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTaxCodeDetails">
+<summary>
+  Looks up a localized string similar to P_GetTaxCodeDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTaxCodeNames">
+<summary>
+  Looks up a localized string similar to P_GetTaxCodeNames.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTaxCodeSearch">
+<summary>
+  Looks up a localized string similar to P_GetTaxCodeSearch.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTaxGroup">
+<summary>
+  Looks up a localized string similar to P_GetTaxGroup.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTaxGroupCode">
+<summary>
+  Looks up a localized string similar to P_GetTaxGroupCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTaxGroupDetails">
+<summary>
+  Looks up a localized string similar to P_GetTaxGroupDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTaxMasterAll">
+<summary>
+  Looks up a localized string similar to P_GetTaxMasterAll.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTaxType">
+<summary>
+  Looks up a localized string similar to P_GetTaxType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTaxTypeCode">
+<summary>
+  Looks up a localized string similar to P_GetTaxTypeCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTaxTypeId">
+<summary>
+  Looks up a localized string similar to P_GetTaxTypeId.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetTDSName">
+<summary>
+  Looks up a localized string similar to P_TDSCategories.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetUOM">
+<summary>
+  Looks up a localized string similar to p_GetUOM.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetUOMClass">
+<summary>
+  Looks up a localized string similar to GetUOMClass.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetUOMCodeNames">
+<summary>
+  Looks up a localized string similar to GetUOMCodeNames.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetuploadData">
+<summary>
+  Looks up a localized string similar to getuploaddata.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetVEDAnalysis">
+<summary>
+  Looks up a localized string similar to GetVEDAnalysis.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.Getvedordetails">
+<summary>
+  Looks up a localized string similar to P_GetVedordetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetVendorCode">
+<summary>
+  Looks up a localized string similar to P_GetVedorCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetvendorLocationItems">
+<summary>
+  Looks up a localized string similar to P_GetVendorLocationItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetvendorName">
+<summary>
+  Looks up a localized string similar to P_GetvendorName.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetvendorSites">
+<summary>
+  Looks up a localized string similar to GetvendorSites.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetVendorTyep2">
+<summary>
+  Looks up a localized string similar to P_GetVendorTyep2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetVendorType1">
+<summary>
+  Looks up a localized string similar to P_GetVendorTyep1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.GetZoneMaster">
+<summary>
+  Looks up a localized string similar to GetZoneMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ItemCategory">
+<summary>
+  Looks up a localized string similar to ItemCategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ItemDeletionLocation">
+<summary>
+  Looks up a localized string similar to p_deleteitemlocation.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ItemDetails">
+<summary>
+  Looks up a localized string similar to P_SearchItem1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ItemStoreAdd">
+<summary>
+  Looks up a localized string similar to P_AddItemStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ItemStoreGet">
+<summary>
+  Looks up a localized string similar to P_GetStoreItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ItemUpdateLocation">
+<summary>
+  Looks up a localized string similar to p_updateitemlocation.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.LeadTimeUnit">
+<summary>
+  Looks up a localized string similar to LeadTimeUnit.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ModifyROL">
+<summary>
+  Looks up a localized string similar to P_UpdateROL.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.PaymentMode">
+<summary>
+  Looks up a localized string similar to P_GetPayMode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.PaymentTypes">
+<summary>
+  Looks up a localized string similar to P_GetPaymentMethods.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.Procamccompletion">
+<summary>
+  Looks up a localized string similar to p_rptamccompletion .
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcAMCReport">
+<summary>
+  Looks up a localized string similar to P_rptamc.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcCategoryWiseInventory">
+<summary>
+  Looks up a localized string similar to P_rptInventoryValueCategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcCategoryWisePurchase">
+<summary>
+  Looks up a localized string similar to P_rptCategoryWisePurchase.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcCategoryWiseRateList">
+<summary>
+  Looks up a localized string similar to p_rptcategorywiseratelist.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcCondemndItems">
+<summary>
+  Looks up a localized string similar to P_rptCondemndItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcCRSTransaction">
+<summary>
+  Looks up a localized string similar to P_RPTCRSTRANSACTION.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcDailyStockChk">
+<summary>
+  Looks up a localized string similar to P_rptDailyStockChk.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcDepartmentItemConsumption">
+<summary>
+  Looks up a localized string similar to P_rptDepartmentItemConsumption.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcDeptConsumptionReport">
+<summary>
+  Looks up a localized string similar to P_rptDepartmentWiseConsumption.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcDeptWiseReceipt">
+<summary>
+  Looks up a localized string similar to P_rptDeptWiseReceipt.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcDin">
+<summary>
+  Looks up a localized string similar to P_rptdin.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcGetRegionOnLocation">
+<summary>
+  Looks up a localized string similar to P_GetRegionOnLocation.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcGetuploadData">
+<summary>
+  Looks up a localized string similar to getuploaddata .
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcGRN">
+<summary>
+  Looks up a localized string similar to  P_rptgrn.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProchirepurchaseCompletion">
+<summary>
+  Looks up a localized string similar to p_rpthirepurchasecompletion.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcHirePurchaseReport">
+<summary>
+  Looks up a localized string similar to P_rpthirepurchase.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcINDENT">
+<summary>
+  Looks up a localized string similar to  P_rptindent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcInventorystockstatus">
+<summary>
+  Looks up a localized string similar to p_Inventorystockstatusreport.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcInventoryValuation">
+<summary>
+  Looks up a localized string similar to P_rptInventoryValuation.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcInvoiceSum">
+<summary>
+  Looks up a localized string similar to P_RPTinvoicesummary.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcIssuesDateWise">
+<summary>
+  Looks up a localized string similar to P_RPTIssuesDateWise.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcItemConsumption">
+<summary>
+  Looks up a localized string similar to P_rptItemConsumption.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcItemDetails">
+<summary>
+  Looks up a localized string similar to P_rptItemdetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcItemMaster">
+<summary>
+  Looks up a localized string similar to P_rptItemMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcItemRcvd">
+<summary>
+  Looks up a localized string similar to P_rptItemRcvd.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcLeaseCompletion">
+<summary>
+  Looks up a localized string similar to p_rptleasecompletion .
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcLeasePurchaseContract">
+<summary>
+  Looks up a localized string similar to P_rptleasepurchasecontract.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcMatConsumptionPatient">
+<summary>
+  Looks up a localized string similar to P_rptMatConsumptionPatient.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcMaterialsIssuedtoStores">
+<summary>
+  Looks up a localized string similar to P_rptMaterialsIssuedtoStores.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcNonMovingItems">
+<summary>
+  Looks up a localized string similar to P_rptNonMovingItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcOpenMRPageData">
+<summary>
+  Looks up a localized string similar to P_rptOpenMRsData.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcOpenMRReportData">
+<summary>
+  Looks up a localized string similar to P_rptOpenMRs.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcPatConsumption">
+<summary>
+  Looks up a localized string similar to P_rptpatconsumption.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcPeriodCloseValueSum">
+<summary>
+  Looks up a localized string similar to P_rptPeriodCloseValSum.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcPItemStatus">
+<summary>
+  Looks up a localized string similar to P_RPTItemStatus.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcPOAmendment">
+<summary>
+  Looks up a localized string similar to P_rptPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcPOProcessFlowReport">
+<summary>
+  Looks up a localized string similar to P_rptprocessflow2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcPreviousIndentIssues">
+<summary>
+  Looks up a localized string similar to P_rptPreviousIndentIssues.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcProcessFlowPopupReport">
+<summary>
+  Looks up a localized string similar to p_rptpurchaserequest.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcProcessFlowReport">
+<summary>
+  Looks up a localized string similar to P_rptprocessflow1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcPurchaseOrderDateWise">
+<summary>
+  Looks up a localized string similar to P_rptinterfacestagingdetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcPurchaseReceipt">
+<summary>
+  Looks up a localized string similar to P_RPTPurchaseReceipt.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcPurReturnSummary">
+<summary>
+  Looks up a localized string similar to P_rptPurReturnSummary.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcRateContract">
+<summary>
+  Looks up a localized string similar to P_rptratecontract.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcRegularPO">
+<summary>
+  Looks up a localized string similar to P_rptRegularpo.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcRejectedItems">
+<summary>
+  Looks up a localized string similar to P_rptRejectedItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcReportFilter">
+<summary>
+  Looks up a localized string similar to P_rptFilter.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcRFQorPO">
+<summary>
+  Looks up a localized string similar to P_rptRFQorPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcRFQReport">
+<summary>
+  Looks up a localized string similar to P_rptRFQ.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcRoleWisereports">
+<summary>
+  Looks up a localized string similar to P_rptGetRoleWiseReports.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcRPTItemStatusPOMR">
+<summary>
+  Looks up a localized string similar to P_RPTItemStatusPOMR.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcRPTRFQSelection">
+<summary>
+  Looks up a localized string similar to P_rptrfqselection.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcServiceCompletionCertificate">
+<summary>
+  Looks up a localized string similar to P_rptserviceordercertificate.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcServiceOrder">
+<summary>
+  Looks up a localized string similar to P_rptso.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcSRV">
+<summary>
+  Looks up a localized string similar to P_rptsrv.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcStockLedger">
+<summary>
+  Looks up a localized string similar to P_rptstockledger.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcStockStatus">
+<summary>
+  Looks up a localized string similar to P_rptStockStatus.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcStoreConsumptionSummaryReport">
+<summary>
+  Looks up a localized string similar to P_rptStoreConsumptionSummary.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcStoreWiseDepartmentIssue">
+<summary>
+  Looks up a localized string similar to P_rptStoreWiseDepartmentIssue.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcSupplierDetails">
+<summary>
+  Looks up a localized string similar to P_rptSupplierdetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcSupplierMasterList">
+<summary>
+  Looks up a localized string similar to P_rptSupplierMasterList.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcUSERINDENT">
+<summary>
+  Looks up a localized string similar to P_rptuserindent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProcVendorComparsionReport1">
+<summary>
+  Looks up a localized string similar to p_rptgetvendorcomparison.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProfileDelete">
+<summary>
+  Looks up a localized string similar to P_DeleteProfile.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ProfileItems">
+<summary>
+  Looks up a localized string similar to P_GetProfileItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.PurchaseType">
+<summary>
+  Looks up a localized string similar to P_GetItemPurhaseType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.QtyReceiveException">
+<summary>
+  Looks up a localized string similar to QtyReceiveException.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.RackForZone">
+<summary>
+  Looks up a localized string similar to P_GetRackForZone.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.RowForRack">
+<summary>
+  Looks up a localized string similar to P_GETROWFORRACK.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.SaveLovDetails">
+<summary>
+  Looks up a localized string similar to P_SaveLovDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.SaveLovMaster">
+<summary>
+  Looks up a localized string similar to P_SaveLovMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.SaveStoreUserRole">
+<summary>
+  Looks up a localized string similar to P_SaveStoreUserRole.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.SearchItemCompany">
+<summary>
+  Looks up a localized string similar to p_searchitemcompany.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.SearchItemLocation">
+<summary>
+  Looks up a localized string similar to P_SearchItemLocation.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.SearchItemLocationPO">
+<summary>
+  Looks up a localized string similar to P_SearchItemLocationPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.SearchItemStore">
+<summary>
+  Looks up a localized string similar to P_SearchItemStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.Status">
+<summary>
+  Looks up a localized string similar to Status.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.StoreCategory">
+<summary>
+  Looks up a localized string similar to StoreType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.StoreControlAccount">
+<summary>
+  Looks up a localized string similar to 1301201.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.StoreCostCenter">
+<summary>
+  Looks up a localized string similar to 6900.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.StoreHierarchy">
+<summary>
+  Looks up a localized string similar to P_ShowHierarchyStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.StoreStatus">
+<summary>
+  Looks up a localized string similar to StoreStatus.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.StoreViewAll">
+<summary>
+  Looks up a localized string similar to P_StoreViewAll.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.String1">
+<summary>
+  Looks up a localized string similar to P_rptprocessflow2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.String2">
+<summary>
+  Looks up a localized string similar to P_rptdin.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.SubstituteDeletion">
+<summary>
+  Looks up a localized string similar to P_DeleteSubstitute.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.TaxCodeViewAll">
+<summary>
+  Looks up a localized string similar to dbo.TaxCodeViewAll.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.TaxTypeSearch">
+<summary>
+  Looks up a localized string similar to P_TaxTypeSearch.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UomCodeDelete">
+<summary>
+  Looks up a localized string similar to DeleteUomCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UOMCodeGet">
+<summary>
+  Looks up a localized string similar to GetUOMCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UomCodeGetOnBaseUnit">
+<summary>
+  Looks up a localized string similar to P_GetUOMCodeOnBaseUnit.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.updatebisandbarcodes">
+<summary>
+  Looks up a localized string similar to p_updatebisandbarcodes.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateGetalerts">
+<summary>
+  Looks up a localized string similar to UpdateGetalerts.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateItemcategory">
+<summary>
+  Looks up a localized string similar to P_UpdateItemcategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateItemCompany">
+<summary>
+  Looks up a localized string similar to UpdateItemCompany.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateItemProfile">
+<summary>
+  Looks up a localized string similar to P_UpdateDrugProfileItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateItemsAtVendorLocation">
+<summary>
+  Looks up a localized string similar to  p_updatevendorlocation.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateItemStore">
+<summary>
+  Looks up a localized string similar to P_UpdateItemStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateItemSubCategory2">
+<summary>
+  Looks up a localized string similar to P_UpdateItemSubCategory2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateItemSubCategory3">
+<summary>
+  Looks up a localized string similar to P_UpdateItemSubCategory3.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateLevelstatus">
+<summary>
+  Looks up a localized string similar to UpdateLevelstatus.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateLovDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateLovDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateLovMaster">
+<summary>
+  Looks up a localized string similar to P_UpdateLOVMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateNextLevelstatus">
+<summary>
+  Looks up a localized string similar to UpdateNextLevelstatus.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateProfile">
+<summary>
+  Looks up a localized string similar to dbo.UpdateDrugProfile.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateStore">
+<summary>
+  Looks up a localized string similar to p_UpdateStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateStoreTypeMaster">
+<summary>
+  Looks up a localized string similar to P_UpdateStoreTypeMaster.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateStoreUserRole">
+<summary>
+  Looks up a localized string similar to P_UpdateStoreUserRoles.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateSubcategory1">
+<summary>
+  Looks up a localized string similar to p_updateitemsubcategory1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateSubstitute">
+<summary>
+  Looks up a localized string similar to p_addsubstitute.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateTaxGroupDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateTaxGroupDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateUomCode">
+<summary>
+  Looks up a localized string similar to UpdateUomCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.UpdateVendorCompanyMaster">
+<summary>
+  Looks up a localized string similar to p_updatevendorcompany.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.VendorAccountforCapitalItems">
+<summary>
+  Looks up a localized string similar to 1401001.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.VendorAccountforGoods">
+<summary>
+  Looks up a localized string similar to 1401002.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ViewItemCompany">
+<summary>
+  Looks up a localized string similar to ViewItemCompany.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.WeekDays">
+<summary>
+  Looks up a localized string similar to WeekDays.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyMasterResource.ZoneForBlock">
+<summary>
+  Looks up a localized string similar to P_GetZoneForBlock.
+</summary>
+</member>
+<member name="T:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.AddCondemnationDetails">
+<summary>
+  Looks up a localized string similar to AddCondemnationDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.AddCountItemData">
+<summary>
+  Looks up a localized string similar to AddCountItemData.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.AddCycleCountData">
+<summary>
+  Looks up a localized string similar to AddCycleCountData.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ADDGRNDetails">
+<summary>
+  Looks up a localized string similar to ADDGRNDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.AddIndents">
+<summary>
+  Looks up a localized string similar to AddIndents.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ADDInspectionDetails">
+<summary>
+  Looks up a localized string similar to ADDInspectionDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ADDInvoiceDetails">
+<summary>
+  Looks up a localized string similar to ADDInvoiceDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.AddIssue">
+<summary>
+  Looks up a localized string similar to AddIssue.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ADDItemsReturnVendor">
+<summary>
+  Looks up a localized string similar to ADDItemsReturnVendor.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ADDJCCDetails">
+<summary>
+  Looks up a localized string similar to ADDJCCDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.AddPO">
+<summary>
+  Looks up a localized string similar to AddPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ADDPOAmendementDetails">
+<summary>
+  Looks up a localized string similar to ADDPOAmendementDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.AddPOPR">
+<summary>
+  Looks up a localized string similar to AddPOPR.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ADDPrDetails">
+<summary>
+  Looks up a localized string similar to ADDPrDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.AddRFQ">
+<summary>
+  Looks up a localized string similar to AddRFQ.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ADDSRVDetails">
+<summary>
+  Looks up a localized string similar to ADDSRVDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.AddVendorPOItems">
+<summary>
+  Looks up a localized string similar to AddVendorPOItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.AdjustmentDetails">
+<summary>
+  Looks up a localized string similar to ADJUSTMENTREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.BatchSerialItems">
+<summary>
+  Looks up a localized string similar to BatchSerialItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.BatchSerialReturnAcknowledge">
+<summary>
+  Looks up a localized string similar to BatchSerialReturnAcknowledge.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.CancelIndent">
+<summary>
+  Looks up a localized string similar to CancelIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ConsignmentEntryReceipt">
+<summary>
+  Looks up a localized string similar to CONSIGNMENTENTRYRECEIPT.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.DeclarationItems">
+<summary>
+  Looks up a localized string similar to DeclarationItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.DETAILS">
+<summary>
+  Looks up a localized string similar to DETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GatePassAgainstDetails">
+<summary>
+  Looks up a localized string similar to GatePassAgainstDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GatePassDetails">
+<summary>
+  Looks up a localized string similar to GatePassDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GatePassPOVendorDetails">
+<summary>
+  Looks up a localized string similar to GatePassPOVendorDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetAllVendors">
+<summary>
+  Looks up a localized string similar to GetAllVendors.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetBatchSerial">
+<summary>
+  Looks up a localized string similar to GetBatchSerial.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetConsignmentCodeDetails">
+<summary>
+  Looks up a localized string similar to GETCONSIGNMENTCODEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetConsignmentEntryReceiptDetails">
+<summary>
+  Looks up a localized string similar to GETCONSIGNMENTENTRYDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetConsignmentPO">
+<summary>
+  Looks up a localized string similar to ADDCONSIGNMENTPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetConsignmentPR">
+<summary>
+  Looks up a localized string similar to ADDCONSIGNMENTPR.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetConsignmentPRCodeDetails">
+<summary>
+  Looks up a localized string similar to GETCONSIGNMENTPRCODEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetConsignmentPRDetails">
+<summary>
+  Looks up a localized string similar to CONSIGNMENTPRDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetContractItems">
+<summary>
+  Looks up a localized string similar to GetContractItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetContractPopUp">
+<summary>
+  Looks up a localized string similar to GetContractPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetCostCeneterCode">
+<summary>
+  Looks up a localized string similar to GetCostCeneterCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetCount">
+<summary>
+  Looks up a localized string similar to GetCountDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetCountItems">
+<summary>
+  Looks up a localized string similar to GetCountItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetCurrencyDetails">
+<summary>
+  Looks up a localized string similar to GetCurrencyDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetDetails">
+<summary>
+  Looks up a localized string similar to GETDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetDetailschild">
+<summary>
+  Looks up a localized string similar to GetDetailschild.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetGLData">
+<summary>
+  Looks up a localized string similar to GetGLData.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetGLExport">
+<summary>
+  Looks up a localized string similar to GetGLExport.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetGRNCode">
+<summary>
+  Looks up a localized string similar to GetGRNCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetGRNDetails">
+<summary>
+  Looks up a localized string similar to GetGRNDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetIndent">
+<summary>
+  Looks up a localized string similar to GetIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetInspectionCode">
+<summary>
+  Looks up a localized string similar to GetInspectionCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetInspectionDetails">
+<summary>
+  Looks up a localized string similar to GetInspectionDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetIssueCodeDetails">
+<summary>
+  Looks up a localized string similar to GETISSUECODEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetIssueForIndent">
+<summary>
+  Looks up a localized string similar to GetIssueForIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetItemCategeroy">
+<summary>
+  Looks up a localized string similar to GetItemCategeroy.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetItemCategeroy1">
+<summary>
+  Looks up a localized string similar to GetItemCategeroy1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetItemCategeroy2">
+<summary>
+  Looks up a localized string similar to GetItemCategeroy2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetItemCategeroy3">
+<summary>
+  Looks up a localized string similar to GetItemCategeroy3.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetItemCode">
+<summary>
+  Looks up a localized string similar to BATCHSERIALPROCESS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetItemDetails">
+<summary>
+  Looks up a localized string similar to GETITEMDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetItemLookUp">
+<summary>
+  Looks up a localized string similar to GetItemLookUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetItemLookUpIndent">
+<summary>
+  Looks up a localized string similar to GetItemLookUpIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetItemLookUpStore">
+<summary>
+  Looks up a localized string similar to GetItemLookUpStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetItemLookUpStore1">
+<summary>
+  Looks up a localized string similar to GetItemLookUpStore1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetItems">
+<summary>
+  Looks up a localized string similar to GetItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetLocationID">
+<summary>
+  Looks up a localized string similar to GetLocationID.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetMasterDetails">
+<summary>
+  Looks up a localized string similar to LOADMASTERDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetParentStoreCode">
+<summary>
+  Looks up a localized string similar to GetParentStoreCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetPayTermPopUp">
+<summary>
+  Looks up a localized string similar to GetPayTermPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetPharmacyDetails">
+<summary>
+  Looks up a localized string similar to GETPHARMACYDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetPOAmendementPODetails">
+<summary>
+  Looks up a localized string similar to GetPOAmendementPODetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetPODropDownValues">
+<summary>
+  Looks up a localized string similar to GetPODropDownValues.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetPONo">
+<summary>
+  Looks up a localized string similar to GetPONo.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetPOPRItems">
+<summary>
+  Looks up a localized string similar to GetPOPRItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetPOVendorPopUp">
+<summary>
+  Looks up a localized string similar to GETPOVENDORSPOPUP.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GETPRDetails">
+<summary>
+  Looks up a localized string similar to GETPRDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.getQuantityScheduleDetails">
+<summary>
+  Looks up a localized string similar to GETQUANTITYSCHEDULEDETALS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetQuotationItems">
+<summary>
+  Looks up a localized string similar to GetQuotationItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetQuotationPopUp">
+<summary>
+  Looks up a localized string similar to GetQuotationPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetReceiptCodeDetails">
+<summary>
+  Looks up a localized string similar to GETRECEIPTSCODEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetReceiveItemCode">
+<summary>
+  Looks up a localized string similar to RECEIVEBATCHSERIAL.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetReturnCodeDetails">
+<summary>
+  Looks up a localized string similar to GETRETURNCODEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetRFQDetails">
+<summary>
+  Looks up a localized string similar to GETRFQDETAILSEARCH.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetRFQPopUp">
+<summary>
+  Looks up a localized string similar to GetRFQPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetRFQSearchDetails">
+<summary>
+  Looks up a localized string similar to GetRFQDetailsTag.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetSRVCode">
+<summary>
+  Looks up a localized string similar to GetSRVCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetSRVDetails">
+<summary>
+  Looks up a localized string similar to GetSRVDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetStatus">
+<summary>
+  Looks up a localized string similar to GetStatus.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetStoreHomePage">
+<summary>
+  Looks up a localized string similar to GetStoreHomePage.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetStoreName">
+<summary>
+  Looks up a localized string similar to GetStoreName.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetStoreOnLogin">
+<summary>
+  Looks up a localized string similar to GetStoreOnLogin.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetStoreType">
+<summary>
+  Looks up a localized string similar to GetStoreType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetSubstitutes">
+<summary>
+  Looks up a localized string similar to GetSubstitutes.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetTaxPopUp">
+<summary>
+  Looks up a localized string similar to GetTaxPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetUOMConversion">
+<summary>
+  Looks up a localized string similar to GetUOMConversion.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetVendorAdditionalDetails">
+<summary>
+  Looks up a localized string similar to GETVENDORADDITIONALDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetVendorComparison">
+<summary>
+  Looks up a localized string similar to GetVendorComparison.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetVendorDetailsOracle">
+<summary>
+  Looks up a localized string similar to GetVendorDetailsOracle.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetVendorDetailsPO">
+<summary>
+  Looks up a localized string similar to GetVendorDetailsPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetVendorItemsPO">
+<summary>
+  Looks up a localized string similar to GetVendorItemsPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetVendorMasterCode">
+<summary>
+  Looks up a localized string similar to GETVENDORMASTERCODE.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GetVendorPopUp">
+<summary>
+  Looks up a localized string similar to GetVendorPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.GRNPODetails">
+<summary>
+  Looks up a localized string similar to GRNPODetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.Indent">
+<summary>
+  Looks up a localized string similar to Indent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.IndentSearch">
+<summary>
+  Looks up a localized string similar to IndentSearch.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.IndentStatus">
+<summary>
+  Looks up a localized string similar to IndentStatus.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.InTransit">
+<summary>
+  Looks up a localized string similar to InTransit.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.Issue">
+<summary>
+  Looks up a localized string similar to Issue.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.Issuecode">
+<summary>
+  Looks up a localized string similar to Issuecode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.IssueDetails">
+<summary>
+  Looks up a localized string similar to ISSUEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.IssueSearchDetails">
+<summary>
+  Looks up a localized string similar to ISSUESEARCHDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.IssueStatus">
+<summary>
+  Looks up a localized string similar to IssueStatus.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ItemCategory">
+<summary>
+  Looks up a localized string similar to GetItemcategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ItemSearch">
+<summary>
+  Looks up a localized string similar to ITEMSEARCH.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ItemSearchDetails">
+<summary>
+  Looks up a localized string similar to SEARCHDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ItemSubCategory1">
+<summary>
+  Looks up a localized string similar to GetItemSubCategory1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ItemSubCategory2">
+<summary>
+  Looks up a localized string similar to GetItemSubCategory2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ItemSubCategory3">
+<summary>
+  Looks up a localized string similar to GetItemSubCategory3.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.Materialbatchserial">
+<summary>
+  Looks up a localized string similar to Materialbatchserial.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.MateriallCode">
+<summary>
+  Looks up a localized string similar to MateriallCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.MateriallRecallItems">
+<summary>
+  Looks up a localized string similar to MateriallRecallItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.MaterialRecall">
+<summary>
+  Looks up a localized string similar to MaterialRecall.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.NoData">
+<summary>
+  Looks up a localized string similar to There are no records.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.PostOracleData">
+<summary>
+  Looks up a localized string similar to PostOracleData.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.PRSearch">
+<summary>
+  Looks up a localized string similar to PRSearch.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.PRShedule">
+<summary>
+  Looks up a localized string similar to PRShedule.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.PRType">
+<summary>
+  Looks up a localized string similar to PRType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.PurchaseDetails">
+<summary>
+  Looks up a localized string similar to PurchaseDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QuerryDepartmentProcessDetails">
+<summary>
+  Looks up a localized string similar to QueryDepartment.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QueryDepartment">
+<summary>
+  Looks up a localized string similar to QueryDepartment.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.queryErrorTag">
+<summary>
+  Looks up a localized string similar to QueryErrorTag.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QueryFromDept">
+<summary>
+  Looks up a localized string similar to QueryFromDept.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QueryIndents">
+<summary>
+  Looks up a localized string similar to QueryIndents.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QueryIndentType">
+<summary>
+  Looks up a localized string similar to QueryIndentType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QueryItemLookUpLocation">
+<summary>
+  Looks up a localized string similar to QueryItemLookUpLocation.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QueryItemSearch">
+<summary>
+  Looks up a localized string similar to QueryItemSearch.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QueryMainCategory">
+<summary>
+  Looks up a localized string similar to QueryMainCategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QueryMaterialProfile">
+<summary>
+  Looks up a localized string similar to QueryMaterialProfile.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QueryProfileChange">
+<summary>
+  Looks up a localized string similar to QueryProfileChange.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QueryStore">
+<summary>
+  Looks up a localized string similar to QueryStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QuerySubCategory">
+<summary>
+  Looks up a localized string similar to QuerySubCategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QuerySubCategory2">
+<summary>
+  Looks up a localized string similar to QuerySubCategory2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QuerySubCategory3">
+<summary>
+  Looks up a localized string similar to QuerySubCategory3.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QuerySystemGeneratedIndent">
+<summary>
+  Looks up a localized string similar to querySystemGeneratedIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QueryToStore">
+<summary>
+  Looks up a localized string similar to QueryToStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.QuotationProcessDetails">
+<summary>
+  Looks up a localized string similar to QUOTATIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.RaiseRequest">
+<summary>
+  Looks up a localized string similar to RaiseRequest.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.RateContractDetails">
+<summary>
+  Looks up a localized string similar to ADDRATECONTRACT.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.RecallItems">
+<summary>
+  Looks up a localized string similar to RecallItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.Receipt">
+<summary>
+  Looks up a localized string similar to Receipt.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ReceiveBatchSerialItems">
+<summary>
+  Looks up a localized string similar to RECEIVEBATCHSERIALITEMS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ReceiveItemDetails">
+<summary>
+  Looks up a localized string similar to RECEIVEITEMREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ReturnAcknowledge">
+<summary>
+  Looks up a localized string similar to ReturnAcknowledge.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ReturnDetails">
+<summary>
+  Looks up a localized string similar to ReturnDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ReturnItems">
+<summary>
+  Looks up a localized string similar to ReturnItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.Returns">
+<summary>
+  Looks up a localized string similar to Returns.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.ReusableItems">
+<summary>
+  Looks up a localized string similar to ReusableItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.SRVDetails">
+<summary>
+  Looks up a localized string similar to SRVDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.StoreSearchDetails">
+<summary>
+  Looks up a localized string similar to STORESEARCH.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.String1">
+<summary>
+  Looks up a localized string similar to QueryProfileChange.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.TransactionCode">
+<summary>
+  Looks up a localized string similar to TransactionCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.UserIndentProcessDetails">
+<summary>
+  Looks up a localized string similar to USERINDENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.My.Resources.PharmacyResource.WithoutBatchSerialItems">
+<summary>
+  Looks up a localized string similar to WithoutBatchSerialItems.
+</summary>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.AdjustmentDetailsRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.AdjustmentDetailsRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.AdjustmentDetailsResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.AdjustmentDetailsResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentEntryReceiptRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentEntryReceiptRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentEntryReceiptResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentEntryReceiptResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentItemsPORequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentItemsPOSearch.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentPORequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentPORequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentPOResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentPOResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentPRRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentPRRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentPRResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentPRResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ConsignmentSearchRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.CycleCountRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.CycleCountRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.GatePassRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.GatePassRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.GetDetailsResponse.SerializeObject">
+ <summary>
+ This method contains functionality for serializing a object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.GetDetailsResponse.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml into object
+ </summary>
+ <param name="xmlResponse"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.GoodsReturnToVendor.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.GRNRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.GRNRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.IssueRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.Issues.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ItemLookUpStoreRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ItemLookUpStoreRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ItemSearchResponse.SerializeObject">
+ <summary>
+ This method contains functionality for serializing a object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ItemSearchResponse.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml into object
+ </summary>
+ <param name="xmlResponse"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.LabIssueRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.LabResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.LabResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.LookUpRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.LookUpRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.PayTermRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.PayTermRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.PharmacyMasterResource.GetState">
+ <summary>
+ GetState
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.PharmacyMasterResource.GetDistrict">
+ <summary>
+ GetDistrict
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.PharmacyMasterResource.AddTaxType">
+ <summary>
+ AddTaxCode Property
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.PharmacyMasterResource.DeleteTaxCode">
+ <summary>
+ DeleteTaxCode Property
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.PharmacyMasterResource.GetTaxCode">
+ <summary>
+ GetTaxCode Property
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.PharmacyMasterResource.GetTaxType">
+ <summary>
+ GetTaxType
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.PharmacyMasterResource.AddTaxCodes">
+ <summary>
+ AddTaxCode
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.PharmacyMasterResource.GetTaxtypecode">
+ <summary>
+ GetTaxTypeCode
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:eHIS.Pharmacy.Utility.Entities.PharmacyMasterResource.TaxCodeViewAll">
+ <summary>
+ 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.PRRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.PRRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.PurchaseOrderRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.PurchaseOrderRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.QuotationDetailsRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.QuotationDetailsRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.QuotationDetailsResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.QuotationDetailsResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.RateContractRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.RateContractRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ReceiveBatchSerialResponse.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml into object
+ </summary>
+ <param name="xmlResponse"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ReceiveItemsRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ReceiveItemsRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ReceiveItemsResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ReturnRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.ReturnRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.RFQ.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.StatusRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.StatusRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.UserIndentDetailsRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.UserIndentDetailsRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.UserIndentDetailsResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.Utility.Entities.UserIndentDetailsResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

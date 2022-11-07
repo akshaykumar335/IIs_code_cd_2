@@ -1,0 +1,192 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.AHC.Utility.Entities
+</name>
+</assembly>
+<members>
+<member name="M:eHIS.AHC.Utility.Entities.ActionRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.ActionRequest.DeserializeObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.AddToFavoriteRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.AddToFavoriteRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.AHCFlowRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing a object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.AHCFlowRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml into object
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.AHCSoapRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.AHCSoapRequest.DeserializeObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.ApprovalRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.ApprovalRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.DeleteFavouriteRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.DeleteFavouriteRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.HighLightSymptomRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing a object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.HighLightSymptomRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml into object
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.MergedSystemicDataRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing a object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.MergedSystemicDataRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml into object
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.PackageConfigurationRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing a object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.PackageConfigurationRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml into object
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.PackageCounsellingRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing a object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.PackageCounsellingRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml into object
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.SearchRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.SearchRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.SystemicDataRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing a object
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AHC.Utility.Entities.SystemicDataRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml into object
+ </summary>
+ <param name="xmlRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

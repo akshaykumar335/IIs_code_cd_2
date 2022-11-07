@@ -1,0 +1,88 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Payroll.Business.Process
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Payroll.Business.Process.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.Business.Process.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.Business.Process.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.Payroll.Business.Process.My.Resources.ProcessorResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.Business.Process.My.Resources.ProcessorResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.Business.Process.My.Resources.ProcessorResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.Business.Process.My.Resources.ProcessorResources.GetAnnualCTC">
+<summary>
+  Looks up a localized string similar to GetAnnualCTC.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.Business.Process.My.Resources.ProcessorResources.GetEmployeeDeductions">
+<summary>
+  Looks up a localized string similar to GetEmployeeDeductions.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.Business.Process.My.Resources.ProcessorResources.GetEmployeeEarnings">
+<summary>
+  Looks up a localized string similar to GetEmployeeEarnings.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.Business.Process.My.Resources.ProcessorResources.SaveEmployeeDeductions">
+<summary>
+  Looks up a localized string similar to SaveEmployeeDeductions.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.Business.Process.My.Resources.ProcessorResources.SaveEmployeeEarnings">
+<summary>
+  Looks up a localized string similar to SaveEmployeeEarnings.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.Business.Process.My.Resources.ProcessorResources.UpdateEmployeeDeductions">
+<summary>
+  Looks up a localized string similar to UpdateEmployeeDeductions.
+</summary>
+</member>
+<member name="P:eHIS.Payroll.Business.Process.My.Resources.ProcessorResources.UpdateEmployeeEarnings">
+<summary>
+  Looks up a localized string similar to UpdateEmployeeEarnings.
+</summary>
+</member>
+<member name="M:eHIS.Payroll.Business.Process.ActionProcessor.Process(eHIS.Payroll.Utility.Entities.ActionRequest,System.String,System.Data.DataSet@)">
+ <summary>
+ this will call the appropriate method of PayrollService provider based on the action
+ </summary>
+ <param name="objActionRequest"></param>
+ <param name="requestXml"></param>
+ <param name="response"></param>
+ <param name="outputResultSet"></param>
+ <returns></returns>l
+ <remarks></remarks>
+</member>
+</members>
+</doc>

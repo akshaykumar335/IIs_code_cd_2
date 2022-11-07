@@ -1,0 +1,137 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.ES.DataAccess
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.ES.DataAccess.My.Resources.DataAccessResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.AddAppointmentDetails">
+<summary>
+  Looks up a localized string similar to P_BookAppointmentTest.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.AddRepeatDays">
+<summary>
+  Looks up a localized string similar to P_AddRepeatDay.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.AddRepeats">
+<summary>
+  Looks up a localized string similar to P_AddRepeats.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.AddResourceCalendar">
+<summary>
+  Looks up a localized string similar to P_ADDRESOURCECALENDAR.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.AddServiceCalendar">
+<summary>
+  Looks up a localized string similar to P_AddServiceCalendar.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.AddWebAppointmentDetails">
+<summary>
+  Looks up a localized string similar to P_BOOKWEBAPPOINTMENT.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.CancelAppointment">
+<summary>
+  Looks up a localized string similar to P_CancelAppointment.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.CancelWebAppointment">
+<summary>
+  Looks up a localized string similar to P_CancelWebAppointment.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.GetAppointmentDetails">
+<summary>
+  Looks up a localized string similar to P_GETAPPOINTMENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.GetCalendarDetails">
+<summary>
+  Looks up a localized string similar to P_GETCALENDARDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.GetResourceDetails">
+<summary>
+  Looks up a localized string similar to P_GetResourceDetails.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.GetServiceDetails">
+<summary>
+  Looks up a localized string similar to P_GetServiceDetails.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.GetWebAppointmentDetails">
+<summary>
+  Looks up a localized string similar to P_GETWEBAPPOINTMENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.UpdateAppointmentDetails">
+<summary>
+  Looks up a localized string similar to P_RescheduleAppointment.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.UpdateAppointmentStatus">
+<summary>
+  Looks up a localized string similar to P_UPDATEAPPOINTMENTSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.UpdateWebAppointmentDetails">
+<summary>
+  Looks up a localized string similar to P_RESCHEDULEWEBAPPOINTMENT.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.DataAccessResources.UpdateWebAppointmentStatus">
+<summary>
+  Looks up a localized string similar to P_UpdateWebAppointmentStatus.
+</summary>
+</member>
+<member name="T:eHIS.ES.DataAccess.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.ES.DataAccess.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.ES.DataAccess.DataServiceProvider.AddRepeats(System.Int32,System.Int32,System.Int32,System.String,System.String,System.Int32,System.Int32,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.Int32@)">
+ <summary>
+ This adds the Repeats details to the database,it calls the appropriate stored procedure
+ </summary>
+ <param name="repeatTypeID"></param>
+ <param name="repeatID"></param>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+</members>
+</doc>

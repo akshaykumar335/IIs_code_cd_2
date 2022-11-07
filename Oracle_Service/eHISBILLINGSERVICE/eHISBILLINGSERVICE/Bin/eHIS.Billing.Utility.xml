@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Billing.Utility
+</name>
+</assembly>
+<members>
+<member name="M:eHIS.Billing.Utility.Cryptor.EncryptMessage(System.String)">
+ <summary>
+ This method contains functionality for encrypting a plain text
+ </summary>
+ <param name="plainMessage"></param>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Billing.Utility.Cryptor.DecryptMessage(System.String)">
+ <summary>
+ This method contains functionality for decrypting a encrypted message 
+ </summary>
+ <param name="encryptedBase64"></param>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

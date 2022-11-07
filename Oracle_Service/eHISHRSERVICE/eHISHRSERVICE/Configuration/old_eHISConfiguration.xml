@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <source>
+    <!--
+		code 0 - read from the current XML
+		code 1 - read from specified DB
+		-->
+    <code>0</code>
+    <!--
+		The connection string for the DB from which to read the settings.
+		CURRENTLY BEING IGNORED
+
+		-->
+    <sourcePath>currently ignored,do not use</sourcePath>
+    <!--
+		DB Admin login name
+		-->
+    <sourceAdminName>none</sourceAdminName>
+    <!--
+		DB Admin login password
+		-->
+    <sourceAdminPassword>none</sourceAdminPassword>
+  </source>
+  <eHISSettings>
+    <!-- ************************************************************ -->
+    <!-- Database related settings -->
+    <!-- ************************************************************  -->
+
+    <eHISLoggerFilePath>~Logger\Logger.txt;</eHISLoggerFilePath>
+    <eHISConnectionString>Data Source = (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=10.44.7.31)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=CHNMIGDC))); User Id = hr_dcprod; Password = hr_dcprod;</eHISConnectionString>
+    <eHISCommonConnectionString>Data Source =  (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=10.44.8.38)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=EHISCHNMIGDR))); User Id = hr_uatc; Password = hr_uatc;</eHISCommonConnectionString>
+    <eHISPayrollConnectionString>Data Source =  (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=10.44.8.38)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=EHISCHNMIGDR)));User ID=payroll_chprod;Password= payroll_chprod</eHISPayrollConnectionString>
+    <eHISErrorsConnectionString>Data Source =  (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=10.44.8.38)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=EHISCHNMIGDR)));User ID=SECURITYTEST_64_CHPROD;Password= SECURITYTEST_64_CHPROD</eHISErrorsConnectionString>
+    <eHISSecurityDC>Data Source = (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=10.44.7.31)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=CHNMIGDC)));User ID=securitytest_dcprod;Password=securitytest_dcprod</eHISSecurityDC>
+    <eHISBusinessAuditConnectionString>Data Source =  (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=10.44.8.38)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=EHISCHNMIGDR)));User ID=SECURITYTEST_64_CHPROD;Password= SECURITYTEST_64_CHPROD</eHISBusinessAuditConnectionString>
+    <eHISBusinessAuditingEnabled>1</eHISBusinessAuditingEnabled>
+    <eHISLoggerFilePath>~Logger\Logger.txt;</eHISLoggerFilePath>
+    <FileUploadPath>\\10.44.12.52\d$\eHIS APPLICATION\eHISFileUpload\HR\</FileUploadPath>
+    <employeeMaxLevels>8</employeeMaxLevels>
+    <InsuranceTypeMaster>~/HR/InsuranceTypeMaster.aspx</InsuranceTypeMaster>
+    <OccupationMaster>~/HR/OccupationMaster.aspx</OccupationMaster>
+    <InstituteMaster>~/HR/InstituteMaster.aspx</InstituteMaster>
+    <QualificationMaster>~/HR/QualificationMaster.aspx</QualificationMaster>
+    <UniversityMaster>~/HR/UniversityMaster.aspx</UniversityMaster>
+    <CertificationMaster>~/HR/CertificationMaster.aspx</CertificationMaster>
+    <TaxMaster>~/HR/TaxMaster.aspx</TaxMaster>
+    <PrivilegeApproval>~/HR/PrivilegeApproval.aspx</PrivilegeApproval>
+    <PrivilegeRequest>~/HR/PrivilegeRequest.aspx</PrivilegeRequest>
+    <PrivilegeMaster>~/HR/PrivilegeMaster.aspx</PrivilegeMaster>
+    <WorkStructureMapping>~/HR/WorkStructure_Mapping.aspx</WorkStructureMapping>
+    <EmployeeStructureSetup>~/HR/EmployeeStructureSetup.aspx</EmployeeStructureSetup>
+    <FinancialStructureSetup>~/HR/OrganizationStructureSetup.aspx</FinancialStructureSetup>
+    <LocationDepartmentMapping>~/HR/LocationDepartmentMapping.aspx</LocationDepartmentMapping>
+    <RegionLevelMapping>~/HR/RegionLevelMapping.aspx</RegionLevelMapping>
+    <SpecialityMaster>~/HR/SpecialityMaster.aspx</SpecialityMaster>
+    <Holidays>~/HR/Holidays.aspx</Holidays>
+    <VaccinationMaster>~/HR/VaccinationMaster.aspx</VaccinationMaster>
+    <AuthorityReport>~/HR/rptmisHRReports.aspx</AuthorityReport>
+    <StatutoryReports>~/HR/StatutoryReports.aspx</StatutoryReports>
+    <LovMaster>~/HR/LOVMaster.aspx</LovMaster>
+    <UserRoleMapping>~/HR/UserRoleMapping.aspx</UserRoleMapping>
+    <EmployeeBankDetails>~/HR/BankDetails.aspx</EmployeeBankDetails>
+    <EmployeeBasicDetails>~/HR/EmpMaster.aspx</EmployeeBasicDetails>
+    <SearchAD>~/HR/SearchAD.aspx</SearchAD>
+    <Search>~/HR/Search.aspx</Search>
+    <EmployeeSpecificDetails>~/HR/UpdateEmpSpecificDetails.aspx</EmployeeSpecificDetails>
+    <EmployeeInformation>~/HR/EmployeeInformation.aspx</EmployeeInformation>
+    <EmployeeVaccinationDetails>~/HR/VaccinationSetup.aspx</EmployeeVaccinationDetails>
+    <CounterMaster>~/HR/CounterMaster.aspx</CounterMaster>
+    <ShiftMaster>~/HR/CounterShiftMaster.aspx</ShiftMaster>
+    <ResourcePreference>~/HR/ResourcePreferances.aspx</ResourcePreference>
+    <AssignResource>~/HR/ResourcePerShiftPerDay.aspx</AssignResource>
+    <ViewResourceInDR>~/HR/ViewAssignedemployees.aspx</ViewResourceInDR>
+    <EmployeeCounterAssignment>~/HR/EmployeeCounterAssignment.aspx</EmployeeCounterAssignment>
+    <SessionExpirePageLink>../SessionExpire.aspx</SessionExpirePageLink>
+    <LoginPageLink>../LoginPage.aspx</LoginPageLink>
+    <HomePage>../HomePage.aspx</HomePage>
+    <EmployeeGradePositionView>~/HR/GradeVsPosition.aspx</EmployeeGradePositionView>
+    <TransferIntiation>~/HR/TransferIntiated.aspx</TransferIntiation>
+    <TransferApproval>~/HR/TransferApproval.aspx</TransferApproval>
+    <InternalTransfer>~/HR/employeetransfer.aspx</InternalTransfer>
+    <UploadDocuments>~/HR/UploadDocuments.aspx</UploadDocuments>
+    <RetrieveDocuments>~/HR/ViewUploadedDocuments.aspx</RetrieveDocuments>
+    <DutyRoasterUpload>~/HR/DutyRoasterUpload.aspx</DutyRoasterUpload>
+    <WorkAreaVsDept>~/HR/HRWorkAreaVsDEPTMAPPING.aspx</WorkAreaVsDept>
+    <WorkAreaVsEmp>~/HR/HRWorkAreavsEmpmapping.aspx</WorkAreaVsEmp>
+    <WorkAreaVsAT>~/HR/HRWorkAreavsATWAmapping.aspx</WorkAreaVsAT>
+    <EmployeePayslips>~/HR/empselfdetailsview.aspx</EmployeePayslips>
+    <EmployeeMedCoverageMaster>~/HR/EmployeeMedCoverageMaster.aspx</EmployeeMedCoverageMaster>
+    <DeleteDR>~/HR/DeleteDR.aspx</DeleteDR>
+    <regionid regmappingID="2" />
+    <LDAPOU OU="OU=Apollo Hospitals" />
+    <emptype ID="125"  />
+    <accountcategory CatID="281" />
+    <SecretaryVsDoctorMapping>~/HR/SecretaryVsDoctorMapping.aspx</SecretaryVsDoctorMapping>
+    <CounterVsRoom>~/HR/CounterVsRoom.aspx</CounterVsRoom>
+    <DoctorVsRoom>~/HR/DoctorVsRoom.aspx</DoctorVsRoom>
+    <OncallDoctorSetupMaster>~/HR/OncallDoctorSetupMaster.aspx</OncallDoctorSetupMaster>
+    <ReportingDesig>~/HR/ReportDesigandDigitalsign.aspx</ReportingDesig>
+    <LeaveTypeMaster>~/HR/LeaveTypeMaster.aspx</LeaveTypeMaster>
+    <LeaveRequest>~/HR/LeaveRequest.aspx</LeaveRequest>
+    <LeaveHome>~/HR/LeaveRequestApproval.aspx</LeaveHome>
+    <LocationMaster>~/HR/LocationMaster.aspx</LocationMaster>
+    <DepartmentMaster>~/HR/DepartmentMaster.aspx</DepartmentMaster>
+    <LocationSpecialityMapping>~/HR/LocationSpecialityMapping.aspx</LocationSpecialityMapping>
+    <ReportHeadFoot>~/HR/HeaderAndFooterUpload.aspx</ReportHeadFoot>
+    <RoomMaster>~/HR/RoomMaster.aspx</RoomMaster>
+    <HRWorkArea>~/HR/HRWorkAreaMaster.aspx</HRWorkArea>
+    <ParentDeptLoc>~/HR/ParentDepartmentLocation.aspx</ParentDeptLoc>
+    <UploadFundDetails>~/HR/UploadESINO.aspx</UploadFundDetails>
+    <EmployeeBasicDetailsNew>~/HR/EmpMasterNew.aspx</EmployeeBasicDetailsNew>
+    <Male ID="72"/>
+    <Female ID="71"/>
+    <Mrs ID="2"/>
+    <Mr ID="1"/>
+    <India ID="97"/>
+    <HCM ID="Y"/>
+  </eHISSettings>
+</configuration>
+
+

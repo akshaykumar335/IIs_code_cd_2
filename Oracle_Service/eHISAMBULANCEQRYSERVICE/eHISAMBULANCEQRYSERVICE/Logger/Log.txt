@@ -1,0 +1,27 @@
+Enter query details7/19/2007 8:30:11 PM
+ambulance before schema validation ***
+ambulance after schema validation ***
+ambulance at ProcessQuery ***
+ action = EMERGENCYCALLDETAILSBYTYPE
+ GetAmbulanceAvailability
+Before executing SP7/19/2007 8:30:11 PM
+After executing SP7/19/2007 8:30:11 PM
+Exited query details7/19/2007 8:30:11 PM
+Enter query details7/19/2007 8:30:49 PM
+ambulance before schema validation ***
+ambulance after schema validation ***
+ambulance at ProcessQuery ***
+ action = EMERGENCYCALLDETAILSBYTYPE
+ GetAmbulanceAvailability
+Before executing SP7/19/2007 8:30:49 PM
+After executing SP7/19/2007 8:30:49 PM
+Exited query details7/19/2007 8:30:49 PM
+Enter query details7/19/2007 8:30:59 PM
+ambulance before schema validation ***
+ambulance after schema validation ***
+ambulance at ProcessQuery ***
+ action = EMERGENCYCALLDETAILSBYTYPE
+ GetAmbulanceAvailability
+Before executing SP7/19/2007 8:30:59 PM
+After executing SP7/19/2007 8:30:59 PM
+Exited query details7/19/2007 8:30:59 PM

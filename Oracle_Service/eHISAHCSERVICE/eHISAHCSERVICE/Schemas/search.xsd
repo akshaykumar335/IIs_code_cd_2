@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SearchRequest" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="SearchRequest" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Search">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PackageSelected" type="xs:string" minOccurs="0" msdata:Ordinal="0" />
+            </xs:sequence>
+            <xs:attribute name="UHID" type="xs:string" />
+            <xs:attribute name="PRN" type="xs:string" />
+            <xs:attribute name="AHCNo" type="xs:string" />
+            <xs:attribute name="FromDate" type="xs:string" />
+            <xs:attribute name="ToDate" type="xs:string" />
+            <xs:attribute name="PackageCode" type="xs:string" />
+            <xs:attribute name="ServiceID" type="xs:string" />
+            <xs:attribute name="ProfileID" type="xs:string" />
+            <xs:attribute name="TestID" type="xs:string" />
+            <xs:attribute name="ProcessID" type="xs:string" />
+            <xs:attribute name="LocationCode" type="xs:string" />
+            <xs:attribute name="UserID" type="xs:string" />
+            <xs:attribute name="RoleID" type="xs:string" />
+            <xs:attribute name="AgeGroup" type="xs:string" />
+            <xs:attribute name="ApplicableToAgeGroup" type="xs:string" />
+            <xs:attribute name="PhaseID" type="xs:string" />
+            <xs:attribute name="TestGroupID" type="xs:string" />
+            <xs:attribute name="ApplicableToGender" type="xs:string" />
+            <xs:attribute name="Gender" type="xs:string" />
+            <xs:attribute name="PatientType" type="xs:string" />
+            <xs:attribute name="DepartmentTypeID" type="xs:string" />
+            <xs:attribute name="CountryID" type="xs:string" />
+            <xs:attribute name="StateID" type="xs:string" />
+            <xs:attribute name="CityID" type="xs:string" />
+            <xs:attribute name="DistrictID" type="xs:string" />
+            <xs:attribute name="DepartmentID" type="xs:string" />
+            <xs:attribute name="ConsultationID" type="xs:string" />
+            <xs:attribute name="CorporateID" type="xs:string" />
+            <xs:attribute name="Age" type="xs:string" />
+            <xs:attribute name="InvestigationTypeID" type="xs:string" />
+            <xs:attribute name="LOVCode" type="xs:string" />
+            <xs:attribute name="LocationID" type="xs:string" />
+            <xs:attribute name="CounterID" type="xs:string" />
+            <xs:attribute name="Status" type="xs:string" />
+            <xs:attribute name="ConfigurationCode" type="xs:string" />
+            <xs:attribute name="LoginID" type="xs:string" />
+            <xs:attribute name="AppointmentDate" type="xs:string" />
+            <xs:attribute name="VisitID" type="xs:string" />
+			<xs:attribute name="LanguageID" type="xs:string" />
+			<xs:attribute name="SystemID" type="xs:string" />
+			<xs:attribute name="SymptomID" type="xs:string" />
+			<xs:attribute name="SystemType" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ActionRequest">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Target" type="xs:string" minOccurs="0" />
+              <xs:element name="Identifier" type="xs:string" minOccurs="0" />
+              <xs:element name="Action" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,1 @@
+<%@ServiceHost language="VB" Debug="true" Factory="eHIS.Payroll.ServiceImplementation.PayrollManagerHostFactory" %>

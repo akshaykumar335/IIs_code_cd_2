@@ -1,0 +1,1122 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Pharmacy.DataAccess
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Pharmacy.DataAccess.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddAdjustmentDetails">
+<summary>
+  Looks up a localized string similar to P_AddAdjustmentDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddAdjustmentDetails1">
+<summary>
+  Looks up a localized string similar to AddAdjustmentDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddConsignmentEntryReceipt">
+<summary>
+  Looks up a localized string similar to P_AddConsignmentEntryReceipt.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddConsignmentPRDetails">
+<summary>
+  Looks up a localized string similar to P_AddConsignmentPR.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddCycleCountData">
+<summary>
+  Looks up a localized string similar to P_AddCycleCount.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddCycleCountItemData">
+<summary>
+  Looks up a localized string similar to P_AddCycleCountData.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddGoodsReturnToVendor">
+<summary>
+  Looks up a localized string similar to AddGoodsReturnToVendor.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddIndents">
+<summary>
+  Looks up a localized string similar to P_AddIndents.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddPOPR">
+<summary>
+  Looks up a localized string similar to P_AddPOPR.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddPurchaseOrder">
+<summary>
+  Looks up a localized string similar to P_AddPurchaseOrder.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddQuotation">
+<summary>
+  Looks up a localized string similar to P_ADDQUOTATION.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddRateContract">
+<summary>
+  Looks up a localized string similar to P_ADDRATECONTRACT.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddReceiveItemDetails">
+<summary>
+  Looks up a localized string similar to P_ADDRECEIVEITEMS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddReturnGoodsToVendor">
+<summary>
+  Looks up a localized string similar to AddReturnGoodsToVendor.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddRFQ">
+<summary>
+  Looks up a localized string similar to P_AddRFQ.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.AddUserIndent">
+<summary>
+  Looks up a localized string similar to AddUserIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.Batchdetails">
+<summary>
+  Looks up a localized string similar to P_GETBATCHDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetAllvendorsLocation">
+<summary>
+  Looks up a localized string similar to P_GETALLVENDORSLOCATION.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetConsignmentEntryDetails">
+<summary>
+  Looks up a localized string similar to P_GetConsignmentERDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetConsignmentPODetails">
+<summary>
+  Looks up a localized string similar to P_AddConsignmentPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetConsignmentPRDetailsSearch">
+<summary>
+  Looks up a localized string similar to P_GetConsignmentPRDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetConsignmentPRSearchDetails">
+<summary>
+  Looks up a localized string similar to P_ConsignmentPRSearchDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetConsignmentSearchDetails">
+<summary>
+  Looks up a localized string similar to P_GetConsignmentEntryDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetContractItems">
+<summary>
+  Looks up a localized string similar to P_GETCONTRACTITEMS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetContractPopUp">
+<summary>
+  Looks up a localized string similar to P_GETCONTRACTPOPUP.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetCount">
+<summary>
+  Looks up a localized string similar to P_GetCycleCountDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetCountItems">
+<summary>
+  Looks up a localized string similar to P_GetCycleCountItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetDepartment">
+<summary>
+  Looks up a localized string similar to P_GETDEPARTMENT.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetIndentCodedetails">
+<summary>
+  Looks up a localized string similar to GetIndentCodedetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetIndentForStore">
+<summary>
+  Looks up a localized string similar to P_GETINDENTSFORSTORE.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetIndentType">
+<summary>
+  Looks up a localized string similar to P_GETINDENTTYPE.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetIssuedetails">
+<summary>
+  Looks up a localized string similar to GetIssuedetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetItemCategory">
+<summary>
+  Looks up a localized string similar to dbo.GetItemCategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetItemCodeDetails">
+<summary>
+  Looks up a localized string similar to P_GetItemCodeDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetItemLookUpIndent">
+<summary>
+  Looks up a localized string similar to P_GetItemLookUpIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetItemLookUpStore">
+<summary>
+  Looks up a localized string similar to P_GETITEMLOOKUPSTORE.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetItemSearchDetails">
+<summary>
+  Looks up a localized string similar to P_SearchItem1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetItemSubCategory1">
+<summary>
+  Looks up a localized string similar to p_GetItemSubCategory1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetItemSubCategory2">
+<summary>
+  Looks up a localized string similar to p_GetItemSubCategory2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetItemSubCategory3">
+<summary>
+  Looks up a localized string similar to p_GetItemSubCategory3.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetLoadMasterDetails">
+<summary>
+  Looks up a localized string similar to P_GeteHISMasterDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetMaterialProfile">
+<summary>
+  Looks up a localized string similar to P_GetMaterialProfile.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetMaterialProfileDetails">
+<summary>
+  Looks up a localized string similar to P_GetMaterialProfileDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetPayTermPopUp">
+<summary>
+  Looks up a localized string similar to P_GetPayTermPopup.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetPharmacyItemDetails">
+<summary>
+  Looks up a localized string similar to GetPharmacyItemDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetPODropDownValues">
+<summary>
+  Looks up a localized string similar to P_GetPODropDownValues.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetPOPRItems">
+<summary>
+  Looks up a localized string similar to P_GetPOPRItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetPurchaseDetails">
+<summary>
+  Looks up a localized string similar to GetPurchaseDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetQueryStoreSearch">
+<summary>
+  Looks up a localized string similar to P_GetStoreSearchDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetQuotationItems">
+<summary>
+  Looks up a localized string similar to P_GetQuotationItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetQuotationPopUp">
+<summary>
+  Looks up a localized string similar to P_GetQuotationPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetReceivedetails">
+<summary>
+  Looks up a localized string similar to GetReceivedetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetReceiveItemCodeDetails">
+<summary>
+  Looks up a localized string similar to GetReceiveItemCodeDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetReturndetails">
+<summary>
+  Looks up a localized string similar to GetReturndetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetRFQPopUp">
+<summary>
+  Looks up a localized string similar to GetRFQPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetStatus">
+<summary>
+  Looks up a localized string similar to p_getinitialdata.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetStore">
+<summary>
+  Looks up a localized string similar to P_GetStoreType.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetStore1">
+<summary>
+  Looks up a localized string similar to dbo.GetStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetStoreHomePage">
+<summary>
+  Looks up a localized string similar to GetStoreHomePage.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetStoreUsers">
+<summary>
+  Looks up a localized string similar to GetStoreUsers.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetSubtitutes">
+<summary>
+  Looks up a localized string similar to p_getsubstitute.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetTaxPopUp">
+<summary>
+  Looks up a localized string similar to P_GetTaxPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetToStore">
+<summary>
+  Looks up a localized string similar to dbo.GetToStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetVendorComparison">
+<summary>
+  Looks up a localized string similar to P_GETALLQUOTATIONS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetVendorDetailsPO">
+<summary>
+  Looks up a localized string similar to p_getvendordetailspo.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetVendorItemsPO">
+<summary>
+  Looks up a localized string similar to P_GetVendorItemsPO.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.GetVendorPopUp">
+<summary>
+  Looks up a localized string similar to P_GetVendorPopUp.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.IndentDetailsForIssue">
+<summary>
+  Looks up a localized string similar to P_GetIndentDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.IssueAdd">
+<summary>
+  Looks up a localized string similar to p_addissue.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.IssueCodeDetails">
+<summary>
+  Looks up a localized string similar to P_GetIssueCodeDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.IssueSearchDetails">
+<summary>
+  Looks up a localized string similar to P_IssueSearch.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.POVendorsSearchDetails">
+<summary>
+  Looks up a localized string similar to P_GetPOVendorDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcAddGatePassDetails">
+<summary>
+  Looks up a localized string similar to P_AddGatePass.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcAddGRNDetails">
+<summary>
+  Looks up a localized string similar to P_AddGRNItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcAddInspectionDetails">
+<summary>
+  Looks up a localized string similar to P_AddInspectionItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcAddInvoiceDetails">
+<summary>
+  Looks up a localized string similar to P_AddInvoiceDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcAdDPOAmendmentDetails">
+<summary>
+  Looks up a localized string similar to ADDPOAmendentdetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcAddPRDetails">
+<summary>
+  Looks up a localized string similar to p_addpurchaserequest.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcAddSRVDetails">
+<summary>
+  Looks up a localized string similar to P_ADDSRVItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGetBatchSerial">
+<summary>
+  Looks up a localized string similar to P_GETMATERIALLBATCHITEMS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGetBatchSerialItems">
+<summary>
+  Looks up a localized string similar to P_GETBATCHSERIALITEMS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGetBatchSerialReturnAcknowledge">
+<summary>
+  Looks up a localized string similar to P_GetRtnAcknowledgeBatchSerial.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGetCostCeneterCode">
+<summary>
+  Looks up a localized string similar to P_GETCOSTCENETRCODE.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGetItemCategory">
+<summary>
+  Looks up a localized string similar to p_GetItemcategory.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGetItems">
+<summary>
+  Looks up a localized string similar to SearchItem1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGetMaterialRecallCode">
+<summary>
+  Looks up a localized string similar to P_GetMaterialRecallItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGetParentStoreCode">
+<summary>
+  Looks up a localized string similar to P_GetParentStore.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGETPRDetails">
+<summary>
+  Looks up a localized string similar to P_GetSystemGeneratedPR.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGetReceiveBatchSerialItems">
+<summary>
+  Looks up a localized string similar to P_ReceiveBatchSerialItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGetReturnCode">
+<summary>
+  Looks up a localized string similar to P_GetReturnCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGetWithoutBatchSerialItems">
+<summary>
+  Looks up a localized string similar to P_GetWithoutBatchSerialItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGRNCode">
+<summary>
+  Looks up a localized string similar to P_GETGRNCODE.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGRNDetails">
+<summary>
+  Looks up a localized string similar to P_GETGRNDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcGRNPODetails">
+<summary>
+  Looks up a localized string similar to GetPoDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcInspectionCode">
+<summary>
+  Looks up a localized string similar to P_GETINSPECTIONCODE.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcInspectionDetails">
+<summary>
+  Looks up a localized string similar to P_GETINSPECTIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcInvoiceSRVdetails">
+<summary>
+  Looks up a localized string similar to P_SRVDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcIssuedItems">
+<summary>
+  Looks up a localized string similar to P_GETISSUEDDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcItemSubCategory1">
+<summary>
+  Looks up a localized string similar to p_GetItemSubCategory1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcItemSubCategory2">
+<summary>
+  Looks up a localized string similar to p_GetItemSubCategory2.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcItemSubCategory3">
+<summary>
+  Looks up a localized string similar to p_GetItemSubCategory3.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcMateriallCode">
+<summary>
+  Looks up a localized string similar to P_GetMaterialRecallCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcPOAmendentdetails">
+<summary>
+  Looks up a localized string similar to POAmendentdetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcPONo">
+<summary>
+  Looks up a localized string similar to P_GetPOCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcPRType">
+<summary>
+  Looks up a localized string similar to P_GetPRDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcQuerSRVDetails">
+<summary>
+  Looks up a localized string similar to P_GETSRVDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcQueryGatePassAganist">
+<summary>
+  Looks up a localized string similar to P_GETGATEPASSAGAINST.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcQuerySRVCode">
+<summary>
+  Looks up a localized string similar to GetSRVCode.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcQueryVendorItems">
+<summary>
+  Looks up a localized string similar to GetVendorItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcRecallItems">
+<summary>
+  Looks up a localized string similar to P_AddMaterailRecallItems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcReturnAcknowledge">
+<summary>
+  Looks up a localized string similar to p_addreturnitemsacknowledment.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcReturnDetails">
+<summary>
+  Looks up a localized string similar to P_GetReturnItemDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.ProcReturnItems">
+<summary>
+  Looks up a localized string similar to p_addreturnitems.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.QuantityScheduleDetails">
+<summary>
+  Looks up a localized string similar to GetQuantityScheduleDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.RFQDetails">
+<summary>
+  Looks up a localized string similar to P_GetRFQDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.RFQSearchDetails">
+<summary>
+  Looks up a localized string similar to P_GetRFQSearchDetails.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.SearchIndent">
+<summary>
+  Looks up a localized string similar to P_IndentSearch.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.SearchItem1">
+<summary>
+  Looks up a localized string similar to P_SearchItem1.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.SearchPR">
+<summary>
+  Looks up a localized string similar to P_SearchPR.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.StoreRequest">
+<summary>
+  Looks up a localized string similar to StoreRequest.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.SystemGeneratedIndent">
+<summary>
+  Looks up a localized string similar to P_SystemGeneratedIndent.
+</summary>
+</member>
+<member name="P:eHIS.Pharmacy.DataAccess.My.Resources.OraDataAccessResources.UOMConversion">
+<summary>
+  Looks up a localized string similar to UOMConversion.
+</summary>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.IssuedItems(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.GetItems(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.GetItemCategeroy(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.GetItemCategeroy1(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.GetItemCategeroy2(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.GetItemCategeroy3(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.ReturnItems(eHIS.Pharmacy.Utility.Entities.ReturnSearch,System.String@)">
+ <summary>
+ 
+ </summary>
+ <param name="objReturnSearch"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.RecallItems(eHIS.Pharmacy.Utility.Entities.ReturnSearch,System.String@)">
+ <summary>
+ 
+ </summary>
+ <param name="objReturnSearch"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.MaterialRecall(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.MateriallCode(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.WithoutBatchSerialItems(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.BatchSerialItems(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.GetCostCeneterCode(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.Materialbatchserial(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.GetIssuecode(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.GetParentStoreCode(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.ReturnDetails(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.ReturnAcknowledge(eHIS.Pharmacy.Utility.Entities.ReturnSearch,System.String@)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.BatchSerialReturnAcknowledge(eHIS.Pharmacy.Utility.Entities.ReturnSearch)">
+ <summary>
+ 
+ </summary>
+ <param name="SearchData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.QueryIssuecodeDetails(eHIS.Pharmacy.Utility.Entities.ItemSearchRequest)">
+ <summary>
+ This method is called for querying Issues by passing parameters from 
+ the deserialized object
+ </summary>
+ <param name="searchData"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.QueryIssueSearch(eHIS.Pharmacy.Utility.Entities.ItemSearchRequest)">
+ <summary>
+ This method is called for querying Issues by passing parameters from 
+ the deserialized object
+ </summary>
+ <param name="searchData"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.QueryItemCodeSearch(eHIS.Pharmacy.Utility.Entities.ItemSearchRequest)">
+ <summary>
+ This method is called for querying Issues by passing parameters from 
+ the deserialized object
+ </summary>
+ <param name="searchData"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.QueryReceiveItemCodeSearch(eHIS.Pharmacy.Utility.Entities.ItemSearchRequest)">
+ <summary>
+ This method is called for querying Issues by passing parameters from 
+ the deserialized object
+ </summary>
+ <param name="searchData"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.QueryUser(eHIS.Pharmacy.Utility.Entities.ItemSearchRequest)">
+ <summary>
+ This method is called for querying user by passing parameters from 
+ the deserialized object
+ </summary>
+ <param name="searchData"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.DataServiceTransactionHandler.AddGatePassDetails(eHIS.Pharmacy.Utility.Entities.GatePassSearch,System.String@)">
+ <summary>
+ 
+ </summary>
+ <param name="SerachData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.IssuedItems(System.String,System.String,System.Int32,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="IssueNo"></param>
+ <param name="StoreCode"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.GetItems(System.String,System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="ItemCode"></param>
+ <param name="ItemCategory"></param>
+ <param name="ItemDesc"></param>
+ <param name="ItemSubCategory1"></param>
+ <param name="ItemSubCategory2"></param>
+ <param name="ItemSubCategory3"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.MaterialRecall(System.String,System.String,System.Int32,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="MaterialRecallCode"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.ReturnItems(System.String,System.String@)">
+ <summary>
+ 
+ </summary>
+ <param name="objReturnSearch"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.RecallItems(System.String,System.String@)">
+ <summary>
+ 
+ </summary>
+ <param name="objReturnSearch"></param>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.GetItemCategory">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.GetItemSubCategory1(System.Int32)">
+ <summary>
+ Get Item SubCategory1
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.GetItemSubCategory2(System.Int32)">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.GetItemSubCategory3(System.Int32)">
+ <summary>
+ Get Item SubCategory3
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.WithoutBatchSerialItems(System.String,System.String)">
+ <summary>
+ Get itemS based on serialBatch Controle
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.GetCostCeneterCode">
+ <summary>
+ GetCostCeneterCode
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.BatchSerialItems(System.String,System.String,System.Int32)">
+ <summary>
+ Get itemS based on serialBatch Controle
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.Materialbatchserial(System.String,System.String,System.String)">
+ <summary>
+ Get itemS based on serialBatch Controle
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.GetReturnCode(System.String,System.String,System.String,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.GetParentStoreCode(System.String)">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.MateriallCode(System.String,System.String,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.ReturnDetails(System.String,System.String,System.Int32,System.Int32)">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.ReturnAcknowledge(System.String,System.String@)">
+ <summary>
+ 
+ </summary>
+ <param name="objReturnSearch"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.BatchSerialReturnAcknowledge(System.String,System.Int32,System.String)">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.GetStatus(System.String)">
+ <summary>
+ 
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.GetPayTermPopUp(System.String,System.String)">
+ <summary>
+ 
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.QueryPODetails(System.String,System.String,System.Int32)">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.QueryPONo1(System.String,System.Int32,System.String,System.Int32,System.String,System.Int32,System.String)">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.QueryGRNDetails(System.String,System.String,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="GRNCode"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.QueryGRNCode(System.String,System.String,System.String,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="GRNCode"></param>
+ <param name="CreatedDate"></param>
+ <param name="StoreCode"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.QueryInspectionDetails(System.String,System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="InspectionCode"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.QueryInspectionCode(System.String,System.String,System.String,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="InspectionCode"></param>
+ <param name="CreatedDate"></param>
+ <param name="StoreCode"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.SRVDetails(System.String,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="PONo"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.QueryGETPRDetails(System.String,System.Int32)">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.GetAmendementPODetails(System.String,System.Int32,System.Int32)">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.QueryVendorItems">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.QuerySRVDetails(System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="SRVCode"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.QuerySRVCode(System.String,System.String,System.String,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="SRVCode"></param>
+ <param name="CreatedDate"></param>
+ <param name="StoreCode"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Pharmacy.DataAccess.OraDataServiceProvider.GetGatePassDetails(System.String,System.String)">
+ <summary>
+ Get Item SubCategory2
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

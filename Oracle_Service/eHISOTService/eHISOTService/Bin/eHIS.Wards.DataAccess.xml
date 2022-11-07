@@ -1,0 +1,707 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.OT.DataAccess
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.OT.DataAccess.My.Resources.DataAccessResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.AddPACDiseaseData">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_DISEASE_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.AddRaiseRequestData">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_ADD_PROC_REQUEST_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.CloseOTRequest">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.P_CLOSE_REQUEST.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.ConfirmProReq">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_CONFIRM_PROC_REQUEST.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.DeleteOtBedConsDTD">
+<summary>
+  Looks up a localized string similar to PKG_BEDSIDE_CONSUMPTION.P_DELETE_bedsideCONS_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.DeleteOtBedConsEquDTD">
+<summary>
+  Looks up a localized string similar to PKG_BEDSIDE_CONSUMPTION.P_DELETE_bedsideEQUIP_dTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.DeleteOtConsDTD">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.P_DELETE_CONSUMPTN_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.DeleteOtConsDTDDraft">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DCLR_DRAFT.P_DELETE_CONSUMPTN_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.DeleteOtConsEquDTD">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.P_DELETE_EQUIPMENT_dTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.DeleteOtConsEquDTDDraft">
+<summary>
+  Looks up a localized string similar to pkg_ot_consumption_dclr_draft.P_DELETE_EQUIPMENT_dTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.DeleteOtConsSurgeryDtd">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.P_DELETE_CONSUMPTN_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.DeleteOtConsSurgeryDtdDraft">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DCLR_DRAFT.P_DELETE_CONSUMPTN_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.DeleteProReqEquipment">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_DELETE_PROC_REQ_EQUPMNTS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.DeleteProReqTeam">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_DELETE_PROC_REQ_TEAM.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetCommonDashboard">
+<summary>
+  Looks up a localized string similar to pkg_dashboard.P_GET_BEDSIDEDASHBOARD.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetOTBedConsumDTD">
+<summary>
+  Looks up a localized string similar to PKG_BEDSIDE_CONSUMPTION.P_GET_bedsideCONS_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetOTConsumDTD">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.P_GET_CONSUMPTN_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetOTConsumDTDDraft">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DCLR_DRAFT.P_GET_CONSUMPTN_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACASAGradingData">
+<summary>
+  Looks up a localized string similar to GetPACASAGradingData.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACDisease">
+<summary>
+  Looks up a localized string similar to GetPACDisease.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACFamilyHistory">
+<summary>
+  Looks up a localized string similar to GetPACFamilyHistory.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACPersonalHistory">
+<summary>
+  Looks up a localized string similar to GetPACPersonalHistory.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACPhysicalExamData">
+<summary>
+  Looks up a localized string similar to GetPACPhysicalExamData.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACPhysicalExamInput">
+<summary>
+  Looks up a localized string similar to GetPACPhysicalExamInput.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACPhysicalExamOutput">
+<summary>
+  Looks up a localized string similar to GetPACPhysicalExamOutput.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACPhysicalExamSurgicalAssesment">
+<summary>
+  Looks up a localized string similar to GetPACPhysicalExamSurgicalAssesment.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACPhysicalExamSystem">
+<summary>
+  Looks up a localized string similar to GetPACPhysicalExamSystem.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACPhysicalExamVitals">
+<summary>
+  Looks up a localized string similar to GetPACPhysicalExamVitals.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACPreviousMedication">
+<summary>
+  Looks up a localized string similar to GetPACPreviousMedication.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACPreviousSurgery">
+<summary>
+  Looks up a localized string similar to GetPACPreviousSurgery.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetPACStatus">
+<summary>
+  Looks up a localized string similar to GetPACStatus.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetProReqHrd">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_GET_PROC_REQUEST_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetReqDetailofIPNumber">
+<summary>
+  Looks up a localized string similar to pkg_intermodule_references.p_get_completed_requests.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetRequestRaisedList">
+<summary>
+  Looks up a localized string similar to pkg_dashboard.P_GET_CONSUMPTION_REQ_dATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetRequestSurgeryList">
+<summary>
+  Looks up a localized string similar to pkg_dashboard.P_GET_PATIENT_SURGERY_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.GetSurgeryTimeAndDate">
+<summary>
+  Looks up a localized string similar to PKG_DASHBOARD.P_GET_IPNUMBER_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procCancelAllOpenRequestsForIP">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_DELETE_PROC_DTLS_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procCancelProcedureRequest">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_CANCEL_PROC_REQUEST.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procDeletePACDisease">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_DELETE_PAC_DISEASES.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procDeletePACFamilyHistory">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_DELETE_PAC_FAMILY_HIST.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procDeletePACInput">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_DELETE_PAC_PHY_EXAM_INPUT.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procDeletePACOutput">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_DELETE_PAC_PHY_EXAM_OUTPUT.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procDeletePACPersonalHistory">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_DELETE_PAC_HABITS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procDeletePACPreviousMedication">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_DELETE_PAC_MEDICATION_HIST.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procDeletePACPreviousSurgeryDetails">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_DELETE_PAC_SURG_HIST.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procDeletePACReferralProcSurgAssmnt">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_DELETE_PAC_SURG_ASSMNT.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procDeletePACSystems">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_DELETE_PAC_SYSTEM_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procDeletePACVitals">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_DELETE_PAC_PHY_EXAM_VITALS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procDeleteSurgeryData">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_DELETE_PROC_REQ_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procDeleteSurgicalAdvice">
+<summary>
+  Looks up a localized string similar to pkg_ot_surg_advice.p_cancel_surg_advice.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetAllOpenSurgeriesForAnIP">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_GET_PROC_DTLS_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetCommonDashBoard">
+<summary>
+  Looks up a localized string similar to pkg_dashboard.p_get_common_dashboard.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACASAGradingData">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_ASA_GRADING_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACDisease">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_DISEASE_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACFamilyHistory">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_FAMILY_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACPersonalHistory">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_HABITS_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACPhysicalExamData">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_PHY_EXAM_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACPhysicalExamInput">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_PHY_EXAM_INPUT.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACPhysicalExamOutput">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_PHY_EXAM_OUTPUT.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACPhysicalExamSurgicalAssesment">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_SURG_ASSMNT_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACPhysicalExamSystem">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_SYSTEMS_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACPhysicalExamVitals">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_PHY_EXAM_VITALS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACPreviousMedication">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_MEDICATION_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACPreviousSurgery">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetPACStatus">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_GET_PAC_STATUS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetRequestIDWithoutIP">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_GET_REQID_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetSurgeryDetailsForAnIPNumber">
+<summary>
+  Looks up a localized string similar to pkg_intermodule_references.p_get_ipnumber_data.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetSurgeryRequestDetails">
+<summary>
+  Looks up a localized string similar to pkg_procedure_request.p_get_proc_req_surg_data.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetSurgicalAdviceDetails">
+<summary>
+  Looks up a localized string similar to pkg_ot_surg_advice.P_GET_SURG_ADVICE_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procGetSurgicalAdviceHdr">
+<summary>
+  Looks up a localized string similar to pkg_ot_surg_advice.P_GET_SURG_ADVICE_HDR.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACASAGradingData">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_ASA_GRADING_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACDisease">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_DISEASE_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACFamilyHistory">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_FAMILY_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACInput">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_PHY_EXAM_INPUT.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACOutput">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_PHY_EXAM_OUTPUT.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACPersonalHistory">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_HABITS_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACPhyExamData">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_PHY_EXAM_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACPreviousMedication">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_MEDICATION_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACPreviousSurgeryDetails">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACReferralProcSurgAssmnt">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_SURG_ASSMNT_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACRiskFactor">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_RISKFACTORS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACSystems">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_SYSTEMS_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSavePACVitals">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_ADD_PHY_EXAM_VITALS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSaveSurgicalAdvice">
+<summary>
+  Looks up a localized string similar to pkg_ot_surg_advice.p_save_surg_advice_hdr.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procSaveSurgicalAdviceDetails">
+<summary>
+  Looks up a localized string similar to pkg_ot_surg_advice.p_save_surg_advice_dls.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACASAGradingData">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_ASA_GRADING_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACDisease">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_DISEASE_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACFamilyHistory">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_FAMILY_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACInput">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_PHY_EXAM_INPUT.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACOutput">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_PHY_EXAM_OUTPUT.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACPersonalHistory">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_HABITS_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACPhyExamData">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_PHY_EXAM_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACPreviousMedication">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_MEDICATION_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACPreviousSurgeryDetails">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACReferralProcSurgAssmnt">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_SURG_ASSMNT_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACRiskFactor">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_RISKFACTORS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACStatusinSurgeryDashboard">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.p_update_pac_status.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACSystems">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_SYSTEMS_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdatePACVitals">
+<summary>
+  Looks up a localized string similar to PKG_PRE_ANAESTHETIC_CHECK.P_UPDATE_PHY_EXAM_VITALS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdateSurgicalAdvice">
+<summary>
+  Looks up a localized string similar to pkg_ot_surg_advice.P_UPDATE_SURG_ADVICE_HDR.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.procUpdateSurgicalAdviceDetails">
+<summary>
+  Looks up a localized string similar to pkg_ot_surg_advice.P_UPDATE_SURG_ADVICE_DLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveOtBedConsDTD">
+<summary>
+  Looks up a localized string similar to PKG_BEDSIDE_CONSUMPTION.P_ADD_bedsideCONS_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveOtBedConsEquDTD">
+<summary>
+  Looks up a localized string similar to PKG_BEDSIDE_CONSUMPTION.P_ADD_bedsideEQUIP_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveOtBedConsHrd">
+<summary>
+  Looks up a localized string similar to PKG_BEDSIDE_CONSUMPTION.P_ADD_bedsideCONS_TIMEOUT_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveOtBedConsSurgeryDtd">
+<summary>
+  Looks up a localized string similar to PKG_BEDSIDE_CONSUMPTION.P_ADD_bedsideCONSN_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveOtConsDTD">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.P_ADD_CONSUMPTN_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveOtConsDTDDraft">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DCLR_DRAFT.P_ADD_CONSUMPTN_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveOtConsEquDTD">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.P_ADD_EQUIPMENT_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveOtConsEquDTDDraft">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DCLR_DRAFT.P_ADD_EQUIPMENT_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveOtConsHrd">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.P_ADD_CONSUMPTN_TIMEOUT_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveOtConsHrdDraft">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DCLR_DRAFT.P_ADD_CONSUMPTN_TIMEOUT_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveOtConsSurgeryDtd">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.P_ADD_CONSUMPTN_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveOtConsSurgeryDtdDraft">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DCLR_DRAFT.P_ADD_CONSUMPTN_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveProReqDtd">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_ADD_PROC_REQ_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveProReqEquip">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_ADD_PROC_REQ_EQUPMNTS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveProReqHrd">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_ADD_PROC_REQUEST_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveProReqTeam">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_ADD_PROC_REQ_TEAM_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveSurgicalAdviceDetails">
+<summary>
+  Looks up a localized string similar to pkg_ot_surg_advice.p_save_surg_advice_dls.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.SaveSurgicalAdviceHdr">
+<summary>
+  Looks up a localized string similar to pkg_ot_surg_advice.p_save_surg_advice_hdr.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateBedConsumptionStatus">
+<summary>
+  Looks up a localized string similar to PKG_BEDSIDE_CONSUMPTION.p_update_CONSUMPTION_status.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateConsumptionStatus">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.p_update_CONSUMPTION_status.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateConsumptionStatusDraft">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DCLR_DRAFT.P_UPDATE_CONSUMP_STATUS_DRAFT.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateOtConsDTD">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.P_UPDATE_CONSUMPTN_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateOtConsDTDDraft">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DCLR_DRAFT.P_UPDATE_CONSUMPTN_DTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateOtConsEquDTD">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.P_UPDATE_EQUIPMENT_dTLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateOtConsHrd">
+<summary>
+  Looks up a localized string similar to PKG_OT_CONSUMPTION_DECLARATION.P_UPDATE_CONSUMPTN_TIMEOUT.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateProReqEmrHrd">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_UPDATE_PROC_REQUEST_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateProReqSchldHrd">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_RESCHEDULE_REQ_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateProReqTeam">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_UPDATE_PROC_REQ_TEAM_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateProSurgeryData">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_UPDATE_PROC_REQ_SURG_DATA.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateRaiseRequest">
+<summary>
+  Looks up a localized string similar to PKG_PROCEDURE_REQUEST.P_UPDATE_BILLNO.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateSurgicalAdviceDetails">
+<summary>
+  Looks up a localized string similar to pkg_ot_surg_advice.P_UPDATE_SURG_ADVICE_DLS.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.DataAccessResources.UpdateSurgicalAdviceHdr">
+<summary>
+  Looks up a localized string similar to pkg_ot_surg_advice.P_UPDATE_SURG_ADVICE_HDR.
+</summary>
+</member>
+<member name="T:eHIS.OT.DataAccess.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.OT.DataAccess.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

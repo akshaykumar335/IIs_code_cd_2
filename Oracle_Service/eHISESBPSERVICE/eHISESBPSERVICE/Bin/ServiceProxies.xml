@@ -1,0 +1,298 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ServiceProxies
+</name>
+</assembly>
+<members>
+<member name="T:My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:My.Resources.ServiceDetails">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.AHCBPService">
+<summary>
+  Looks up a localized string similar to AHCBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.AHCQueryService">
+<summary>
+  Looks up a localized string similar to AHCQUERYSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.AHCService">
+<summary>
+  Looks up a localized string similar to AHCSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.AmbulanceBPService">
+<summary>
+  Looks up a localized string similar to AMBULANCEBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.AmbulanceQueryService">
+<summary>
+  Looks up a localized string similar to AMBULANCEQUERYSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.AmbulanceService">
+<summary>
+  Looks up a localized string similar to AMBULANCESERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.ATBPService">
+<summary>
+  Looks up a localized string similar to ATBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.ATQueryService">
+<summary>
+  Looks up a localized string similar to ATQUERYSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.ATService">
+<summary>
+  Looks up a localized string similar to ATSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.BBBPService">
+<summary>
+  Looks up a localized string similar to BBBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.BBService">
+<summary>
+  Looks up a localized string similar to BBSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.BILLINGBPService">
+<summary>
+  Looks up a localized string similar to BILLINGBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.BILLINGService">
+<summary>
+  Looks up a localized string similar to BILLINGSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CertificateName">
+<summary>
+  Looks up a localized string similar to CN=localhost.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CLAIMService">
+<summary>
+  Looks up a localized string similar to CLAIMSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CRMBPService">
+<summary>
+  Looks up a localized string similar to CRMBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CRMCLAIMBPService">
+<summary>
+  Looks up a localized string similar to CRMCLAIMBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CRMCLAIMService">
+<summary>
+  Looks up a localized string similar to CRMCLAIMSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.CRMService">
+<summary>
+  Looks up a localized string similar to CRMSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.eHISMastersQueryService">
+<summary>
+  Looks up a localized string similar to EHISMASTERSQUERYSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.ESBPService">
+<summary>
+  Looks up a localized string similar to ESBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.ESService">
+<summary>
+  Looks up a localized string similar to ESSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.FNBBPService">
+<summary>
+  Looks up a localized string similar to FNBBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.FNBQueryService">
+<summary>
+  Looks up a localized string similar to FNBQUERYSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.FNBService">
+<summary>
+  Looks up a localized string similar to FNBSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.HRBPService">
+<summary>
+  Looks up a localized string similar to HRBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.HRService">
+<summary>
+  Looks up a localized string similar to HRSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.LABORATORYBPService">
+<summary>
+  Looks up a localized string similar to LABORATORYBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.LABORATORYService">
+<summary>
+  Looks up a localized string similar to LABORATORYSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.MMBPService">
+<summary>
+  Looks up a localized string similar to MMBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.MMService">
+<summary>
+  Looks up a localized string similar to MMSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.PAYROLLBPService">
+<summary>
+  Looks up a localized string similar to PAYROLLBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.PAYROLLService">
+<summary>
+  Looks up a localized string similar to PAYROLLSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.PFService">
+<summary>
+  Looks up a localized string similar to PFSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.PharmacyBPService">
+<summary>
+  Looks up a localized string similar to PHARMACYBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.PharmacyService">
+<summary>
+  Looks up a localized string similar to PHARMACYSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.QUOTEBPService">
+<summary>
+  Looks up a localized string similar to QUOTEBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.QUOTEService">
+<summary>
+  Looks up a localized string similar to QUOTESERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.RegistrationBPService">
+<summary>
+  Looks up a localized string similar to REGISTRATIONBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.RegistrationQueryService">
+<summary>
+  Looks up a localized string similar to REGISTRATIONQUERYSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.RegistrationService">
+<summary>
+  Looks up a localized string similar to REGISTRATIONSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.WARDSBPService">
+<summary>
+  Looks up a localized string similar to WARDSBPSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.WARDSService">
+<summary>
+  Looks up a localized string similar to WARDSSERVICE.
+</summary>
+</member>
+<member name="P:My.Resources.ServiceDetails.WsFederationHttpBinding">
+<summary>
+  Looks up a localized string similar to WSFEDERATIONHTTPBINDING.
+</summary>
+</member>
+<member name="T:PayrollBPRequestDC">
+<remarks/>
+</member>
+<member name="P:PayrollBPRequestDC.guid">
+<remarks/>
+</member>
+<member name="P:PayrollBPRequestDC.requestXML">
+<remarks/>
+</member>
+<member name="T:PayrollBPResponseDC">
+<remarks/>
+</member>
+<member name="P:PayrollBPResponseDC.result">
+<remarks/>
+</member>
+<member name="P:PayrollBPResponseDC.resultset">
+<remarks/>
+</member>
+<member name="T:PayrollRequestDC">
+<remarks/>
+</member>
+<member name="P:PayrollRequestDC.guid">
+<remarks/>
+</member>
+<member name="P:PayrollRequestDC.requestXML">
+<remarks/>
+</member>
+<member name="T:PayrollResponseDC">
+<remarks/>
+</member>
+<member name="P:PayrollResponseDC.result">
+<remarks/>
+</member>
+<member name="P:PayrollResponseDC.resultset">
+<remarks/>
+</member>
+</members>
+</doc>

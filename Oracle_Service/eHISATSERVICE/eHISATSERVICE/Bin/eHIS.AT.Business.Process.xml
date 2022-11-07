@@ -1,0 +1,659 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.AT.Business.Process
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.AT.Business.Process.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.AT.Business.Process.My.Resources.ProcessorResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.AddBedbooking">
+<summary>
+  Looks up a localized string similar to ADDBEDBOOKING.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.AddBedTransfer">
+<summary>
+  Looks up a localized string similar to ADDBEDTRANSFER.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.addBedTransferAfterApproval">
+<summary>
+  Looks up a localized string similar to ADDBEDTRANSFERAFTERAPPROVAL.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.AddCategoryTransfer">
+<summary>
+  Looks up a localized string similar to ADDCATEGORYTRANSFER.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.addCategoryTransferAfterApproval">
+<summary>
+  Looks up a localized string similar to ADDCATEGORYTRANSFERAFTERAPPROVAL.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.AddEmergencyAdmission">
+<summary>
+  Looks up a localized string similar to ADDEMERGENCYADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.AddEPAdmission">
+<summary>
+  Looks up a localized string similar to ADDEPADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.AddIPAdmission">
+<summary>
+  Looks up a localized string similar to ADDIPADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.Approval">
+<summary>
+  Looks up a localized string similar to APPROVAL.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.approvalStatus">
+<summary>
+  Looks up a localized string similar to APPROVALSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.ATHL7AdmitReason">
+<summary>
+  Looks up a localized string similar to ATHL7ADMITREASON.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.BedAvailability">
+<summary>
+  Looks up a localized string similar to GETBEDAVAILABILITY.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.BedBooking">
+<summary>
+  Looks up a localized string similar to GETBEDBOOKING.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.BedBookingNumber">
+<summary>
+  Looks up a localized string similar to BEDBOOKINGNUMBER.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.BedBookingProcessID">
+<summary>
+  Looks up a localized string similar to 3.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.BedCategory">
+<summary>
+  Looks up a localized string similar to GETBEDCATEGORY.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.BedTransferProcessID">
+<summary>
+  Looks up a localized string similar to 2.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.BlockOrLock">
+<summary>
+  Looks up a localized string similar to BLOCKORLOCK.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.CancelBedbooking">
+<summary>
+  Looks up a localized string similar to CANCELBEDBOOKING.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.CancelBedTransfer">
+<summary>
+  Looks up a localized string similar to CANCELBEDTRANSFER.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.CancelCategoryTransfer">
+<summary>
+  Looks up a localized string similar to CANCELCATEGORYTRANSFER.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.CancelEmergencyAdmission">
+<summary>
+  Looks up a localized string similar to CANCELEMERGENCYADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.CancelIPAdmission">
+<summary>
+  Looks up a localized string similar to CANCELIPADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.CancelIPAdmissionProcess">
+<summary>
+  Looks up a localized string similar to 1.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.CategoryTransfer">
+<summary>
+  Looks up a localized string similar to GETCATEGORYTRANSFER.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.CheckActiveInPatient">
+<summary>
+  Looks up a localized string similar to CHECKACTIVEINPATIENT.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.CheckBedForTransfer">
+<summary>
+  Looks up a localized string similar to CHECKBEDFORTRANSFER.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.CheckForIPAdmission">
+<summary>
+  Looks up a localized string similar to CHECKFORIPADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.CheckIPConversion">
+<summary>
+  Looks up a localized string similar to CHECKIPCONVERSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.CheckWaitingList">
+<summary>
+  Looks up a localized string similar to CHECKWAITINGLIST.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.ConvertWaitingListToBooking">
+<summary>
+  Looks up a localized string similar to CONVERTWAITINGLISTTOBOOKING.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.DataNotFound">
+<summary>
+  Looks up a localized string similar to Data Not Found.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.EPAdmissionProcessID">
+<summary>
+  Looks up a localized string similar to 5.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.ErrorCodesNotAvailable">
+<summary>
+  Looks up a localized string similar to Error Codes Not Available.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.ErrorType">
+<summary>
+  Looks up a localized string similar to SERVICE.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetActiveInPatientNoForUHID">
+<summary>
+  Looks up a localized string similar to GETACTIVEINPATIENTNOFORUHID.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetActiveIP">
+<summary>
+  Looks up a localized string similar to GETACTIVEIP.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetActiveIPNumbers">
+<summary>
+  Looks up a localized string similar to GETACTIVEINPATIENTNOS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetBedBookingCount">
+<summary>
+  Looks up a localized string similar to GETBEDBOOKINGCOUNT.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetBedCategoryCount">
+<summary>
+  Looks up a localized string similar to GETBEDCATEGORYCOUNT.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetBedLevelDetails">
+<summary>
+  Looks up a localized string similar to GETBEDLEVELDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetBedLevelsByBed">
+<summary>
+  Looks up a localized string similar to GETBEDLEVELSBYBED.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetBedMatrix">
+<summary>
+  Looks up a localized string similar to GETBEDMATRIX.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetBedMatrixByLevel">
+<summary>
+  Looks up a localized string similar to GETBEDMATRIXBYLEVEL.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetBedStatusCount">
+<summary>
+  Looks up a localized string similar to GETBEDSTATUSCOUNT.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetBlockOrLock">
+<summary>
+  Looks up a localized string similar to GETBLOCKORLOCK.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetBlockOrLockError">
+<summary>
+  Looks up a localized string similar to BlockOrLock error.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetCategories">
+<summary>
+  Looks up a localized string similar to GETCATEGORIES.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetCategoryBedCount">
+<summary>
+  Looks up a localized string similar to GETCATEGORYBEDCOUNT.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetCategoryName">
+<summary>
+  Looks up a localized string similar to GETCATEGORYNAME.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetClinicalReviewDetails">
+<summary>
+  Looks up a localized string similar to GETCLINICALREVIEWDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetClinicalReviewList">
+<summary>
+  Looks up a localized string similar to GETCLINICALREVIEWLIST.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetConfigurableMaster">
+<summary>
+  Looks up a localized string similar to GETCONFIGURATIONVALUE.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetCorporateIPList">
+<summary>
+  Looks up a localized string similar to GETCORPORATEIPLIST.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetDepositAmount">
+<summary>
+  Looks up a localized string similar to GETDEPOSITAMOUNT.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetEmrBedMatrixByLevel">
+<summary>
+  Looks up a localized string similar to GETEMRBEDMATRIXBYLEVEL.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetHierarchyParent">
+<summary>
+  Looks up a localized string similar to SHOWHIERARCHYPARENT.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetIPDetails">
+<summary>
+  Looks up a localized string similar to GETIPDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetIPNumbers">
+<summary>
+  Looks up a localized string similar to GETIPNUMBERS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetLevelHierarchy">
+<summary>
+  Looks up a localized string similar to GETLEVELHIERARCHY.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetLevelMaster">
+<summary>
+  Looks up a localized string similar to GETLEVELMASTER.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetLevelMasterOnLevel">
+<summary>
+  Looks up a localized string similar to GETLEVELMASTERONLEVEL.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetLevelOccupancyDetail">
+<summary>
+  Looks up a localized string similar to GETLEVELOCCUPANCYDETAIL.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetLevelParent">
+<summary>
+  Looks up a localized string similar to GETLEVELPARENT.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetLevels">
+<summary>
+  Looks up a localized string similar to GETLEVELS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetLocationID">
+<summary>
+  Looks up a localized string similar to GETLOCATIONID.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetLocations">
+<summary>
+  Looks up a localized string similar to GETLOCATIONS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetMaxAllowedBedBookings">
+<summary>
+  Looks up a localized string similar to GETMAXALLOWEDBEDBOOKINGS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetNewIPList">
+<summary>
+  Looks up a localized string similar to GETNEWIPLIST.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetOppositeGender">
+<summary>
+  Looks up a localized string similar to GETOPPOSITEGENDER.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetPatientBlockedBeds">
+<summary>
+  Looks up a localized string similar to GETPATIENTBLOCKEDBEDS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetPatientDetailsWithIPNO">
+<summary>
+  Looks up a localized string similar to GETPATIENTDETAILSWITHIPNO.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetPatientDetailsWithUHID">
+<summary>
+  Looks up a localized string similar to GETPATIENTDETAILSWITHUHID.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetPatientOccupiedBeds">
+<summary>
+  Looks up a localized string similar to GETPATIENTOCCUPIEDBEDS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetPatientStatus">
+<summary>
+  Looks up a localized string similar to GETPATIENTSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetPendingApprovalsErrorTag">
+<summary>
+  Looks up a localized string similar to There are no pending tasks for this sub-process.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetPendingApprovalsTag">
+<summary>
+  Looks up a localized string similar to GETPENDINGAPPROVALS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.getPendingTransactionsError">
+<summary>
+  Looks up a localized string similar to There are no pending transactions.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetSearchPatientDetails">
+<summary>
+  Looks up a localized string similar to GETSEARCHPATIENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetStatus">
+<summary>
+  Looks up a localized string similar to GETSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetToBeDischargedPatients">
+<summary>
+  Looks up a localized string similar to GETTOBEDISCHARGEDPATIENTS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetTransactionForDashBoard">
+<summary>
+  Looks up a localized string similar to GETTRANSACTIONFORDASHBOARD.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetTransactionId">
+<summary>
+  Looks up a localized string similar to GETTRANSACTIONID.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetTransactionRequests">
+<summary>
+  Looks up a localized string similar to GETTRANSACTIONREQUESTS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetUHIDForWLNO">
+<summary>
+  Looks up a localized string similar to GETUHIDFORWLNO.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetWaitingAndBookingList">
+<summary>
+  Looks up a localized string similar to GETWAITINGANDBOOKINGLIST.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetWardDetails">
+<summary>
+  Looks up a localized string similar to GETWARDDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetWardLevelMaster">
+<summary>
+  Looks up a localized string similar to GETWARDLEVELMASTER.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.GetWardWiseIPDetails">
+<summary>
+  Looks up a localized string similar to GETWARDWISEIPDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.InPatientID">
+<summary>
+  Looks up a localized string similar to GETINPATIENTID.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.InvalidActionErrorCode">
+<summary>
+  Looks up a localized string similar to 13003.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.InvalidSoapRequestErrorCode">
+<summary>
+  Looks up a localized string similar to 13002.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.IPAdmission">
+<summary>
+  Looks up a localized string similar to GETIPADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.IPAdmissionProcessID">
+<summary>
+  Looks up a localized string similar to 4.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.ModuleName">
+<summary>
+  Looks up a localized string similar to AT.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.NoData">
+<summary>
+  Looks up a localized string similar to There are no records with data provided.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.ShowAttendentCard">
+<summary>
+  Looks up a localized string similar to SHOWATTENDENTCARD.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.statusApproved">
+<summary>
+  Looks up a localized string similar to Approved.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.StatusOfBed">
+<summary>
+  Looks up a localized string similar to STATUSOFBED.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.statusPending">
+<summary>
+  Looks up a localized string similar to Pending.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.statusRejected">
+<summary>
+  Looks up a localized string similar to Rejected.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.statusSelfApproved">
+<summary>
+  Looks up a localized string similar to SELFAPPROVED.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.Transfer">
+<summary>
+  Looks up a localized string similar to GETTRANSFERDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UHIDNumber">
+<summary>
+  Looks up a localized string similar to GETUHIDNUMBER.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UpdateActiveStatusOfPatient">
+<summary>
+  Looks up a localized string similar to UPDATEACTIVESTATUSOFPATIENT.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UpdateBedbooking">
+<summary>
+  Looks up a localized string similar to UPDATEBEDBOOKING.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UpdateBlockOrLock">
+<summary>
+  Looks up a localized string similar to UPDATEBLOCKORLOCK.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UpdateDischargeMedication">
+<summary>
+  Looks up a localized string similar to UPDATEDISCHARGEMEDICATION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UpdateEmergencyAdmission">
+<summary>
+  Looks up a localized string similar to UPDATEEMERGENCYADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UpdateIPAdmission">
+<summary>
+  Looks up a localized string similar to UPDATEIPADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UpdateIPCreditDetails">
+<summary>
+  Looks up a localized string similar to UPDATEIPCREDITDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UpdateIPNOWithAdmissionNo">
+<summary>
+  Looks up a localized string similar to UPDATEIPNOWITHADMISSIONNO.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UpdatePatientDoctor">
+<summary>
+  Looks up a localized string similar to UPDATEPATIENTDOCTOR.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UpdateStatusOfBed">
+<summary>
+  Looks up a localized string similar to UPDATESTATUSOFBED.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UpdateStatusOfPatient">
+<summary>
+  Looks up a localized string similar to UPDATESTATUSOFPATIENT.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.UpdateTransferRequest">
+<summary>
+  Looks up a localized string similar to UPDATETRANSFERREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.Process.My.Resources.ProcessorResources.WaitingListBooking">
+<summary>
+  Looks up a localized string similar to WAITINGLISTBOOKING.
+</summary>
+</member>
+<member name="M:eHIS.AT.Business.Process.ResponseProcessor.SendResponse">
+ <summary>
+ This method is used for reading various elements of Master XML and calling 
+ respective methods based on source action
+ </summary>
+ <returns>Integer</returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.AT.Business.Process.ResponseProcessor.SerializeObject">
+ <summary>
+ This method is used for Serializing Object
+ </summary>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Business.Process.ResponseProcessor.ProcessResponse(System.String)">
+ <summary>
+ This method is used for Processing the Response
+ </summary>
+ <param name="masterXml"></param>
+ <returns>Integer</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Business.Process.ResponseProcessor.DeserializeObject(System.String)">
+ <summary>
+ This method is used for Deserializing Object
+ </summary>
+ <param name="xmlInput"></param>
+ <returns>RegistrationResponseProcessor</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,14 @@
+In LabRequestProcessor
+In ProcessRaiseRequestRequest
+In ActionProcessor
+In RaiseRequest
+In LabServiceProvider
+In DataTransactionhandler GenerateLRN
+In dsp AddLRN
+In dataServiceProvider AddLRN before assigning
+In dataServiceProvider AddLRN assigned
+ConnectionStringData Source=aplthyd;User id=lab;Password=lab
+procAddLRN -- P_AddLabRequest
+In dataServiceProvider AddLRN after sp
+LRN2600
+retCode0

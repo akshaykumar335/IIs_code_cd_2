@@ -1,0 +1,203 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.ES.Configuration
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.ES.Configuration.My.Resources.ConfigSettings">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.CsfModifyStateResponsePath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/csfModifyStateResponse.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.CsfResponsePasswordOptionPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/csfResponsePasswordOption.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.CsfResponsePasswordPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/csfResponsePassword.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.CsfResponseUsernamePath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/csfResponseUsername.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.eHISAsyncAuditLogLogNamePath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISAsyncAuditLogLogName.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.eHISAsyncAuditLogMachineNamePath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISAsyncAuditLogMachineName.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.eHISAsyncAuditLogSourceNamePath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISAsyncAuditLogSourceName.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.eHISAsyncConnectionStringPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISAsyncConnectionString.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.eHISBusinessAuditConnectionStringPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISBusinessAuditConnectionString.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.eHISBusinessAuditingEnabledPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISBusinessAuditingEnabled.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.eHISConnectionStringPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISConnectionString.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.eHISLoggerFilePath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISLoggerFilePath.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.eHISMaxInQueueConcurrentThreadsPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISMaxInqueueConcurrentThreads.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.eHISSMTPServer">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISSMTPServer.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.eHISVasEnableQueuePath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/eHISVasEnableQueue.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.FaultToUriPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/faultToUri.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.PasswordValue">
+<summary>
+  Looks up a localized string similar to !!Nik1Man2Vin3Par4!!.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.ReplyToUriPath">
+<summary>
+  Looks up a localized string similar to /configuration/eHISSettings/replyToUri.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.SourceCodePath">
+<summary>
+  Looks up a localized string similar to /configuration/source/code.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.SourcePath">
+<summary>
+  Looks up a localized string similar to /configuration/source/sourcePath.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.ConfigSettings.XmlFilePath">
+<summary>
+  Looks up a localized string similar to C:\Bhaskar\Working\ToBeDelevered\Service\eHISRegistration\eHIS.Registration.Configuration\eHISConfiguration.xml.
+</summary>
+</member>
+<member name="T:eHIS.ES.Configuration.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.ES.Configuration.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.ES.Configuration.ConfigSettings.#ctor">
+ <summary>
+ This constructor contains functionality for initializing field values
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Configuration.ConfigSettings.GetSourceToReadConfig">
+ <summary>
+ This method contains functionality for iterating through source XML
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Configuration.ConfigSettings.PopulateConfigSettings(eHIS.ES.Configuration.ConfigSource)">
+ <summary>
+ This method contains functionality for populating config settings
+ </summary>
+ <param name="sourceToRefer"></param>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Configuration.ConfigSettings.PopulateFromDatabase">
+ <summary>
+ This constructor is for initializing connection string
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Configuration.ConfigSettings.GetConnectionStringFromXml">
+ <summary>
+ This method contains functionality for getting connection string from 
+ xml file
+ </summary>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Configuration.ConfigSettings.SerializeSettings">
+ <summary>
+ This method contains functionality for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Configuration.XmlSettingsReader.#ctor(System.String)">
+ <summary>
+ This constructor contains functionality for initializing field values
+ </summary>
+ <param name="filePath"></param>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Configuration.XmlSettingsReader.Populate">
+ <summary>
+ This method contains functionality for populating data into respective
+ fields reading from different nodes
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

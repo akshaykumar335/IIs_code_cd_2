@@ -1,0 +1,855 @@
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+in servicehost
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000000" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="20-Nov-2007 18:46:52">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /><Details ItemCode="1100000001109" Qty="1" IntransitQty="1" ItemValue="107" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /><BatchSerial BatchSerialCode="Batch4" ItemCode="1100000001109" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-1200" ExpiryDate="02-Feb-2009" ReceiptDate="02-JUN-2006 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="21-Nov-2007 11:06:58">
+  <IssueItems><Details ItemCode="1100000001020" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+in servicehost
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000004" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="21-Nov-2007 11:34:22">
+  <IssueItems><Details ItemCode="1100000001109" Qty="1" IntransitQty="1" ItemValue="107" Remarks="sas" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000000" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="21-Nov-2007 12:54:10">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="0" ItemValue="10" Remarks="sadfwer" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="0" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+in servicehost
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+in servicehost
+this MMManager
+this MMManager
+this MMManager
+in servicehost
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<GRNRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ActionRequest>
+    <Target />
+    <Identifier />
+    <Action>ADDInspectionDetails</Action>
+  </ActionRequest>
+  <GRNItemSearch POAmendementDetails="" GRNCode="" InvoiceDetails="" SRVCode="" InspectionCode="" InspectionDetails="&lt;Inspection&gt;&lt;InspectionDetails GRNCode=&quot;GRN10000000&quot; POCode=&quot;PO10000007&quot; CreatedDate=&quot;22-Nov-2007 12:42:05&quot; DCNumber=&quot;c&quot; DCDate=&quot;21-Nov-2007 00:00:00&quot; VendorInvoiceNumber=&quot;&quot; VendorInvoiceDate=&quot;01-Jan-1900 00:00:00&quot; EntryPassNumber=&quot;&quot; EntryPassDate=&quot;01-Jan-1900 00:00:00&quot; VendorCode=&quot;10241&quot; NoOfPackages=&quot;0&quot; Weight=&quot;&quot; Comments=&quot;&quot; BaseValue=&quot;2182&quot; AddnCharges=&quot;0&quot; TotalValue=&quot;2182&quot; OperatorId=&quot;6021&quot; TranstactionTypeId=&quot;2&quot; TaxValue=&quot;1082&quot; StoreCode=&quot;12070701000&quot; StatusId=&quot;1&quot; /&gt;&lt;InspectionItemDetails ItemCode=&quot;1000000001003&quot; UOM=&quot;NOS&quot; DCQty=&quot;22&quot; Qty=&quot;22&quot; RejectedQty=&quot;0&quot; BaseValue=&quot;1100&quot; TaxValue=&quot;1082&quot; TotalValue=&quot;2182&quot; Remarks=&quot;&quot; /&gt;&lt;/Inspection&gt;" SRVDetails="" StoreCode="" GRNDetails="" PONo="" StatusId="0" PurchaseTypeId="0" CreatedDate="" />
+</GRNRequest>MMService Provider**************
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000003" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="22-Nov-2007 12:45:23">
+  <IssueItems><Details ItemCode="1100000001052" Qty="2" IntransitQty="2" ItemValue="20" Remarks="Remarks" /><Details ItemCode="1100000001020" Qty="2" IntransitQty="2" ItemValue="20" Remarks="Remarks" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000005" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="22-Nov-2007 15:25:51">
+  <IssueItems><Details ItemCode="1100000001005" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000005" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="22-Nov-2007 15:25:51">
+  <IssueItems><Details ItemCode="1100000001005" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000005" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="22-Nov-2007 15:25:51">
+  <IssueItems><Details ItemCode="1100000001005" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000006" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="uhid234" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="22-Nov-2007 15:50:36">
+  <IssueItems><Details ItemCode="1100000001004" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000007" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="22-Nov-2007 16:15:44">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /><Details ItemCode="1100000001109" Qty="1" IntransitQty="1" ItemValue="107" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /><BatchSerial BatchSerialCode="Batch4" ItemCode="1100000001109" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-1200" ExpiryDate="02-Feb-2009" ReceiptDate="02-JUN-2006 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+in servicehost
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000007" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="23-Nov-2007 11:33:55">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /><Details ItemCode="1100000001109" Qty="1" IntransitQty="1" ItemValue="107" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+in servicehost
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+in servicehost
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000000" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="23-Nov-2007 17:52:26">
+  <IssueItems><Details ItemCode="1100000001108" Qty="2" IntransitQty="2" ItemValue="20" Remarks="" /><Details ItemCode="1100000001109" Qty="2" IntransitQty="2" ItemValue="214" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="2" IntransitQty="2" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="20" UnitCost="10" MRP="1" /><BatchSerial BatchSerialCode="Batch3" ItemCode="1100000001109" StoreCode="12070701000" Isbatch="0" Qty="2" IntransitQty="2" Status="1" MfgDate="01-Jan-1200" ExpiryDate="02-Feb-2010" ReceiptDate="02-MAY-2007 00:00:00" BatchValue="20" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000000" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="23-Nov-2007 17:59:16">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /><Details ItemCode="1100000001109" Qty="1" IntransitQty="1" ItemValue="107" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /><BatchSerial BatchSerialCode="Batch3" ItemCode="1100000001109" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-1200" ExpiryDate="02-Feb-2010" ReceiptDate="02-MAY-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000000" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="23-Nov-2007 18:22:17">
+  <IssueItems><Details ItemCode="1100000001108" Qty="2" IntransitQty="2" ItemValue="20" Remarks="" /><Details ItemCode="1100000001109" Qty="2" IntransitQty="2" ItemValue="214" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="2" IntransitQty="2" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="20" UnitCost="10" MRP="1" /><BatchSerial BatchSerialCode="Batch3" ItemCode="1100000001109" StoreCode="12070701000" Isbatch="0" Qty="2" IntransitQty="2" Status="1" MfgDate="01-Jan-1200" ExpiryDate="02-Feb-2010" ReceiptDate="02-MAY-2007 00:00:00" BatchValue="20" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="23-Nov-2007 18:30:18">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /><Details ItemCode="1100000001109" Qty="1" IntransitQty="1" ItemValue="107" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /><BatchSerial BatchSerialCode="Batch3" ItemCode="1100000001109" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-1200" ExpiryDate="02-Feb-2010" ReceiptDate="02-MAY-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000000" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="23-Nov-2007 19:17:13">
+  <IssueItems><Details ItemCode="1100000001108" Qty="2" IntransitQty="2" ItemValue="20" Remarks="" /><Details ItemCode="1100000001109" Qty="2" IntransitQty="2" ItemValue="214" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="2" IntransitQty="2" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="20" UnitCost="10" MRP="1" /><BatchSerial BatchSerialCode="Batch3" ItemCode="1100000001109" StoreCode="12070701000" Isbatch="0" Qty="2" IntransitQty="2" Status="1" MfgDate="01-Jan-1200" ExpiryDate="02-Feb-2010" ReceiptDate="02-MAY-2007 00:00:00" BatchValue="20" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000000" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="23-Nov-2007 19:38:57">
+  <IssueItems><Details ItemCode="1100000001108" Qty="2" IntransitQty="2" ItemValue="20" Remarks="" /><Details ItemCode="1100000001109" Qty="2" IntransitQty="2" ItemValue="214" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="2" IntransitQty="2" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /><BatchSerial BatchSerialCode="Batch3" ItemCode="1100000001109" StoreCode="12070701000" Isbatch="0" Qty="2" IntransitQty="2" Status="1" MfgDate="01-Jan-1200" ExpiryDate="02-Feb-2010" ReceiptDate="02-MAY-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="23-Nov-2007 19:44:26">
+  <IssueItems><Details ItemCode="1100000001108" Qty="2" IntransitQty="2" ItemValue="20" Remarks="" /><Details ItemCode="1100000001109" Qty="2" IntransitQty="2" ItemValue="214" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="2" IntransitQty="2" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="20" UnitCost="10" MRP="1" /><BatchSerial BatchSerialCode="Batch3" ItemCode="1100000001109" StoreCode="12070701000" Isbatch="0" Qty="2" IntransitQty="2" Status="1" MfgDate="01-Jan-1200" ExpiryDate="02-Feb-2010" ReceiptDate="02-MAY-2007 00:00:00" BatchValue="20" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000000" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="23-Nov-2007 19:51:47">
+  <IssueItems><Details ItemCode="1100000001108" Qty="2" IntransitQty="2" ItemValue="20" Remarks="" /><Details ItemCode="1100000001109" Qty="2" IntransitQty="2" ItemValue="214" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="2" IntransitQty="2" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="20" UnitCost="10" MRP="1" /><BatchSerial BatchSerialCode="Batch3" ItemCode="1100000001109" StoreCode="12070701000" Isbatch="0" Qty="2" IntransitQty="2" Status="1" MfgDate="01-Jan-1200" ExpiryDate="02-Feb-2010" ReceiptDate="02-MAY-2007 00:00:00" BatchValue="20" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+in servicehost
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+in servicehost
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 11:44:49">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 11:53:54">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+in servicehost
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 12:15:22">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 14:57:17">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:10:53">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:18:51">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:18:51">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:18:51">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:18:51">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:18:51">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:18:51">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:47:36">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:50:35">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:52:04">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:52:04">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:58:06">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 15:58:06">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+in servicehost
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="29-Nov-2007 16:18:12">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+in servicehost
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 15:29:04">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 15:29:04">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 15:29:04">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 15:29:04">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 15:29:04">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 15:29:04">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 15:29:04">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 15:29:04">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 15:29:04">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 16:54:20">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 17:02:43">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 17:02:43">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 17:02:43">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 17:26:00">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 17:26:00">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 17:33:05">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="30-Nov-2007 18:14:24">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /><Details ItemCode="1100000001020" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000005" IssueCode="" StoreCode="12070741003" UserId="1429" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="1207071111006" ItemCode="" CreatedDate="30-Nov-2007 18:43:19">
+  <IssueItems><Details ItemCode="1100000001109" Qty="1" IntransitQty="1" ItemValue="107" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch4" ItemCode="1100000001109" StoreCode="12070741003" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-1200" ExpiryDate="02-Feb-2009" ReceiptDate="02-JUN-2006 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+in servicehost
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 10:43:34">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 10:43:34">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 10:43:34">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+in servicehost
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000008" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="03-Dec-2007 12:52:14">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000008" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="03-Dec-2007 12:57:29">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 13:16:39">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 13:16:39">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+in servicehost
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 14:58:54">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 15:24:01">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 15:24:01">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 15:24:01">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 15:24:01">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 15:24:01">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 15:41:17">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000001" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="0" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 15:46:27">
+  <IssueItems><Details ItemCode="1100000001366" Qty="1" IntransitQty="0" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+in servicehost
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000008" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="03-Dec-2007 16:06:22">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000008" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="03-Dec-2007 16:07:56">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000008" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="03-Dec-2007 16:08:37">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000008" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="03-Dec-2007 16:08:56">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000008" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="03-Dec-2007 16:09:16">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000008" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="03-Dec-2007 16:09:52">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000008" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="03-Dec-2007 16:10:10">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000008" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="03-Dec-2007 16:10:52">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000008" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="03-Dec-2007 16:11:17">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000008" IssueCode="" StoreCode="12070701000" UserId="6789" PatientUHID="" DeptId="1" Status="1" TransactionCode="2" FromStoreCode="12070741003" ItemCode="" CreatedDate="03-Dec-2007 16:12:11">
+  <IssueItems><Details ItemCode="1100000001108" Qty="1" IntransitQty="1" ItemValue="10" Remarks="" /></IssueItems>
+  <BatchSerialDetails><BatchSerial BatchSerialCode="Batch1" ItemCode="1100000001108" StoreCode="12070701000" Isbatch="0" Qty="1" IntransitQty="1" Status="1" MfgDate="01-Jan-2004" ExpiryDate="02-Feb-2009" ReceiptDate="02-FEB-2007 00:00:00" BatchValue="10" UnitCost="10" MRP="1" /></BatchSerialDetails>
+</Issue>
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000010" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="JBH12916" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 18:51:37">
+  <IssueItems><Details ItemCode="1100000001366" Qty="2" IntransitQty="0" ItemValue="20" Remarks="Remarks" /><Details ItemCode="1100000001020" Qty="2" IntransitQty="0" ItemValue="20" Remarks="Remarks" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+this MMManager
+this MMManager
+<?xml version="1.0" encoding="utf-16"?>
+<Issue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" IndentCode="IN10000011" IssueCode="L106" StoreCode="12070701000" UserId="6789" PatientUHID="JBH12916" DeptId="1" Status="3" TransactionCode="2" FromStoreCode="" ItemCode="" CreatedDate="03-Dec-2007 18:59:27">
+  <IssueItems><Details ItemCode="1100000001367" Qty="1" IntransitQty="0" ItemValue="10" Remarks="Remarks" /><Details ItemCode="1100000001569" Qty="1" IntransitQty="0" ItemValue="10" Remarks="Remarks" /></IssueItems>
+  <BatchSerialDetails />
+</Issue>
+in servicehost
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+in servicehost
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager
+this MMManager

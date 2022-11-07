@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SearchRequest" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SearchRequest" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="SearchRequest" msprop:Generator_DataSetName="SearchRequest">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Search" msprop:Generator_UserTableName="Search" msprop:Generator_RowDeletedName="SearchRowDeleted" msprop:Generator_TableClassName="SearchDataTable" msprop:Generator_RowChangedName="SearchRowChanged" msprop:Generator_RowClassName="SearchRow" msprop:Generator_RowChangingName="SearchRowChanging" msprop:Generator_RowEvArgName="SearchRowChangeEvent" msprop:Generator_RowEvHandlerName="SearchRowChangeEventHandler" msprop:Generator_TablePropName="Search" msprop:Generator_TableVarName="tableSearch" msprop:Generator_RowDeletingName="SearchRowDeleting">
+          <xs:complexType>
+            <xs:attribute name="ProcessID" msprop:Generator_UserColumnName="ProcessID" msprop:Generator_ColumnPropNameInRow="ProcessID" msprop:Generator_ColumnVarNameInTable="columnProcessID" msprop:Generator_ColumnPropNameInTable="ProcessIDColumn" type="xs:string" />
+            <xs:attribute name="LoginID" msprop:Generator_UserColumnName="LoginID" msprop:Generator_ColumnPropNameInRow="LoginID" msprop:Generator_ColumnVarNameInTable="columnLoginID" msprop:Generator_ColumnPropNameInTable="LoginIDColumn" type="xs:string" />
+            <xs:attribute name="MaritalCode" msprop:Generator_UserColumnName="MaritalCode" msprop:Generator_ColumnPropNameInRow="MaritalCode" msprop:Generator_ColumnVarNameInTable="columnMaritalCode" msprop:Generator_ColumnPropNameInTable="MaritalCodeColumn" type="xs:string" />
+            <xs:attribute name="GenderCode" msprop:Generator_UserColumnName="GenderCode" msprop:Generator_ColumnPropNameInRow="GenderCode" msprop:Generator_ColumnVarNameInTable="columnGenderCode" msprop:Generator_ColumnPropNameInTable="GenderCodeColumn" type="xs:string" />
+            <xs:attribute name="UHIDNumber" msprop:Generator_UserColumnName="UHIDNumber" msprop:Generator_ColumnPropNameInRow="UHIDNumber" msprop:Generator_ColumnVarNameInTable="columnUHIDNumber" msprop:Generator_ColumnPropNameInTable="UHIDNumberColumn" type="xs:string" />
+            <xs:attribute name="PRNumber" msprop:Generator_UserColumnName="PRNumber" msprop:Generator_ColumnPropNameInRow="PRNumber" msprop:Generator_ColumnVarNameInTable="columnPRNumber" msprop:Generator_ColumnPropNameInTable="PRNumberColumn" type="xs:string" />
+            <xs:attribute name="EmergencyNo" msprop:Generator_UserColumnName="EmergencyNo" msprop:Generator_ColumnPropNameInRow="EmergencyNo" msprop:Generator_ColumnVarNameInTable="columnEmergencyNo" msprop:Generator_ColumnPropNameInTable="EmergencyNoColumn" type="xs:string" />
+            <xs:attribute name="BookID" msprop:Generator_UserColumnName="BookID" msprop:Generator_ColumnPropNameInRow="BookID" msprop:Generator_ColumnVarNameInTable="columnBookID" msprop:Generator_ColumnPropNameInTable="BookIDColumn" type="xs:string" />
+            <xs:attribute name="FromDate" msprop:Generator_UserColumnName="FromDate" msprop:Generator_ColumnPropNameInRow="FromDate" msprop:Generator_ColumnVarNameInTable="columnFromDate" msprop:Generator_ColumnPropNameInTable="FromDateColumn" type="xs:string" />
+            <xs:attribute name="ToDate" msprop:Generator_UserColumnName="ToDate" msprop:Generator_ColumnPropNameInRow="ToDate" msprop:Generator_ColumnVarNameInTable="columnToDate" msprop:Generator_ColumnPropNameInTable="ToDateColumn" type="xs:string" />
+            <xs:attribute name="InPatientNo" msprop:Generator_UserColumnName="InPatientNo" msprop:Generator_ColumnPropNameInRow="InPatientNo" msprop:Generator_ColumnVarNameInTable="columnInPatientNo" msprop:Generator_ColumnPropNameInTable="InPatientNoColumn" type="xs:string" />
+            <xs:attribute name="BookNo" msprop:Generator_UserColumnName="BookNo" msprop:Generator_ColumnPropNameInRow="BookNo" msprop:Generator_ColumnVarNameInTable="columnBookNo" msprop:Generator_ColumnPropNameInTable="BookNoColumn" type="xs:string" />
+            <xs:attribute name="LocationID" msprop:Generator_UserColumnName="LocationID" msprop:Generator_ColumnPropNameInRow="LocationID" msprop:Generator_ColumnVarNameInTable="columnLocationID" msprop:Generator_ColumnPropNameInTable="LocationIDColumn" type="xs:string" />
+            <xs:attribute name="CategoryID" msprop:Generator_UserColumnName="CategoryID" msprop:Generator_ColumnPropNameInRow="CategoryID" msprop:Generator_ColumnVarNameInTable="columnCategoryID" msprop:Generator_ColumnPropNameInTable="CategoryIDColumn" type="xs:string" />
+            <xs:attribute name="LevelID" msprop:Generator_UserColumnName="LevelID" msprop:Generator_ColumnPropNameInRow="LevelID" msprop:Generator_ColumnVarNameInTable="columnLevelID" msprop:Generator_ColumnPropNameInTable="LevelIDColumn" type="xs:string" />
+            <xs:attribute name="StatusID" msprop:Generator_UserColumnName="StatusID" msprop:Generator_ColumnPropNameInRow="StatusID" msprop:Generator_ColumnVarNameInTable="columnStatusID" msprop:Generator_ColumnPropNameInTable="StatusIDColumn" type="xs:string" />
+            <xs:attribute name="BedID" msprop:Generator_UserColumnName="BedID" msprop:Generator_ColumnPropNameInRow="BedID" msprop:Generator_ColumnVarNameInTable="columnBedID" msprop:Generator_ColumnPropNameInTable="BedIDColumn" type="xs:string" />
+            <xs:attribute name="LocationCode" msprop:Generator_UserColumnName="LocationCode" msprop:Generator_ColumnPropNameInRow="LocationCode" msprop:Generator_ColumnVarNameInTable="columnLocationCode" msprop:Generator_ColumnPropNameInTable="LocationCodeColumn" type="xs:string" />
+            <xs:attribute name="LevelDetailID" msprop:Generator_UserColumnName="LevelDetailID" msprop:Generator_ColumnPropNameInRow="LevelDetailID" msprop:Generator_ColumnVarNameInTable="columnLevelDetailID" msprop:Generator_ColumnPropNameInTable="LevelDetailIDColumn" type="xs:string" />
+            <xs:attribute name="WaitingListNo" msprop:Generator_UserColumnName="WaitingListNo" msprop:Generator_ColumnPropNameInRow="WaitingListNo" msprop:Generator_ColumnVarNameInTable="columnWaitingListNo" msprop:Generator_ColumnPropNameInTable="WaitingListNoColumn" type="xs:string" />
+            <xs:attribute name="GenderID" msprop:Generator_UserColumnName="GenderID" msprop:Generator_ColumnPropNameInRow="GenderID" msprop:Generator_ColumnVarNameInTable="columnGenderID" msprop:Generator_ColumnPropNameInTable="GenderIDColumn" type="xs:string" />
+            <xs:attribute name="ConfigurationCode" msprop:Generator_UserColumnName="ConfigurationCode" msprop:Generator_ColumnPropNameInRow="ConfigurationCode" msprop:Generator_ColumnVarNameInTable="columnConfigurationCode" msprop:Generator_ColumnPropNameInTable="ConfigurationCodeColumn" type="xs:string" />
+            <xs:attribute name="DateOfBooking" msprop:Generator_UserColumnName="DateOfBooking" msprop:Generator_ColumnPropNameInRow="DateOfBooking" msprop:Generator_ColumnVarNameInTable="columnDateOfBooking" msprop:Generator_ColumnPropNameInTable="DateOfBookingColumn" type="xs:string" />
+            <xs:attribute name="DateOfAdmission" msprop:Generator_UserColumnName="DateOfAdmission" msprop:Generator_ColumnPropNameInRow="DateOfAdmission" msprop:Generator_ColumnVarNameInTable="columnDateOfAdmission" msprop:Generator_ColumnPropNameInTable="DateOfAdmissionColumn" type="xs:string" />
+            <xs:attribute name="FirstName" msprop:Generator_UserColumnName="FirstName" msprop:Generator_ColumnPropNameInRow="FirstName" msprop:Generator_ColumnVarNameInTable="columnFirstName" msprop:Generator_ColumnPropNameInTable="FirstNameColumn" type="xs:string" />
+            <xs:attribute name="MiddleName" msprop:Generator_UserColumnName="MiddleName" msprop:Generator_ColumnPropNameInRow="MiddleName" msprop:Generator_ColumnVarNameInTable="columnMiddleName" msprop:Generator_ColumnPropNameInTable="MiddleNameColumn" type="xs:string" />
+            <xs:attribute name="LastName" msprop:Generator_UserColumnName="LastName" msprop:Generator_ColumnPropNameInRow="LastName" msprop:Generator_ColumnVarNameInTable="columnLastName" msprop:Generator_ColumnPropNameInTable="LastNameColumn" type="xs:string" />
+            <xs:attribute name="Status" msprop:Generator_UserColumnName="Status" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInTable="StatusColumn" type="xs:string" />
+            <xs:attribute name="LevelSpecialityID" msprop:Generator_UserColumnName="LevelSpecialityID" msprop:Generator_ColumnPropNameInRow="LevelSpecialityID" msprop:Generator_ColumnVarNameInTable="columnLevelSpecialityID" msprop:Generator_ColumnPropNameInTable="LevelSpecialityIDColumn" type="xs:string" />
+			<xs:attribute name="LevelOccupancyTypeID" msprop:Generator_UserColumnName="LevelOccupancyTypeID" msprop:Generator_ColumnPropNameInRow="LevelOccupancyTypeID" msprop:Generator_ColumnVarNameInTable="columnLevelOccupancyTypeID" msprop:Generator_ColumnPropNameInTable="LevelOccupancyTypeIDColumn" type="xs:string" />
+            <xs:attribute name="UserID" msprop:Generator_UserColumnName="UserID" msprop:Generator_ColumnPropNameInRow="UserID" msprop:Generator_ColumnVarNameInTable="columnUserID" msprop:Generator_ColumnPropNameInTable="UserIDColumn" type="xs:string" />
+            <xs:attribute name="PatientStatus" msprop:Generator_UserColumnName="PatientStatus" msprop:Generator_ColumnPropNameInRow="PatientStatus" msprop:Generator_ColumnVarNameInTable="columnPatientStatus" msprop:Generator_ColumnPropNameInTable="PatientStatusColumn" type="xs:string" />
+			<xs:attribute name="CorporateCode" msprop:Generator_UserColumnName="CorporateCode" msprop:Generator_ColumnPropNameInRow="CorporateCode" msprop:Generator_ColumnVarNameInTable="columnCorporateCode" msprop:Generator_ColumnPropNameInTable="CorporateCodeColumn" type="xs:string" />
+			<xs:attribute name="AdmittingDoctor" msprop:Generator_UserColumnName="AdmittingDoctor" msprop:Generator_ColumnPropNameInRow="AdmittingDoctor" msprop:Generator_ColumnVarNameInTable="columnAdmittingDoctor" msprop:Generator_ColumnPropNameInTable="AdmittingDoctorColumn" type="xs:string" />
+			<xs:attribute name="ReviewType" msprop:Generator_UserColumnName="ReviewType" msprop:Generator_ColumnPropNameInRow="ReviewType" msprop:Generator_ColumnVarNameInTable="columnReviewType" msprop:Generator_ColumnPropNameInTable="ReviewTypeColumn" type="xs:string" />
+			<xs:attribute name="CustomerCategory" msprop:Generator_UserColumnName="CustomerCategory" msprop:Generator_ColumnPropNameInRow="CustomerCategory" msprop:Generator_ColumnVarNameInTable="columnCustomerCategory" msprop:Generator_ColumnPropNameInTable="CustomerCategoryColumn" type="xs:string" />
+			<xs:attribute name="CustomerType" msprop:Generator_UserColumnName="CustomerType" msprop:Generator_ColumnPropNameInRow="CustomerType" msprop:Generator_ColumnVarNameInTable="columnCustomerType" msprop:Generator_ColumnPropNameInTable="CustomerTypeColumn" type="xs:string" />
+			<xs:attribute name="ReviewFromDate" msprop:Generator_UserColumnName="ReviewFromDate" msprop:Generator_ColumnPropNameInRow="ReviewFromDate" msprop:Generator_ColumnVarNameInTable="columnReviewFromDate" msprop:Generator_ColumnPropNameInTable="ReviewFromDateColumn" type="xs:string" />
+			<xs:attribute name="ReviewToDate" msprop:Generator_UserColumnName="ReviewToDate" msprop:Generator_ColumnPropNameInRow="ReviewToDate" msprop:Generator_ColumnVarNameInTable="columnReviewToDate" msprop:Generator_ColumnPropNameInTable="ReviewToDateColumn" type="xs:string" />
+			<xs:attribute name="ReviewStatus" msprop:Generator_UserColumnName="ReviewStatus" msprop:Generator_ColumnPropNameInRow="ReviewStatus" msprop:Generator_ColumnVarNameInTable="columnReviewStatus" msprop:Generator_ColumnPropNameInTable="ReviewStatusColumn" type="xs:string" />
+            <xs:attribute name="IPDetails" msprop:Generator_UserColumnName="IPDetails" msprop:Generator_ColumnPropNameInRow="IPDetails" msprop:Generator_ColumnVarNameInTable="columnIPDetails" msprop:Generator_ColumnPropNameInTable="IPDetailsColumn" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ActionRequest" msprop:Generator_UserTableName="ActionRequest" msprop:Generator_RowDeletedName="ActionRequestRowDeleted" msprop:Generator_TableClassName="ActionRequestDataTable" msprop:Generator_RowChangedName="ActionRequestRowChanged" msprop:Generator_RowClassName="ActionRequestRow" msprop:Generator_RowChangingName="ActionRequestRowChanging" msprop:Generator_RowEvArgName="ActionRequestRowChangeEvent" msprop:Generator_RowEvHandlerName="ActionRequestRowChangeEventHandler" msprop:Generator_TablePropName="ActionRequest" msprop:Generator_TableVarName="tableActionRequest" msprop:Generator_RowDeletingName="ActionRequestRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Target" msprop:Generator_UserColumnName="Target" msprop:Generator_ColumnPropNameInRow="Target" msprop:Generator_ColumnVarNameInTable="columnTarget" msprop:Generator_ColumnPropNameInTable="TargetColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Identifier" msprop:Generator_UserColumnName="Identifier" msprop:Generator_ColumnPropNameInRow="Identifier" msprop:Generator_ColumnVarNameInTable="columnIdentifier" msprop:Generator_ColumnPropNameInTable="IdentifierColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LoginID" msprop:Generator_UserColumnName="LoginID" msprop:Generator_ColumnPropNameInRow="LoginID" msprop:Generator_ColumnVarNameInTable="columnLoginID" msprop:Generator_ColumnPropNameInTable="LoginIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Action" msprop:Generator_UserColumnName="Action" msprop:Generator_ColumnPropNameInRow="Action" msprop:Generator_ColumnVarNameInTable="columnAction" msprop:Generator_ColumnPropNameInTable="ActionColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

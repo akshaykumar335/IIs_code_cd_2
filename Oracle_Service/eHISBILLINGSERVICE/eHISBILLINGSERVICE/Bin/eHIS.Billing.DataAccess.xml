@@ -1,0 +1,1732 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Billing.DataAccess
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Billing.DataAccess.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.Billing.DataAccess.My.Resources.DataAccessResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddActivateIPService">
+<summary>
+  Looks up a localized string similar to P_ACTIVATEIPSERVICEREQUESTS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddAdviceDetails">
+<summary>
+  Looks up a localized string similar to P_AddAdviceDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddAmbulanceDetails">
+<summary>
+  Looks up a localized string similar to P_AMBULANCEBILLING.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddARDataToStagingTable">
+<summary>
+  Looks up a localized string similar to P_Int_AddARLineStg.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddBaselineApprovalDetails">
+<summary>
+  Looks up a localized string similar to P_AddBaselineApprovalDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddBaselineProposal">
+<summary>
+  Looks up a localized string similar to P_AddNewBaselineTariffProposal.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddBaselinePublishDetails">
+<summary>
+  Looks up a localized string similar to P_AddBaselinePublishDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddBillDetails">
+<summary>
+  Looks up a localized string similar to P_AddBillDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddBillEstimateRequest">
+<summary>
+  Looks up a localized string similar to P_AddEstimate.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddBillRealizationDetails">
+<summary>
+  Looks up a localized string similar to P_AddBillRealization.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddBillReconciliationDetails">
+<summary>
+  Looks up a localized string similar to P_ADDBILLREALIZATIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddConvertToGeneralCredit">
+<summary>
+  Looks up a localized string similar to P_ADDCONVERTTOGENERALCREDIT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddCreditBillDetails">
+<summary>
+  Looks up a localized string similar to P_AddCreditBillDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddCreditTariff">
+<summary>
+  Looks up a localized string similar to P_AddtariffpostingFromCRM.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddCurrencyConversionRate">
+<summary>
+  Looks up a localized string similar to P_ADDCURRENCYCONVERSIONRATE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddDepartmentDiscountBudget">
+<summary>
+  Looks up a localized string similar to P_AddDeptDiscountDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddDepositWaiver">
+<summary>
+  Looks up a localized string similar to P_AddDepositWaiver.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddDiscountRaiseRequestDetails">
+<summary>
+  Looks up a localized string similar to P_DiscountRaiseRequest.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddDiscountSetupDetails">
+<summary>
+  Looks up a localized string similar to P_AddEmployeeDiscountSetUp.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddDoctorConsultation">
+<summary>
+  Looks up a localized string similar to P_AddDoctorConsultation.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddDoctorFeeDetails">
+<summary>
+  Looks up a localized string similar to P_AddDoctorFeeDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddEpisodeServiceForPatient">
+<summary>
+  Looks up a localized string similar to P_AddEpisodeService.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddExcludedServiceTypes">
+<summary>
+  Looks up a localized string similar to P_ADDEXCLUDEDSERVICETYPES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddHandlingCharges">
+<summary>
+  Looks up a localized string similar to P_ADDHANDLINGCHARGES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddInterimBillDetails">
+<summary>
+  Looks up a localized string similar to P_SAVEINTERIMBILL.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddIPBedDetails">
+<summary>
+  Looks up a localized string similar to P_AddIPBedDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddIPCashBillDetails">
+<summary>
+  Looks up a localized string similar to p_addipbilldetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddLogicBasedDefinition">
+<summary>
+  Looks up a localized string similar to P_ADDCALCULATIONMETHOD.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddMMStoreMapping">
+<summary>
+  Looks up a localized string similar to P_ADDSTOREMAP.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddPackageMaster">
+<summary>
+  Looks up a localized string similar to p_AddPackageDefination.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddPackagesForAgreement">
+<summary>
+  Looks up a localized string similar to P_AddPackagesForAgreement.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddPackagesForQuote">
+<summary>
+  Looks up a localized string similar to P_AddPackagesForQuote.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddPatientPolicyManagement">
+<summary>
+  Looks up a localized string similar to p_AddPatientPolicyManagement.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddPostDatedTransaction">
+<summary>
+  Looks up a localized string similar to P_AddtransactionPostCheque.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddServiceAgainstReqno">
+<summary>
+  Looks up a localized string similar to P_AddServiceAgainstReqno.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddServiceAliasDetails">
+<summary>
+  Looks up a localized string similar to P_AddServiceAliasDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddServiceItemBLTP">
+<summary>
+  Looks up a localized string similar to p_addbltpserviceitems.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddServiceItemCloneDetails">
+<summary>
+  Looks up a localized string similar to P_CloneServiceitems.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddServiceItemDetails">
+<summary>
+  Looks up a localized string similar to P_AddGlobalServiceItem.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddServiceItemLocalDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateServicemaster.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddServiceRequest">
+<summary>
+  Looks up a localized string similar to P_ServiceRequest.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddTemplateApproval">
+<summary>
+  Looks up a localized string similar to P_Addtemplateapproval.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddTemplateAttachmentApproval">
+<summary>
+  Looks up a localized string similar to P_AddTemplateAttachApproval.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddTemplateProposal">
+<summary>
+  Looks up a localized string similar to P_AddNewTemplateProposal.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddTemplatePublish">
+<summary>
+  Looks up a localized string similar to P_AddTemplatePublish.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddTemplateSubmit">
+<summary>
+  Looks up a localized string similar to P_AddTemplateSubmitDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddTempRequestService">
+<summary>
+  Looks up a localized string similar to P_AddtempRequestService.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddTransactionDetails">
+<summary>
+  Looks up a localized string similar to P_Test1Transaction.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.AddUpgradePackageDetails">
+<summary>
+  Looks up a localized string similar to P_AddUpgradePackageDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.ApprovalRequired">
+<summary>
+  Looks up a localized string similar to P_ApprovalRequired.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.ApprovalStatus">
+<summary>
+  Looks up a localized string similar to P_ApprovalStatus.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.ApprovingProcess">
+<summary>
+  Looks up a localized string similar to P_ApprovingProcess.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.CancelAllUnBilledServices">
+<summary>
+  Looks up a localized string similar to P_CancelAllUnbilledServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.CancelAuthRequests">
+<summary>
+  Looks up a localized string similar to P_CANCELAUTHREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.CancelOPConsultation">
+<summary>
+  Looks up a localized string similar to P_CANCELOPCONSULTATION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.CancelRaisedServices">
+<summary>
+  Looks up a localized string similar to P_UPDATESERVICESTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.CancelTransaction">
+<summary>
+  Looks up a localized string similar to P_AddCancelTransaction.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.CashAcknowledge">
+<summary>
+  Looks up a localized string similar to P_UpdateHandOver.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.CashHandling">
+<summary>
+  Looks up a localized string similar to P_Cashhandover.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.CashTransferFromHeadCashierToCounter">
+<summary>
+  Looks up a localized string similar to p_addtransfercashtocounter.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.CreditNoteApprove">
+<summary>
+  Looks up a localized string similar to p_updatecreditnoterequest.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.CreditNoteIssue">
+<summary>
+  Looks up a localized string similar to P_ADDCREDITNOTEISSUE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.CreditNoteRequest">
+<summary>
+  Looks up a localized string similar to P_AddCreditNoteRequest.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.CrmGetServiceTariffs">
+<summary>
+  Looks up a localized string similar to P_GETTEMPLATESERVICETARIFFCRM.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.DebitNoteIssue">
+<summary>
+  Looks up a localized string similar to P_DebitNoteIssue.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.DeletePackagesForQuote">
+<summary>
+  Looks up a localized string similar to P_DeletePackagesForQuote.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GenerateOPNumber">
+<summary>
+  Looks up a localized string similar to P_GenerateOPNumber.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAccountAttachmentDetailsList">
+<summary>
+  Looks up a localized string similar to p_getallotedcashaccount.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetActiveIPNumbers">
+<summary>
+  Looks up a localized string similar to P_GETACTIVEIPNUMBERS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAdmissionNoteServices">
+<summary>
+  Looks up a localized string similar to P_GetAdmissionNoteServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAdviceDetails">
+<summary>
+  Looks up a localized string similar to p_getpaymentadvice.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAHCBillingPackages">
+<summary>
+  Looks up a localized string similar to p_getbillingpackages.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAHCFilteredServices">
+<summary>
+  Looks up a localized string similar to p_GetFilteredServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAHCPackageDetails">
+<summary>
+  Looks up a localized string similar to P_GetAHCPackageDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAHCPackageIDNames">
+<summary>
+  Looks up a localized string similar to P_GetPackageIDNames.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAHCPackageName">
+<summary>
+  Looks up a localized string similar to P_GetPackageName.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAHCPackages">
+<summary>
+  Looks up a localized string similar to p_getpackages_ahc.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAHCPackageServiceDepartment">
+<summary>
+  Looks up a localized string similar to P_GetAHCPackageServiceDept.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAHCServiceNames">
+<summary>
+  Looks up a localized string similar to p_getservicenames.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAllEpisodeServices">
+<summary>
+  Looks up a localized string similar to P_GetAllEpisodeService.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAllHandOvers">
+<summary>
+  Looks up a localized string similar to P_GetAllHandOver.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAllocationServices">
+<summary>
+  Looks up a localized string similar to P_GetAllocationServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAmbulanceCharge">
+<summary>
+  Looks up a localized string similar to P_GETAMBCHARGE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetApplicableTariff">
+<summary>
+  Looks up a localized string similar to P_GetApplicableTariff.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAuthorityEmpFromDiscountSetup">
+<summary>
+  Looks up a localized string similar to P_GetAuthorityEmployees.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetAuthrequested">
+<summary>
+  Looks up a localized string similar to P_GetAuthrequested.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBaseAndProposalDetails">
+<summary>
+  Looks up a localized string similar to P_GetBaseAndProposalDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBaseAndPublishDetails">
+<summary>
+  Looks up a localized string similar to P_GetTariffPublishedDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBaselineDetails">
+<summary>
+  Looks up a localized string similar to P_GetBaselineDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBaselineProposals">
+<summary>
+  Looks up a localized string similar to P_GetBaselineProposals.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBaselineTariffDetails">
+<summary>
+  Looks up a localized string similar to P_GetBaselineTariffDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBedCategoryServiceName">
+<summary>
+  Looks up a localized string similar to P_GetBedCategoryServiceName.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBillDetails">
+<summary>
+  Looks up a localized string similar to p_GetBillDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBillDetailsForDashboard">
+<summary>
+  Looks up a localized string similar to  P_GetBillDetailsforDashBoard.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBillDetailsForNoteRequest">
+<summary>
+  Looks up a localized string similar to P_GetBillDetailsForNoteRequest.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBillingConstantDetails">
+<summary>
+  Looks up a localized string similar to P_GETBILLINGCONSTANTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBillingTypeForAHCDashboard">
+<summary>
+  Looks up a localized string similar to P_GETAHCPATIENTBILLINGTYPE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBillingTypeForOPDashBoard">
+<summary>
+  Looks up a localized string similar to  P_GetBillingtypeForOPDashboard.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBillRealizationDetails">
+<summary>
+  Looks up a localized string similar to P_GetBillRealizationDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetBufferDetails">
+<summary>
+  Looks up a localized string similar to P_GETBUFFERDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCancelTransactionDetails">
+<summary>
+  Looks up a localized string similar to P_GetCancelTransactionDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCascadingTemplate">
+<summary>
+  Looks up a localized string similar to P_GetCascadingTemplate.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCashAcknowledgeDetails">
+<summary>
+  Looks up a localized string similar to p_getcashackdetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCashInHandDetailsList">
+<summary>
+  Looks up a localized string similar to p_getcashinhand.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCashInHandTranDetails">
+<summary>
+  Looks up a localized string similar to p_getcashinhandtran.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCashTariffForServices">
+<summary>
+  Looks up a localized string similar to P_GetCashTariffForServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCategoryServices">
+<summary>
+  Looks up a localized string similar to P_GetCategoryServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCategoryServiceTariffs">
+<summary>
+  Looks up a localized string similar to P_GetCategoryServiceTariffs.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetClaimsToBePrepared">
+<summary>
+  Looks up a localized string similar to P_GetClaimsToBePrepared.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetClaimToBePreparedDetails">
+<summary>
+  Looks up a localized string similar to P_GetClaimToBePreparedDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetConfigurableMaster">
+<summary>
+  Looks up a localized string similar to P_GETCONFIGURABLEMASTER.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetConvertToGeneralCreditDetails">
+<summary>
+  Looks up a localized string similar to P_GetConvertToGeneralCredit.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCounterDetails">
+<summary>
+  Looks up a localized string similar to P_GetCounterDetail.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCounterShiftForUser">
+<summary>
+  Looks up a localized string similar to p_getempcountershift.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCounterTranDetails">
+<summary>
+  Looks up a localized string similar to p_getcountertran.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCreditBillDetails">
+<summary>
+  Looks up a localized string similar to P_GETCREDITBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCreditBillList">
+<summary>
+  Looks up a localized string similar to P_GETCREDITBILLLIST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCreditBillServiceItems">
+<summary>
+  Looks up a localized string similar to P_CREDITBILLSERVICEITEMDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCreditNoteApprovalDetails">
+<summary>
+  Looks up a localized string similar to P_GetCreditNoteApprovalDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCreditNoteDashBoardDetails">
+<summary>
+  Looks up a localized string similar to p_GetCreditNoteDashDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCreditNoteDetails">
+<summary>
+  Looks up a localized string similar to P_GETCREDITNOTEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCreditNoteLimitDetails">
+<summary>
+  Looks up a localized string similar to P_GetCreditNoteLimitDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GETCRMPostedTariffs">
+<summary>
+  Looks up a localized string similar to P_GETCRMPostedTariffs.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCurrencyConversionRate">
+<summary>
+  Looks up a localized string similar to P_GETCURRENCYCONVERSIONRATE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCurrencyDetails">
+<summary>
+  Looks up a localized string similar to P_GETCURRENCYDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCurrencyName">
+<summary>
+  Looks up a localized string similar to P_GETCURRENCYNAME.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCustomerAnnualDetails">
+<summary>
+  Looks up a localized string similar to P_GetCustomerAnnualDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetCustomerCategoryTypeName">
+<summary>
+  Looks up a localized string similar to p_getcreditcustomers.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDataCenterServices">
+<summary>
+  Looks up a localized string similar to P_GetDataCenterServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDayWiseAmounts">
+<summary>
+  Looks up a localized string similar to P_GetDayWiseAmount.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDefUnDefServiceBLTP">
+<summary>
+  Looks up a localized string similar to p_getdefundefbltp.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDepartmentList">
+<summary>
+  Looks up a localized string similar to P_GetDepartmentList.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDepositPaymentDetails">
+<summary>
+  Looks up a localized string similar to P_GETDEPOSITEPAYMENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDepositWaiver">
+<summary>
+  Looks up a localized string similar to P_GetDepositWaiverDetail.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDepositWavierDashboardDetails">
+<summary>
+  Looks up a localized string similar to P_DiscountRelaxationWaiver.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDeptDiscountEligibleEmployees">
+<summary>
+  Looks up a localized string similar to p_getdepteligibleemployees.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDeptDiscountLimitDetails">
+<summary>
+  Looks up a localized string similar to P_GetDeptDiscountDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDeptServices">
+<summary>
+  Looks up a localized string similar to P_GetDeptServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDeptServiceTariffs">
+<summary>
+  Looks up a localized string similar to P_GetDeptServiceTariffs.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDerivableServies">
+<summary>
+  Looks up a localized string similar to P_GetDerivableServies.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDiscountableServiceDetails">
+<summary>
+  Looks up a localized string similar to P_GetDiscountableServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDiscountRaiseRequest">
+<summary>
+  Looks up a localized string similar to P_GetDiscountRaiseRequest.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDiscountRaiseRequests">
+<summary>
+  Looks up a localized string similar to P_GETDISCOUNTRAISEREQUESTS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDiscountRequestDetailByReqId">
+<summary>
+  Looks up a localized string similar to P_GetDiscountRequestDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDiscountRequestDetails">
+<summary>
+  Looks up a localized string similar to P_GetDiscountRequestDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDiscountSetupDetails">
+<summary>
+  Looks up a localized string similar to P_GetDiscountSetupDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDoctorConsultationDetails">
+<summary>
+  Looks up a localized string similar to P_GetDoctorConsultationDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDoctorFee">
+<summary>
+  Looks up a localized string similar to P_GETDOCTORFEE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDoctorsCharge">
+<summary>
+  Looks up a localized string similar to P_GetDoctorsCharge.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetDoctorSpecialization">
+<summary>
+  Looks up a localized string similar to P_GetDoctorSpecialization.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetEmergencyServices">
+<summary>
+  Looks up a localized string similar to P_GETEMERGENCYSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetEmployeePendingTransactions">
+<summary>
+  Looks up a localized string similar to p_getemployeetransaction.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetEmpStatusAndBalances">
+<summary>
+  Looks up a localized string similar to P_GetEmpCounterBalances.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetEmpTranDetails">
+<summary>
+  Looks up a localized string similar to p_emptrandetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetEpisodeServiceItems">
+<summary>
+  Looks up a localized string similar to P_GetEpisodeServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetEstimatedAmount">
+<summary>
+  Looks up a localized string similar to P_GetEstimatedAmount.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetExcludedServices">
+<summary>
+  Looks up a localized string similar to P_GetExcludedServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetExcludedServiceTypes">
+<summary>
+  Looks up a localized string similar to P_GETEXCLUDEDSERVICETYPES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetFeeServiceTypes">
+<summary>
+  Looks up a localized string similar to P_GetFeeServiceType.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetGeneralCreditDashBoardDetails">
+<summary>
+  Looks up a localized string similar to P_GetGeneralCreditDashBoard.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetHandlingCharges">
+<summary>
+  Looks up a localized string similar to P_GetHandlingCharges.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetHandOverAcknowledgeDetails">
+<summary>
+  Looks up a localized string similar to P_GethandOverAckDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetInterimBillDetails">
+<summary>
+  Looks up a localized string similar to P_GetInterimBillDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetInterimBillList">
+<summary>
+  Looks up a localized string similar to p_getinterimbilllist.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetInterimCashServices">
+<summary>
+  Looks up a localized string similar to P_GETINTERIMCASHSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetInterimCreditServices">
+<summary>
+  Looks up a localized string similar to P_GetInterimCreditServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetInterimPatientDetails">
+<summary>
+  Looks up a localized string similar to P_GetinterimPatientDetails1.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPBedCategoryBreakUp">
+<summary>
+  Looks up a localized string similar to P_IPBedcategoryBreakup.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPBillDetails">
+<summary>
+  Looks up a localized string similar to P_GetIPGeneralDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPBillNo">
+<summary>
+  Looks up a localized string similar to p_checkbill.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPCashServices">
+<summary>
+  Looks up a localized string similar to P_GetIPCashServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPCreditServices">
+<summary>
+  Looks up a localized string similar to P_GetIPCreditServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPDepositDetailsForDashBoard">
+<summary>
+  Looks up a localized string similar to P_GetIPDepositForDashBoard.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPEditableServices">
+<summary>
+  Looks up a localized string similar to P_GetIPEditableServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPFinalBillDetails">
+<summary>
+  Looks up a localized string similar to P_GETIPFinalBillDetail.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPPackageDetails">
+<summary>
+  Looks up a localized string similar to P_GETPACKAGEDETAILSFORIP.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPPackageMappedServices">
+<summary>
+  Looks up a localized string similar to P_PackageMapping.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPPreviousBillDetails">
+<summary>
+  Looks up a localized string similar to P_GetPreviousBillDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPProfileDetails">
+<summary>
+  Looks up a localized string similar to P_GetProfileDetailsforip.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPServiceApplicableDates">
+<summary>
+  Looks up a localized string similar to P_GetIPServiceApplicableDates.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetIPSurgicalServicesTypes">
+<summary>
+  Looks up a localized string similar to p_GetIPSurgicalServicesTypes.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetLabServiceDetails">
+<summary>
+  Looks up a localized string similar to p_getlabdepartmentservice.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetLocationCounterDetail">
+<summary>
+  Looks up a localized string similar to p_getlocationcounterdetail.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetLocationDetails">
+<summary>
+  Looks up a localized string similar to P_GetLocationFromEmployeeId.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetLocationRegions">
+<summary>
+  Looks up a localized string similar to P_GetLocationRegions.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetLocationTemplates">
+<summary>
+  Looks up a localized string similar to P_GetLocationTemplates.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetLogicBasedServiceDetails">
+<summary>
+  Looks up a localized string similar to P_GetLogicBasedServiceDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetLogicBasedServiceItems">
+<summary>
+  Looks up a localized string similar to P_GETLOGICBASEDSERVICEITEM.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetLOVDetail">
+<summary>
+  Looks up a localized string similar to P_GetLOVDetail.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetLOVDetail1">
+<summary>
+  Looks up a localized string similar to P_GetLOVDetail.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetMappedPackage">
+<summary>
+  Looks up a localized string similar to P_GETMAPPEDPACKAGE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetMasterPackageDetails">
+<summary>
+  Looks up a localized string similar to P_GetMasterPackageDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetMasterPackageDetailsForQuote">
+<summary>
+  Looks up a localized string similar to P_GETMASTERPACKAGEDETAILSQUOTE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetMinDepForIPPackage">
+<summary>
+  Looks up a localized string similar to P_GetMinDepForIPPackage.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetMMStoreMap">
+<summary>
+  Looks up a localized string similar to P_GETSTOREMAP.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetMultipleServiceItemDetail">
+<summary>
+  Looks up a localized string similar to P_GetMultipleServiceDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetOpDetails">
+<summary>
+  Looks up a localized string similar to P_GetOpDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetOPPatientDetails">
+<summary>
+  Looks up a localized string similar to P_GetOPPatientDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetOpPatientList">
+<summary>
+  Looks up a localized string similar to p_GetOPList.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetOPRaisedDietDetails">
+<summary>
+  Looks up a localized string similar to P_GetOPRaisedDietDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetOPServiceTypeORDepartment">
+<summary>
+  Looks up a localized string similar to P_GetOPServiceTypeORDepartment.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetOraAppsIntData">
+<summary>
+  Looks up a localized string similar to p_getoraappsintdata.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetOracleFinancePostingInformation">
+<summary>
+  Looks up a localized string similar to P_GetPostingInformation.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetOraFinPostedData">
+<summary>
+  Looks up a localized string similar to P_GetOraFinPostedData.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetOraFinPostingResponse">
+<summary>
+  Looks up a localized string similar to P_GetGLOraFinResponse.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetOtherServiceTypeID">
+<summary>
+  Looks up a localized string similar to p_getotherservicetypes.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetpackageCodename">
+<summary>
+  Looks up a localized string similar to P_GetpackageCodename.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPackageDetails">
+<summary>
+  Looks up a localized string similar to P_GetPackageDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPackageList">
+<summary>
+  Looks up a localized string similar to P_GetPackageList.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPackageRelatedServices">
+<summary>
+  Looks up a localized string similar to p_GetBillingServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPatientAccoountBalance">
+<summary>
+  Looks up a localized string similar to P_GetPatientAccountBalance.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPatientAccountDetails">
+<summary>
+  Looks up a localized string similar to P_GetPatientAccountDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPatientAHCBillDetails">
+<summary>
+  Looks up a localized string similar to P_GetPatientAHCBillDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPatientBillDetails">
+<summary>
+  Looks up a localized string similar to p_getpatientbilldetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPatientDetailsFromAT">
+<summary>
+  Looks up a localized string similar to p_ipbillbeddetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPatientDiscountDetails">
+<summary>
+  Looks up a localized string similar to P_GetPatientDiscountDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPatientEpisodeDetails">
+<summary>
+  Looks up a localized string similar to P_GetPatientEpisodeDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPatinetPolicyDetails">
+<summary>
+  Looks up a localized string similar to p_GetPatientPolicyDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPayerAndServiceItemDetails">
+<summary>
+  Looks up a localized string similar to P_GetPayerAndServiceItemDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPayerWiseDistributionDetails">
+<summary>
+  Looks up a localized string similar to P_PayerWiseDistribution.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPaymentModes">
+<summary>
+  Looks up a localized string similar to P_GetPaymnetModes.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPendingApprovals">
+<summary>
+  Looks up a localized string similar to P_GetPendingApprovals.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPreviousBillDetails">
+<summary>
+  Looks up a localized string similar to P_GetPreviousBillDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPreviousEstimateDetail">
+<summary>
+  Looks up a localized string similar to p_getpreviousestimatedetail.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetPreviousEstimateList">
+<summary>
+  Looks up a localized string similar to p_getpreviousestimatelist.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetProposalServiceTypes">
+<summary>
+  Looks up a localized string similar to P_GetProposalServiceTypes.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetRadiologyDeptService">
+<summary>
+  Looks up a localized string similar to P_GETRadiologyDEPTSERVICE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetRaisedServiceDetails">
+<summary>
+  Looks up a localized string similar to P_GetRaisedServiceDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetRaisedServices">
+<summary>
+  Looks up a localized string similar to P_GetRaisedServicesForPatient.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetReceiptDetails">
+<summary>
+  Looks up a localized string similar to P_GETAMBULANCERECEIPT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetRecentService">
+<summary>
+  Looks up a localized string similar to P_GetRecentServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetReferenceDetails">
+<summary>
+  Looks up a localized string similar to P_GetReferenceDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetReferenceTemplate">
+<summary>
+  Looks up a localized string similar to P_GetTemplateReference.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetRoomRentDetails">
+<summary>
+  Looks up a localized string similar to P_GETROOMRENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetSearchPackage">
+<summary>
+  Looks up a localized string similar to P_SearchPackage.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetSearchPackageQuote">
+<summary>
+  Looks up a localized string similar to P_SEARCHPACKAGEQUOTES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetSearchPackageWards">
+<summary>
+  Looks up a localized string similar to p_getsearchpackagewards.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceAliasNames">
+<summary>
+  Looks up a localized string similar to P_GetServiceAliasNames.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceDetails">
+<summary>
+  Looks up a localized string similar to P_GetServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceEquipNFacility">
+<summary>
+  Looks up a localized string similar to P_GetServiceEquipNFacility.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceItemDetail">
+<summary>
+  Looks up a localized string similar to P_GetServiceItemDetail.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceItemForType">
+<summary>
+  Looks up a localized string similar to P_GetServiceItemForType.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceItems">
+<summary>
+  Looks up a localized string similar to P_GetServiceItems.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceItemTariffs">
+<summary>
+  Looks up a localized string similar to P_GetServiceItemTariffs.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceName">
+<summary>
+  Looks up a localized string similar to P_GETAMBSERVICE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServicenames">
+<summary>
+  Looks up a localized string similar to p_getservicenames.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceNamesFromBilling">
+<summary>
+  Looks up a localized string similar to P_GETLABSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceNamesFromBillingOnDept">
+<summary>
+  Looks up a localized string similar to P_GETLABSERVICESONDEPT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceRelations">
+<summary>
+  Looks up a localized string similar to P_GetServiceRelations.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceRequestDetails">
+<summary>
+  Looks up a localized string similar to P_GetServiceRequestDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceRequests">
+<summary>
+  Looks up a localized string similar to P_GetServiceRequest.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceResourceDetails">
+<summary>
+  Looks up a localized string similar to P_GETSERVICERESOURCES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServicesForDept">
+<summary>
+  Looks up a localized string similar to P_GetServicesForDept.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServicesForNonHuman">
+<summary>
+  Looks up a localized string similar to P_GetServicesForNonHuman.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServicesForOP">
+<summary>
+  Looks up a localized string similar to P_GETSERVICES_OPSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServicesList">
+<summary>
+  Looks up a localized string similar to P_GetServiceItem.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceTariffs">
+<summary>
+  Looks up a localized string similar to P_GetServiceTariffs.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceTemplateTariffs">
+<summary>
+  Looks up a localized string similar to P_GetServiceTemplateTariffs.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceTypeForItem">
+<summary>
+  Looks up a localized string similar to P_GetServiceTypeForItem.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetServiceTypeList">
+<summary>
+  Looks up a localized string similar to P_GetServiceTypeMaster.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetShiftAllotedDetails">
+<summary>
+  Looks up a localized string similar to P_GetShiftAllotedDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetSubDeptServices">
+<summary>
+  Looks up a localized string similar to P_GetSubDeptServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetSubDeptServiceTariffs">
+<summary>
+  Looks up a localized string similar to P_GetSubDeptServiceTariffs.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetSurgeryChargesForPackages">
+<summary>
+  Looks up a localized string similar to P_GetSurgeryChargesForPackages.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetSurgeryList">
+<summary>
+  Looks up a localized string similar to p_getsurgerylist.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTariffApplicability">
+<summary>
+  Looks up a localized string similar to p_GetTariffApplicability.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTariffDetails">
+<summary>
+  Looks up a localized string similar to P_
+P_GetTariffDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTariffList">
+<summary>
+  Looks up a localized string similar to P_GetTariffList.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTariffOnLoadDetails">
+<summary>
+  Looks up a localized string similar to P_GetBTDOnload.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTariffProposals">
+<summary>
+  Looks up a localized string similar to P_GetTariffProposals.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTariffToBePublished">
+<summary>
+  Looks up a localized string similar to p_gettarifftobepublished .
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTemplateAttachmentProposalDetails">
+<summary>
+  Looks up a localized string similar to P_GetAttachTemplateDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTemplateProposalDetails">
+<summary>
+  Looks up a localized string similar to P_GetTemplateProposalDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTemplateReferenceFlag">
+<summary>
+  Looks up a localized string similar to p_gettemplaterefrencedetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTemplates">
+<summary>
+  Looks up a localized string similar to P_GetTemplates.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTempRequestService">
+<summary>
+  Looks up a localized string similar to P_GetTempRequestServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTestServiceItemList">
+<summary>
+  Looks up a localized string similar to P_TESTSERVICE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTherapeuticServiceTypes">
+<summary>
+  Looks up a localized string similar to P_GetTherapeuticServiceTypes.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTodaysPostDatedDetails">
+<summary>
+  Looks up a localized string similar to P_GetTodaysPostDatedDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTranAmountForEndShift">
+<summary>
+  Looks up a localized string similar to P_Gettranamountforendshift.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTranPartDetails">
+<summary>
+  Looks up a localized string similar to P_GetTranpartDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTransactionDetails">
+<summary>
+  Looks up a localized string similar to P_GetTransactionDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTypeServices">
+<summary>
+  Looks up a localized string similar to P_GetTypeServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetTypeServiceTariffs">
+<summary>
+  Looks up a localized string similar to P_GetTypeServiceTariffs.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetUhidBufferDetails">
+<summary>
+  Looks up a localized string similar to P_GetUhidBufferDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetUHIDNumber">
+<summary>
+  Looks up a localized string similar to P_GETUHID.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetUnBilledServices">
+<summary>
+  Looks up a localized string similar to P_GetUnBilledServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetUnsettledBillDetails">
+<summary>
+  Looks up a localized string similar to P_GetUnsettledBillDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetUnsettledBills">
+<summary>
+  Looks up a localized string similar to P_GetUnsettledBills.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetWorkingDate">
+<summary>
+  Looks up a localized string similar to P_GetWorkingDate.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GetWorkingDateEmployees">
+<summary>
+  Looks up a localized string similar to P_GetCurrentEmployeesStatus.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.GLPostingFromBilling">
+<summary>
+  Looks up a localized string similar to P_GLPostingFromBilling.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.InitiateApprovalProcess">
+<summary>
+  Looks up a localized string similar to P_InitiateApprovalProcess.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.ProcessAddNewPackage">
+<summary>
+  Looks up a localized string similar to 1.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.ProcessGeneralCreditApproval">
+<summary>
+  Looks up a localized string similar to 2.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.procGetSchedularDetails">
+<summary>
+  Looks up a localized string similar to P_GetSchedulerDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.procQueryTransactionSearch">
+<summary>
+  Looks up a localized string similar to P_TransactionSearch.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.RefreshBilling">
+<summary>
+  Looks up a localized string similar to P_RefreshBilling.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.RefreshPackageMaster">
+<summary>
+  Looks up a localized string similar to p_refresh_packagedefinition.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.RefreshTariffMaster">
+<summary>
+  Looks up a localized string similar to p_refresh_tariffmaster.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.ResetApplicableDates">
+<summary>
+  Looks up a localized string similar to P_ResetApplicableDates.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.TransferCashInHandToOracleFinance">
+<summary>
+  Looks up a localized string similar to P_TransferCashInHandToOracleFinance.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateAdviceDetails">
+<summary>
+  Looks up a localized string similar to p_updatepaymentadvice.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateAmbulanceDetails">
+<summary>
+  Looks up a localized string similar to P_ADDAMBULANCEBILL.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateApplicableTariff">
+<summary>
+  Looks up a localized string similar to P_UpdateAppliedTariff.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateAuthResponse">
+<summary>
+  Looks up a localized string similar to P_AddPayerAuthorization.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateBillingStatus">
+<summary>
+  Looks up a localized string similar to P_UpdateBillingStatus.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateBloodBankServicesIp">
+<summary>
+  Looks up a localized string similar to p_UpdateBloodBankServicesIp.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateBufferDetails">
+<summary>
+  Looks up a localized string similar to P_UPDATEBUFFERDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateConvertToGeneralCredit">
+<summary>
+  Looks up a localized string similar to P_UPDATECONVERTTOGENERALCREDIT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateCurrencyConversionRate">
+<summary>
+  Looks up a localized string similar to p_UpdateCurrencyConversionRate.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateDepartmentDiscountLimit">
+<summary>
+  Looks up a localized string similar to P_UpdateDeptDiscountDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateDepositWaiver">
+<summary>
+  Looks up a localized string similar to P_UpdateDepositRequestStatus.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateDiscountRequestStatus">
+<summary>
+  Looks up a localized string similar to P_UpdateDiscountRequestStatus.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateDiscountSetupDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateDiscountSetupDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateDoctorFee">
+<summary>
+  Looks up a localized string similar to p_updatedoctorfee.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpDateEditableServices">
+<summary>
+  Looks up a localized string similar to P_UpdateEditableServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateEpisodeBilling">
+<summary>
+  Looks up a localized string similar to P_UpdateEpisodeDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateIPServiceApplicableDates">
+<summary>
+  Looks up a localized string similar to P_UpdateIPServiceAppDates.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateLabServiceStatus">
+<summary>
+  Looks up a localized string similar to P_UpdateLabServiceStatus.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateOpdetails">
+<summary>
+  Looks up a localized string similar to P_UpdateOpdetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdatePackage">
+<summary>
+  Looks up a localized string similar to P_UpdatePackage.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdatePackageForQuote">
+<summary>
+  Looks up a localized string similar to P_UpdatePackageForQuote.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdatePackageUpgradation">
+<summary>
+  Looks up a localized string similar to P_UpdatePackageUpgradation.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdatePatientBillClaimStatus">
+<summary>
+  Looks up a localized string similar to P_UpdatePatientBillClaimStatus.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateRaisedServiceStatus">
+<summary>
+  Looks up a localized string similar to P_UpdateServiceRequest.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateTemplateReferenceFlag">
+<summary>
+  Looks up a localized string similar to p_updatetemplatereferencefalg.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateTempServiceRequest">
+<summary>
+  Looks up a localized string similar to P_UpdateTempServicerequest.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateTransactionToClose">
+<summary>
+  Looks up a localized string similar to P_UpdatetransactionClose.
+</summary>
+</member>
+<member name="P:eHIS.Billing.DataAccess.My.Resources.DataAccessResources.UpdateWorkingDateTranOpen">
+<summary>
+  Looks up a localized string similar to P_UpdateWorkingDateTranOpen.
+</summary>
+</member>
+<member name="M:eHIS.Billing.DataAccess.DataServiceProvider.AddBillRealizationDetails(System.String,System.String,System.Int32@)">
+ <summary>
+ To add Cheque Details of the Payer
+ </summary>
+ <param name="BillRealizationDetailsXml"></param>
+ <param name="LoginID"></param>
+ <param name="BillRealizationID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Billing.DataAccess.DataServiceProvider.AddBillReconciliationDetails(System.String,System.String,System.Int32@)">
+ <summary>
+ To add Bill Reconciliation Details
+ </summary>
+ <param name="BillRealizationDetailsXml"></param>
+ <param name="LoginID"></param>
+ <param name="BillRealizationID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Billing.DataAccess.DataServiceProvider.AddAmbulanceDetails(System.String,System.String,System.String@)">
+ <summary>
+ To Add Ambulance Details 
+ </summary>
+ <param name="AmbulanceDetailsXml"></param>
+ <param name="TransactionId"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Billing.DataAccess.DataServiceProvider.UpdateAmbulanceDetails(System.String,System.String@,System.String@)">
+ <summary>
+ To Update Ambulance Details
+ </summary>
+ <param name="AmbulanceDetailsXml"></param>
+ <param name="BillNo"></param>
+ <param name="TransactionId"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

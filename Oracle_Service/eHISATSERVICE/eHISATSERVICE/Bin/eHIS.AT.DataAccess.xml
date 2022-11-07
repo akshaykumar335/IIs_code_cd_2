@@ -1,0 +1,340 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.AT.DataAccess
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.AT.DataAccess.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.AddBedBooking">
+<summary>
+  Looks up a localized string similar to P_ADDBOOKINGDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.AddBedTransfer">
+<summary>
+  Looks up a localized string similar to P_ADDBEDTRANSFER.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.AddBedTransferProcessID">
+<summary>
+  Looks up a localized string similar to 1.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.AddCategoryTransfer">
+<summary>
+  Looks up a localized string similar to P_ADDBEDTRANSFER.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.AddCategoryTransferProcessID">
+<summary>
+  Looks up a localized string similar to 2.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.AddEmergencyAdmission">
+<summary>
+  Looks up a localized string similar to P_ADDADMISSIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.AddIPAdmission">
+<summary>
+  Looks up a localized string similar to P_ADDADMISSIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.AddWaitingList">
+<summary>
+  Looks up a localized string similar to P_ADDWAITINGDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.AdmitReasonLOVCode">
+<summary>
+  Looks up a localized string similar to ATHL7AdmitReason.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.ApprovalRequired">
+<summary>
+  Looks up a localized string similar to ADT.ApprovalRequired.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.CancelBedBooking">
+<summary>
+  Looks up a localized string similar to P_CANCELBEDBOOKING.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.CancelBedTransfer">
+<summary>
+  Looks up a localized string similar to P_CANCELTRANSFER.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.CancelCategoryTransfer">
+<summary>
+  Looks up a localized string similar to P_CANCELTRANSFER.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.CancelEmergencyAdmission">
+<summary>
+  Looks up a localized string similar to P_CANCELADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.CancelIPAdmission">
+<summary>
+  Looks up a localized string similar to P_CANCELADMISSION.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.ConvertWaitingListToBooking">
+<summary>
+  Looks up a localized string similar to P_CONVERTWAITINGLISTTOBOOKING.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GenerateBookNo">
+<summary>
+  Looks up a localized string similar to P_GENERATEBOOKNO .
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GenerateInPatientNo">
+<summary>
+  Looks up a localized string similar to P_GENERATEINPATIENTNO.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GenerateWaitingListNo">
+<summary>
+  Looks up a localized string similar to P_GENERATEWAITINGLISTNO.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetActiveIPNumbers">
+<summary>
+  Looks up a localized string similar to P_GETACTIVEINPATIENTNOS.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetBedAvailability">
+<summary>
+  Looks up a localized string similar to P_CHECKBEDAVAILABILITY.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetBedBookingCount">
+<summary>
+  Looks up a localized string similar to P_GETBOOKINGCOUNT.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetBedBookingDetails">
+<summary>
+  Looks up a localized string similar to P_GETBOOKINGDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetBedBookingTrackingDetails">
+<summary>
+  Looks up a localized string similar to P_GETWAITINGANDBOOKINGLIST.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetBedCategoryCount">
+<summary>
+  Looks up a localized string similar to P_GETBEDCATEGORYCOUNT.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetBedCategoryMaster">
+<summary>
+  Looks up a localized string similar to P_GETBEDCATEGORYMASTER.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetBedLevelsByBed">
+<summary>
+  Looks up a localized string similar to P_GETBEDLEVELSBYBED.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetBedMatrix">
+<summary>
+  Looks up a localized string similar to P_GETBEDMATRIX .
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetBedMatrixByLevel">
+<summary>
+  Looks up a localized string similar to P_GETBEDMATRIXBYLEVEL.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetBedStatusCount">
+<summary>
+  Looks up a localized string similar to P_GETBEDSTATUSCOUNT.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetBookID">
+<summary>
+  Looks up a localized string similar to P_GETBOOKID.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetCategories">
+<summary>
+  Looks up a localized string similar to P_GETBEDCATEGORYMASTER.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetConfigurableMaster">
+<summary>
+  Looks up a localized string similar to EHIS.GetConfigurationValue.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetErrorCodes">
+<summary>
+  Looks up a localized string similar to EHIS.GetErrorCodes.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetHierarchyParent">
+<summary>
+  Looks up a localized string similar to P_SHOWHIERARCHYPARENT.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetInPatientID">
+<summary>
+  Looks up a localized string similar to P_GETINPATIENTID.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetIPAdminsssionRequest">
+<summary>
+  Looks up a localized string similar to GetIPAdminsssionRequest.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetIPAdmissionDetails">
+<summary>
+  Looks up a localized string similar to P_GETADMISSIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetIPNumbers">
+<summary>
+  Looks up a localized string similar to ADT.GetIPNumbers.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetLevels">
+<summary>
+  Looks up a localized string similar to P_GETLEVELS.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetLocationID">
+<summary>
+  Looks up a localized string similar to P_GETLOCATIONID.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetLocations">
+<summary>
+  Looks up a localized string similar to P_GetLocations.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetLOVDetail">
+<summary>
+  Looks up a localized string similar to EHIS.GetLOVDetail.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetMaxAllowedBedBookings">
+<summary>
+  Looks up a localized string similar to ADT.GetMaxAllowedBedBookings.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetOppositeGender">
+<summary>
+  Looks up a localized string similar to P_GETOPPOSITEGENDER.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetPatientOccupiedBeds">
+<summary>
+  Looks up a localized string similar to P_GetPatientOccupiedBeds.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetSearchPatientDetails">
+<summary>
+  Looks up a localized string similar to P_SEARCHPATIENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetStatus">
+<summary>
+  Looks up a localized string similar to P_GETBEDSTATUSMASTER.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetTransferDetails">
+<summary>
+  Looks up a localized string similar to ADT.GetTransferDetails.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.GetUHIDNumber">
+<summary>
+  Looks up a localized string similar to P_GETUHID.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.SearchBedBookingNumber">
+<summary>
+  Looks up a localized string similar to P_SEARCHBEDBOOKINGNUMBER.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.SearchStatusOfBed">
+<summary>
+  Looks up a localized string similar to P_SEARCHSTATUSOFBED.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.StoreRequest">
+<summary>
+  Looks up a localized string similar to P_STOREREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.UpdateBedBooking">
+<summary>
+  Looks up a localized string similar to P_UPDATEBOOKINGDETAILS .
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.UpdateEmergencyAdmission">
+<summary>
+  Looks up a localized string similar to ADT.UpdateAdmissionDetails.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.UpdateIPAdmission">
+<summary>
+  Looks up a localized string similar to ADT.UpdateAdmissionDetails.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.UpdateStatusOfBed">
+<summary>
+  Looks up a localized string similar to P_UPDATESTATUSOFBED.
+</summary>
+</member>
+<member name="P:eHIS.AT.DataAccess.My.Resources.OraDataAccessResources.UpdateWaitingListBooking">
+<summary>
+  Looks up a localized string similar to P_UpdateWaitingList.
+</summary>
+</member>
+<member name="M:eHIS.AT.DataAccess.OraDataServiceProvider.ApprovalRequired(System.Int32)">
+ <summary>
+ this method is for checking approval required
+ </summary>
+ <param name="processID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

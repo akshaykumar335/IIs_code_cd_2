@@ -1,0 +1,347 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Radiology.DataAccess
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.AddFilmWastageDetails">
+<summary>
+  Looks up a localized string similar to PKG_FILMWASTAGE.P_ADDFILMWASTAGE.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.AddMMInventoryDetails">
+<summary>
+  Looks up a localized string similar to PKG_RADMDLMMINVENTORY.P_ADDMMINVENTORYDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.AddQuickList">
+<summary>
+  Looks up a localized string similar to PKG_RADUSERQUICKLIST.P_ADDQUICKLIST.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.AddRadiationExposure">
+<summary>
+  Looks up a localized string similar to PKG_RADIATIONEXPOSURE.P_ADDRADIATIONEXPORSURE.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.DeletePrerequisites">
+<summary>
+  Looks up a localized string similar to PKG_PREREQPREPCONS.P_DELETE_REQUEST_PREREQUISITES.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.FilmWastage">
+<summary>
+  Looks up a localized string similar to PKG_FILMWASTAGE.P_ADDFILMWASTAGE.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetAdmissionRadiologyRequest">
+<summary>
+  Looks up a localized string similar to PKG_RADREQUEST_ADMSSNNO.P_GETRADREQUESTDTLS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetAuthorizedWorklist">
+<summary>
+  Looks up a localized string similar to PKG_REPORTINGWORKLIST.P_GETAUTHORIZEDWORKLIST.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetCheckinStatusforEquipment">
+<summary>
+  Looks up a localized string similar to PKG_WORKLIST.P_GetCheckinStatusforEquipment.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetConsumables">
+<summary>
+  Looks up a localized string similar to PKG_PREREQPREPCONS.P_GETCONSUMABLES.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GETDEPARTMENTMODALITIES">
+<summary>
+  Looks up a localized string similar to PKG_RADDEPTMDLMASTER.P_GETDEPARTMENTMODALITIES.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetDispatchWorklist">
+<summary>
+  Looks up a localized string similar to PKG_DISPATCHREPORTS.P_GETWORKLIST.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetEquipments">
+<summary>
+  Looks up a localized string similar to P_GETEQUIPMENTSFROMEQPTYPEID.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetFilmWastageTag">
+<summary>
+  Looks up a localized string similar to PKG_FILMWASTAGE.P_GETFILMWASTAGE.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GETLOVDETAILS">
+<summary>
+  Looks up a localized string similar to PKG_LOVDETAILS.P_GETLOVDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetModalities">
+<summary>
+  Looks up a localized string similar to PKG_RADLOGINMDLMASTER.P_GETLOGINMODALITIES.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetPatientRadiologyServiceStatus">
+<summary>
+  Looks up a localized string similar to PKG_RADIOLOGYREQUEST.P_GETPATIENTRADSERVICESTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetPreparationChecklist">
+<summary>
+  Looks up a localized string similar to PKG_PREREQPREPCONS.P_GETPREPARATIONCHECKLIST.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetPreRequisietes">
+<summary>
+  Looks up a localized string similar to PKG_PREREQPREPCONS.P_GETPREREQUISITES.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetQuickList">
+<summary>
+  Looks up a localized string similar to PKG_RADUSERQUICKLIST.P_GETQUICKLIST.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetQuickListServices">
+<summary>
+  Looks up a localized string similar to PKG_RADUSERQUICKLIST.P_GETQUICKLISTSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetRadiationExposure">
+<summary>
+  Looks up a localized string similar to PKG_RADIATIONEXPOSURE.P_GETRADIATIONEXPOSURE.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetRadiologyRequest">
+<summary>
+  Looks up a localized string similar to pkg_radiologyrequest.p_getradrequestdtls.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetRadiologyRequests">
+<summary>
+  Looks up a localized string similar to PKG_RADIOLOGYREQUEST.P_GETRADIOLOGYREQUESTS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetRadiologyServices">
+<summary>
+  Looks up a localized string similar to PKG_RADSERVICEMASTER.P_GETRADSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetRADREQUESTID">
+<summary>
+  Looks up a localized string similar to PKG_RADIOLOGYREQUEST.P_GETREQUESTID.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetRADServiceID">
+<summary>
+  Looks up a localized string similar to PKG_RADSERVICEMASTER.P_GETRADSERVICEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetReportingWorklist">
+<summary>
+  Looks up a localized string similar to PKG_REPORTINGWORKLIST.P_GETREPORTINGWORKLIST.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetReportTable">
+<summary>
+  Looks up a localized string similar to PKG_RADRESULTS.P_GETREPORTTABLE.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetReqPreRequisiteData">
+<summary>
+  Looks up a localized string similar to PKG_PREREQPREPCONS.P_GET_REQUEST_PREREQUISITES.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetRequestStatus">
+<summary>
+  Looks up a localized string similar to PKG_WORKLIST.P_GetRequestStatus.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetResultReport">
+<summary>
+  Looks up a localized string similar to PKG_RADRESULTS.P_GETREPORTPARAMETER.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetResults">
+<summary>
+  Looks up a localized string similar to PKG_RADRESULTS.P_GETRADRESULTS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetResultsForReport">
+<summary>
+  Looks up a localized string similar to PKG_RADPATIENTREPORTS.P_RPT_GET_REPORT_RESULTS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetRptWorklistTag">
+<summary>
+  Looks up a localized string similar to PKG_FILMWASTAGE.P_GETFILMWASTAGE.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetUserPriviledges">
+<summary>
+  Looks up a localized string similar to PKG_RADUSERSCREENPRIVS.P_GETRADUSERSCREENPRIVS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.GetWorklist">
+<summary>
+  Looks up a localized string similar to PKG_WORKLIST.P_GETWORKLIST.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.InsertDrugs">
+<summary>
+  Looks up a localized string similar to PKG_PREREQPREPCONS.P_ADDDRUGS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.InsertFilmWastage">
+<summary>
+  Looks up a localized string similar to PKG_FILMWASTAGE.P_ADDFILMWASTAGE.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.ModifyResultsHDR">
+<summary>
+  Looks up a localized string similar to PKG_RADRESULTS.P_MODIFYRESULTREPORTHDR.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.RaiseAdmissionRequestHeader">
+<summary>
+  Looks up a localized string similar to PKG_RADREQUEST_ADMSSNNO.P_ADDRADREQUESTHDR.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.RaiseMultipleSittings">
+<summary>
+  Looks up a localized string similar to PKG_RADIOLOGYREQUEST.P_ADDMULTIPLESITTINGS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.RaiseRequest">
+<summary>
+  Looks up a localized string similar to PKG_RADIOLOGYREQUEST.P_ADDRADREQUESTDTLS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.RaiseRequestHeader">
+<summary>
+  Looks up a localized string similar to PKG_RADIOLOGYREQUEST.P_ADDRADREQUESTHDR.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.RepeatService">
+<summary>
+  Looks up a localized string similar to PKG_WORKLIST.P_REPEATSERVICE.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.SavePrerequisites">
+<summary>
+  Looks up a localized string similar to PKG_PREREQPREPCONS.P_INSERTPREQUISITES.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.SaveResultsDTLS">
+<summary>
+  Looks up a localized string similar to PKG_RADRESULTS.P_SAVERESULTREPORTDTLS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.SaveResultsHDR">
+<summary>
+  Looks up a localized string similar to PKG_RADRESULTS.P_SAVERESULTREPORTHDR.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.SaveResultsTable">
+<summary>
+  Looks up a localized string similar to PKG_RADRESULTS.P_SAVERESULTREPORTTABLE.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.SaveWetInWetOut">
+<summary>
+  Looks up a localized string similar to PKG_DISPATCHREPORTS.P_SAVE_WETIN_WETOUT.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.UpdateAdmissionNumber">
+<summary>
+  Looks up a localized string similar to PKG_RADREQUEST_ADMSSNNO.P_UPDATERADREQUESTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.UpdateDispatchReport">
+<summary>
+  Looks up a localized string similar to PKG_DISPATCHREPORTS.P_UPDATEDISPATCHSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.UpdateInventoryDetails">
+<summary>
+  Looks up a localized string similar to PKG_RADMDLMMINVENTORY.P_UPDATEINVENTORYDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.UpdateRequest">
+<summary>
+  Looks up a localized string similar to PKG_RADIOLOGYREQUEST.P_MODIFYREQUESTDTLS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.UpdateRequestDtlForBillStatus">
+<summary>
+  Looks up a localized string similar to PKG_RADIOLOGYREQUEST.P_MODIFYRQSTDTLSFORBILSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.UpdateResults">
+<summary>
+  Looks up a localized string similar to PKG_RADRESULTS.P_UPDATERESULTS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.UpdateResultsDTLS">
+<summary>
+  Looks up a localized string similar to PKG_RADRESULTS.P_UPDATERADRESULTDTLSREPORT.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.UpdateResultsHDR">
+<summary>
+  Looks up a localized string similar to PKG_RADRESULTS.P_UPDATERADRESULTREPORT.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.UpdateResultsTable">
+<summary>
+  Looks up a localized string similar to PKG_RADRESULTS.P_UPDATERESULTREPORTTABLE.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.UpdateWorklist">
+<summary>
+  Looks up a localized string similar to PKG_WORKLIST.P_UPDATEWORKLISTSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.DataAccessResources.UploadConsent">
+<summary>
+  Looks up a localized string similar to PKG_WORKLIST.P_UPLOADCONSENT.
+</summary>
+</member>
+<member name="T:eHIS.Radiology.DataAccess.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Radiology.DataAccess.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

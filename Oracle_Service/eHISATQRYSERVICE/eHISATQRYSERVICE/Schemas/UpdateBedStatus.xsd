@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AdmissionRequest" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="AdmissionRequest" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Admission">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PolicyNo" type="xs:string" minOccurs="0" msdata:Ordinal="0" />
+              <xs:element name="Allergies" type="xs:string" minOccurs="0" msdata:Ordinal="1" />
+              <xs:element name="Habits" type="xs:string" minOccurs="0" msdata:Ordinal="2" />
+              <xs:element name="AdmissionNote" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:attribute name="MLCase" type="xs:string" />
+                  <xs:attribute name="MLCaseNo" type="xs:string" />
+                  <xs:attribute name="ReferralTypeID" type="xs:string" />
+                  <xs:attribute name="CategoryID" type="xs:string" />
+                  <xs:attribute name="ReasonForAdmission" type="xs:string" />
+                  <xs:attribute name="FilePath" type="xs:string" />
+                  <xs:attribute name="FileName" type="xs:string" />
+                  <xs:attribute name="FileType" type="xs:string" />
+                  <xs:attribute name="ProvisionalDiagnosis" type="xs:string" />
+                  <xs:attribute name="DateofAdmission" type="xs:string" />
+                  <xs:attribute name="AdmittingDoctorName" type="xs:string" />
+                  <xs:attribute name="ReferringDoctorName" type="xs:string" />
+                  <xs:attribute name="AdmittingDepartment" type="xs:string" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="AllottedBedCategoryID" type="xs:string" />
+            <xs:attribute name="controlName" type="xs:string" />
+            <xs:attribute name="Bed_Code" type="xs:string" />
+            <xs:attribute name="Alloted_Ward_Type" type="xs:string" />
+            <xs:attribute name="Alloted_Room_Type" type="xs:string" />
+            <xs:attribute name="Alloted_Bed_Type" type="xs:string" />
+            <xs:attribute name="Booking_Date" type="xs:string" />
+            <xs:attribute name="Referral_Doc_Type" type="xs:string" />
+            <xs:attribute name="Referral_Doc" type="xs:string" />
+            <xs:attribute name="Billable_Tariff" type="xs:string" />
+            <xs:attribute name="HFAdmissionTab" type="xs:string" />
+            <xs:attribute name="CorporateCode" type="xs:string" />
+            <xs:attribute name="EmpNo" type="xs:string" />
+            <xs:attribute name="MLCase" type="xs:string" />
+            <xs:attribute name="PaymentMode" type="xs:string" />
+            <xs:attribute name="Remarks" type="xs:string" />
+            <xs:attribute name="Diabetic" type="xs:string" />
+            <xs:attribute name="EligibleTariffCategoryID" type="xs:string" />
+            <xs:attribute name="RequestedBedCategoryID" type="xs:string" />
+            <xs:attribute name="BillableTariffCategoryID" type="xs:string" />
+            <xs:attribute name="BedStatusID" type="xs:string" />
+            <xs:attribute name="BedBookingNumber" type="xs:string" />
+            <xs:attribute name="ExpectedDurationToStay" type="xs:string" />
+            <xs:attribute name="NeedInterpreter" type="xs:string" />
+            <xs:attribute name="AdmittingDoctor" type="xs:string" />
+            <xs:attribute name="FoodAndBeveragesPreference" type="xs:string" />
+            <xs:attribute name="GeneralPreference" type="xs:string" />
+            <xs:attribute name="HouseKeepingPreference" type="xs:string" />
+            <xs:attribute name="Language" type="xs:string" />
+            <xs:attribute name="Equipment" type="xs:string" />
+            <xs:attribute name="RequestedPerson" type="xs:string" />
+            <xs:attribute name="AddressOfRequester" type="xs:string" />
+            <xs:attribute name="RequesterContactNumber" type="xs:string" />
+            <xs:attribute name="InPatientNo" type="xs:string" />
+            <xs:attribute name="AdmissionNoteAvailable" type="xs:string" />
+            <xs:attribute name="AuthorizationRequired" type="xs:string" />
+            <xs:attribute name="BookID" type="xs:string" />
+            <xs:attribute name="ERN" type="xs:string" />
+            <xs:attribute name="Address" type="xs:string" />
+            <xs:attribute name="AdmissionNoteType" type="xs:string" />
+            <xs:attribute name="AdmissionDeposit" type="xs:string" />
+            <xs:attribute name="PatientType" type="xs:string" />
+            <xs:attribute name="BedID" type="xs:string" />
+            <xs:attribute name="CancellationDate" type="xs:string" />
+            <xs:attribute name="ContactNo" type="xs:string" />
+            <xs:attribute name="Country" type="xs:string" />
+            <xs:attribute name="DateOfBirth" type="xs:string" />
+            <xs:attribute name="DoubleOccupancy" type="xs:string" />
+            <xs:attribute name="District" type="xs:string" />
+            <xs:attribute name="DoctorsAddress" type="xs:string" />
+            <xs:attribute name="ExpiryDate" type="xs:string" />
+            <xs:attribute name="Email" type="xs:string" />
+            <xs:attribute name="FirstName" type="xs:string" />
+            <xs:attribute name="Gender" type="xs:string" />
+            <xs:attribute name="IssuePlace" type="xs:string" />
+            <xs:attribute name="IssueDate" type="xs:string" />
+            <xs:attribute name="AnySpecificPreference" type="xs:string" />
+            <xs:attribute name="AdmissionType" type="xs:string" />
+            <xs:attribute name="DateOfAdmission" type="xs:string" />
+            <xs:attribute name="AttendantName" type="xs:string" />
+            <xs:attribute name="AttendantAddress" type="xs:string" />
+            <xs:attribute name="RelationShipWithPatient" type="xs:string" />
+            <xs:attribute name="NeedAssistant" type="xs:string" />
+            <xs:attribute name="Assistant" type="xs:string" />
+            <xs:attribute name="NeedEquipment" type="xs:string" />
+            <xs:attribute name="NeedReligiousPriest" type="xs:string" />
+            <xs:attribute name="NameOfThePriest" type="xs:string" />
+            <xs:attribute name="ClinicalTrialPatient" type="xs:string" />
+            <xs:attribute name="ClinicalTrialCode" type="xs:string" />
+            <xs:attribute name="LastName" type="xs:string" />
+            <xs:attribute name="Locality" type="xs:string" />
+            <xs:attribute name="MaritalStatus" type="xs:string" />
+            <xs:attribute name="ModificationDate" type="xs:string" />
+            <xs:attribute name="NeedForDoubleOccupancy" type="xs:string" />
+            <xs:attribute name="PRN" type="xs:string" />
+            <xs:attribute name="PatientContactNo" type="xs:string" />
+            <xs:attribute name="Preferences" type="xs:string" />
+            <xs:attribute name="PassportNo" type="xs:string" />
+            <xs:attribute name="PriestNo" type="xs:string" />
+            <xs:attribute name="ReasonForAdmission" type="xs:string" />
+            <xs:attribute name="ReferredDoctor" type="xs:string" />
+            <xs:attribute name="MiddleName" type="xs:string" />
+            <xs:attribute name="ReasonForCancellation" type="xs:string" />
+            <xs:attribute name="ReasonForModification" type="xs:string" />
+            <xs:attribute name="RequestedBedType" type="xs:string" />
+            <xs:attribute name="Street" type="xs:string" />
+            <xs:attribute name="State" type="xs:string" />
+            <xs:attribute name="UHID" type="xs:string" />
+            <xs:attribute name="LoginID" type="xs:string" />
+            <xs:attribute name="LocationID" type="xs:string" />
+            <xs:attribute name="ConvertedFrom" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ActionRequest">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Target" type="xs:string" minOccurs="0" />
+              <xs:element name="Identifier" type="xs:string" minOccurs="0" />
+              <xs:element name="LoginID" type="xs:string" minOccurs="0" />
+              <xs:element name="Action" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

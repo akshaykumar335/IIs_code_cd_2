@@ -1,0 +1,1506 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.CRM.DataAccess
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.CRM.DataAccess.My.Resources.ClaimsDataAccessResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.ClaimsDataAccessResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.ClaimsDataAccessResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.CRM.DataAccess.My.Resources.DataAccessResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddActivityDetails">
+<summary>
+  Looks up a localized string similar to P_AddActivityDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddAddresses">
+<summary>
+  Looks up a localized string similar to CRM.AddAddresses.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddAgreementAddressDetails">
+<summary>
+  Looks up a localized string similar to P_AddAgreementAddress.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddAgreementDetails">
+<summary>
+  Looks up a localized string similar to P_AddAgreementDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddAgreementDocumentsToSendDetails">
+<summary>
+  Looks up a localized string similar to P_AddAgrTransactionDocuments.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddAgreementEntitlement">
+<summary>
+  Looks up a localized string similar to P_UpdateAgrEmpEntitlements.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddAgreementInformationSendingDetails">
+<summary>
+  Looks up a localized string similar to P_AddAgreementInformation.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddAgreementPaymentDetails">
+<summary>
+  Looks up a localized string similar to P_AddAgreementPayement.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddAttachments">
+<summary>
+  Looks up a localized string similar to P_AddAttachment.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddAuthorizationRequestDetails">
+<summary>
+  Looks up a localized string similar to P_AddAuthorizationRequest.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddCampaignDetails">
+<summary>
+  Looks up a localized string similar to P_AddCampaigns.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddCampaignExpenseDetails">
+<summary>
+  Looks up a localized string similar to P_AddCampaignExpenses.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddCampaignPackageDetails">
+<summary>
+  Looks up a localized string similar to P_AddCampaignPackages.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddCampaignTargetDetails">
+<summary>
+  Looks up a localized string similar to P_AddCampaignTargets.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddCampaignTemplateDetails">
+<summary>
+  Looks up a localized string similar to P_AddCampaignTemplates.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddCheckListDetails">
+<summary>
+  Looks up a localized string similar to P_AddCheckListDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddContacts">
+<summary>
+  Looks up a localized string similar to P_AddContactDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddCreditDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateQuoteServices.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddCustomer">
+<summary>
+  Looks up a localized string similar to P_AddCustomers.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddCustomerRelation">
+<summary>
+  Looks up a localized string similar to P_AddCustomerRelationships.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddDevelopingQuotes">
+<summary>
+  Looks up a localized string similar to P_AddQuotes.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddDoctorsReport">
+<summary>
+  Looks up a localized string similar to P_AddDoctorsReport.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddDocumentsToSendDetails">
+<summary>
+  Looks up a localized string similar to P_AddQuoteTransactionDocuments.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddEventDetails">
+<summary>
+  Looks up a localized string similar to P_AddEvents.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddEventExpenseDetails">
+<summary>
+  Looks up a localized string similar to P_AddEventExpenses.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddEventSessionDetails">
+<summary>
+  Looks up a localized string similar to P_AddEventSessions.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddEventTargetDetails">
+<summary>
+  Looks up a localized string similar to P_AddEventTargets.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddEventTemplateDetails">
+<summary>
+  Looks up a localized string similar to P_AddEventTemplates.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddExclusions">
+<summary>
+  Looks up a localized string similar to P_ADDQuoteExclusions.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddExistingContacts">
+<summary>
+  Looks up a localized string similar to P_AddExistingContacts.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddInformationSendingDetails">
+<summary>
+  Looks up a localized string similar to P_AddQuoteInformation.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddInitialRequestDetails">
+<summary>
+  Looks up a localized string similar to P_AddInitialRequest.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddNoteDetails">
+<summary>
+  Looks up a localized string similar to P_ADDNote.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddOpportunity">
+<summary>
+  Looks up a localized string similar to P_ADDOPPORTUNITY.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddPromotionalDiscounts">
+<summary>
+  Looks up a localized string similar to P_UpdateQuoteServices.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddQuoteAddressDetails">
+<summary>
+  Looks up a localized string similar to P_AddQuoteAddress.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddQuoteEmployeeEntitlement">
+<summary>
+  Looks up a localized string similar to P_UpdateQuoteempEntitlements.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddQuotePaymentDetails">
+<summary>
+  Looks up a localized string similar to P_AddQuotePayments.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddQuotePricingDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateQuoteServices.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddQuotePricingPolicy">
+<summary>
+  Looks up a localized string similar to P_AddQuotePricingPolicy.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddQuoteServices">
+<summary>
+  Looks up a localized string similar to CRM.AddQuoteServices.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddReferralFee">
+<summary>
+  Looks up a localized string similar to P_UpdateQuoteServices.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddRevenueDetails">
+<summary>
+  Looks up a localized string similar to P_AddOppRevenue.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddServiceProvider">
+<summary>
+  Looks up a localized string similar to P_AddServiceProvider.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddVisitingCorporate">
+<summary>
+  Looks up a localized string similar to P_AddVisitingCorporates.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.AddVisitingDoctor">
+<summary>
+  Looks up a localized string similar to P_AddVisitingDoctors.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.CampaignTemplates">
+<summary>
+  Looks up a localized string similar to P_GetCampaignTemplates.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteAgreementAddressDetails">
+<summary>
+  Looks up a localized string similar to P_DeleteAgreementAddress.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteAgreementDocumentToSendDetails">
+<summary>
+  Looks up a localized string similar to P_DeleteAgrTranDocuments.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteAgreementEntitlement">
+<summary>
+  Looks up a localized string similar to P_DeleteAgrEntitlement.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteAgreementInformationSendingDetails">
+<summary>
+  Looks up a localized string similar to P_DeleteAgreementInformation.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteAgreementPaymentDetails">
+<summary>
+  Looks up a localized string similar to P_DeleteAgrPaymentDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteAttachments">
+<summary>
+  Looks up a localized string similar to P_DeleteAttachment.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteCampaignExpenseDetails">
+<summary>
+  Looks up a localized string similar to P_DeleteExpenseDetail.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteCampaignTemplateDocuments">
+<summary>
+  Looks up a localized string similar to P_DeleteCampTempDocument.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteContactAddressDetails">
+<summary>
+  Looks up a localized string similar to P_DeleteContactAddress.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteCustomerAddress">
+<summary>
+  Looks up a localized string similar to P_DeleteCustomerAddress.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteCustomerRelation">
+<summary>
+  Looks up a localized string similar to P_DeleteCustomerRelationShips.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteDependentDetail">
+<summary>
+  Looks up a localized string similar to P_DeleteDependentDetail.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteEmployeeProfile">
+<summary>
+  Looks up a localized string similar to P_DeleteCustomerProfile.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteEventTemplateDocuments">
+<summary>
+  Looks up a localized string similar to P_DeleteCampTempDocument.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteExclusions">
+<summary>
+  Looks up a localized string similar to P_DeleteQuoteExclusions.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeletePassportAndVisitDetails">
+<summary>
+  Looks up a localized string similar to P_DeletePassPortandVisaDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteQuoteAddressDetails">
+<summary>
+  Looks up a localized string similar to P_DeleteQuoteAddress.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteQuoteDocumentToSendDetails">
+<summary>
+  Looks up a localized string similar to P_DeleteQuoteTranDocuments.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteQuoteEntitlementDetail">
+<summary>
+  Looks up a localized string similar to P_DeleteQuoteEntitlement.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteQuoteInformationSendingDetails">
+<summary>
+  Looks up a localized string similar to P_DeleteQuoteInformation.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteQuotePaymentDetails">
+<summary>
+  Looks up a localized string similar to P_DeleteQuotePaymentDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteQuotePricingPolicy">
+<summary>
+  Looks up a localized string similar to P_DeleteQuotePricingPolicy.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteQuoteServices">
+<summary>
+  Looks up a localized string similar to P_DeleteQuoteServices.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteServiceProviderAddress">
+<summary>
+  Looks up a localized string similar to P_DeleteServiceProviderAddress.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DeleteVisitTimings">
+<summary>
+  Looks up a localized string similar to P_DeleteVisitTimings.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DuplicateActivitySearch">
+<summary>
+  Looks up a localized string similar to P_CheckDuplicateActivity.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DuplicateAgreementSearch">
+<summary>
+  Looks up a localized string similar to P_CheckDuplicateAgreement.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DuplicateCampaignSearch">
+<summary>
+  Looks up a localized string similar to P_CheckDuplicateCampaign.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DuplicateContactsSearch">
+<summary>
+  Looks up a localized string similar to P_CheckDuplicateContacts.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DuplicateCustomerRelation">
+<summary>
+  Looks up a localized string similar to P_CheckDuplicateVisitCustomer.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DuplicateCustomerSearch">
+<summary>
+  Looks up a localized string similar to P_CheckDuplicateCustomer.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DuplicateEventSearch">
+<summary>
+  Looks up a localized string similar to P_CheckDuplicateEvent.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DuplicateNotesSearch">
+<summary>
+  Looks up a localized string similar to P_CheckDuplicateNotes.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DuplicateOpportunitySearch">
+<summary>
+  Looks up a localized string similar to P_CheckDuplicateOpportunity.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DuplicateQuoteSearch">
+<summary>
+  Looks up a localized string similar to P_CheckDuplicateQuote.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DuplicateServiceProviderSearch">
+<summary>
+  Looks up a localized string similar to P_CheckDuplicateSProvider.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.DuplicateVisitingCorporate">
+<summary>
+  Looks up a localized string similar to P_CheckDuplicateVisitCustomer.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetActivities">
+<summary>
+  Looks up a localized string similar to P_SearchActivites.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetActivityDetails">
+<summary>
+  Looks up a localized string similar to P_GetActivityDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAddressTypeMaster">
+<summary>
+  Looks up a localized string similar to p_GetAddressTypeMaster.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementAddressDetails">
+<summary>
+  Looks up a localized string similar to P_GetAgrAddressDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementAddresses">
+<summary>
+  Looks up a localized string similar to P_GetAgreementAddress.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementCreditDetails">
+<summary>
+  Looks up a localized string similar to P_GetAgreementCredit.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementCustomerDetails">
+<summary>
+  Looks up a localized string similar to P_GetAgreementCustomer.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementDetails">
+<summary>
+  Looks up a localized string similar to P_GetAgreementDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementDocumentToSendDetails">
+<summary>
+  Looks up a localized string similar to p_GetAgreementDocumentDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementEntitlementDetails">
+<summary>
+  Looks up a localized string similar to P_GetAgrEntitlementDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementEntitlements">
+<summary>
+  Looks up a localized string similar to P_GetAgreementEntitlements.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementExclusions">
+<summary>
+  Looks up a localized string similar to p_getagreementexclusions .
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementInformationSending">
+<summary>
+  Looks up a localized string similar to p_GetAgreementSendRecieve.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementInformationSendingDetails">
+<summary>
+  Looks up a localized string similar to p_GetAGRSendRecieveDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementPaymentDetails">
+<summary>
+  Looks up a localized string similar to P_GetAgrPaymentDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementPayments">
+<summary>
+  Looks up a localized string similar to P_GetAgreementPayment.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementPricingDetails">
+<summary>
+  Looks up a localized string similar to P_GetAgreementPricing.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementPricingPolicy">
+<summary>
+  Looks up a localized string similar to P_GetAgreementPricingPolicy.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementPromotionalDiscounts">
+<summary>
+  Looks up a localized string similar to P_GetAgreementPromotionals.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementReferralFee">
+<summary>
+  Looks up a localized string similar to P_GetAgreementReferralFees.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreements">
+<summary>
+  Looks up a localized string similar to P_SearchAgreements.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAgreementTemplateDetails">
+<summary>
+  Looks up a localized string similar to P_AgreementTemplate.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetAllOpportunities">
+<summary>
+  Looks up a localized string similar to CRM.GetAllOpportunities.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetBillingServices">
+<summary>
+  Looks up a localized string similar to P_GetBillingServices.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignDetails">
+<summary>
+  Looks up a localized string similar to P_GetCampaignDeatils.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignExpenses">
+<summary>
+  Looks up a localized string similar to P_GetCampaignExpenses.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignExpensesValues">
+<summary>
+  Looks up a localized string similar to P_GetCampaignExpenseValues.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignPackageDetails">
+<summary>
+  Looks up a localized string similar to P_GetCampaignPackageDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignPackages">
+<summary>
+  Looks up a localized string similar to P_GetCampaignPackages.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaigns">
+<summary>
+  Looks up a localized string similar to P_SearchCampaign.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignSchedular">
+<summary>
+  Looks up a localized string similar to P_SearchCampaignScheduler.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignSchedularAll">
+<summary>
+  Looks up a localized string similar to P_GetCampaignScheduler.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignSchedularMaterials">
+<summary>
+  Looks up a localized string similar to P_GetCampSchedulerMaterials.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignSchedularMiscellaneous">
+<summary>
+  Looks up a localized string similar to P_GetCampSchedulerMiscellaneous.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignSchedularResources">
+<summary>
+  Looks up a localized string similar to P_GetCampSchedulerResources.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignSchedularTransport">
+<summary>
+  Looks up a localized string similar to P_GetCampSchedulerTransport.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignSchedularVendors">
+<summary>
+  Looks up a localized string similar to P_GetCampSchedulerVendor.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignTargetDetails">
+<summary>
+  Looks up a localized string similar to P_GetCampaignTargetDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignTargets">
+<summary>
+  Looks up a localized string similar to P_GetCampaignTargets.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCampaignTemplateDetails">
+<summary>
+  Looks up a localized string similar to P_GetCampaignTemplateDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCommunicationMode">
+<summary>
+  Looks up a localized string similar to P_GetCommunicationMode.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetContactDetails">
+<summary>
+  Looks up a localized string similar to P_GetContactDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetContactDetailsByType">
+<summary>
+  Looks up a localized string similar to CRM.GetContactsByType.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetContacts">
+<summary>
+  Looks up a localized string similar to P_SearchContacts.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCustomerAgreements">
+<summary>
+  Looks up a localized string similar to P_GetCustomerAgreement.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.getCustomerAgreementServices">
+<summary>
+  Looks up a localized string similar to P_GetCustomerAgreementServices.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GETCUSTOMERCATEGORY">
+<summary>
+  Looks up a localized string similar to P_GETCUSTOMERCATEGORY.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCustomerDetails">
+<summary>
+  Looks up a localized string similar to P_GetCustomerDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCustomerHierarchy">
+<summary>
+  Looks up a localized string similar to P_GetCustomerHierarchy.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCustomerRelationDetails">
+<summary>
+  Looks up a localized string similar to P_GetCustomerRelationships.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCustomers">
+<summary>
+  Looks up a localized string similar to P_SearchCustomer.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCustomersCorporates">
+<summary>
+  Looks up a localized string similar to P_GetCustomerDoctors.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCustomersDoctors">
+<summary>
+  Looks up a localized string similar to P_GetCustomerDoctors.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCustomersInsurer">
+<summary>
+  Looks up a localized string similar to P_GetCustomersInsurer.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetCustomersTPA">
+<summary>
+  Looks up a localized string similar to P_GetCustomersTPA.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GETCUSTOMERTYPE">
+<summary>
+  Looks up a localized string similar to P_GETCUSTOMERTYPE.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetDoctorsReportDetails">
+<summary>
+  Looks up a localized string similar to P_GetDoctorsReport.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetDocumentTypeDetails">
+<summary>
+  Looks up a localized string similar to P_GetDocumentName.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventDetails">
+<summary>
+  Looks up a localized string similar to P_GetEventDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventExpenseDetails">
+<summary>
+  Looks up a localized string similar to P_GetEventExpenseValues.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventExpenses">
+<summary>
+  Looks up a localized string similar to P_GetEventExpenses.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEvents">
+<summary>
+  Looks up a localized string similar to P_GetEvents.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventSchedular">
+<summary>
+  Looks up a localized string similar to P_SearchEventScheduler.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventSchedularAll">
+<summary>
+  Looks up a localized string similar to P_GetEventScheduler.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventSchedularDetails">
+<summary>
+  Looks up a localized string similar to P_GetEventSchedulerDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventSchedularMaterails">
+<summary>
+  Looks up a localized string similar to P_GetEventSchedulerMaterials.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventSchedularResources">
+<summary>
+  Looks up a localized string similar to P_GetEventSchedulerResources.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventSchedularTransport">
+<summary>
+  Looks up a localized string similar to P_GetEventSchedulerTransport.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventSchedularVendors">
+<summary>
+  Looks up a localized string similar to P_GetEventSchedulerVendor.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventSessionDetails">
+<summary>
+  Looks up a localized string similar to P_GetEventSessionDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventSessions">
+<summary>
+  Looks up a localized string similar to P_GetEventSessions.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventTargetDetails">
+<summary>
+  Looks up a localized string similar to P_GetEventTargetDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventTargets">
+<summary>
+  Looks up a localized string similar to P_GetEventTargets.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventTemplateDetails">
+<summary>
+  Looks up a localized string similar to P_GetEventTemplateDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetEventTemplates">
+<summary>
+  Looks up a localized string similar to P_GetEventTemplates.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetExclusions">
+<summary>
+  Looks up a localized string similar to P_GetQuoteExclusions.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetLabAgents">
+<summary>
+  Looks up a localized string similar to P_GetLabAgents.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GETLOVdetails">
+<summary>
+  Looks up a localized string similar to P_GETLOVdetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetNoteDetails">
+<summary>
+  Looks up a localized string similar to P_GETNOTEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetOpportunities">
+<summary>
+  Looks up a localized string similar to P_SEARCHOPPORTUNITIES.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetOpportunitiesForQuotes">
+<summary>
+  Looks up a localized string similar to P_SearchOpportunitiesForQuotes.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetOpportunityActivities">
+<summary>
+  Looks up a localized string similar to CRM.GetOpportunityActivities.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetOpportunityAttachments">
+<summary>
+  Looks up a localized string similar to P_GETATTACHMENT.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetOpportunityByType">
+<summary>
+  Looks up a localized string similar to CRM.GetOpportunitiesByType.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetOpportunityContacts">
+<summary>
+  Looks up a localized string similar to CRM.GetContacts.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetOpportunityDetails">
+<summary>
+  Looks up a localized string similar to P_GETOPPORTUNITYDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetOpportunityNotes">
+<summary>
+  Looks up a localized string similar to CRM.GetOpportunityNotes.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetOpportunityRevenue">
+<summary>
+  Looks up a localized string similar to P_GetRevenue.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetOpportunityServices">
+<summary>
+  Looks up a localized string similar to P_GetOppServicesForQuotes.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetOppRevenueDetails">
+<summary>
+  Looks up a localized string similar to P_GetRevenueDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetPendingTaskList">
+<summary>
+  Looks up a localized string similar to P_GetMyPendingActivities.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetPromotionalDiscountDetails">
+<summary>
+  Looks up a localized string similar to p_GetPromotionalDiscounts.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetPromotionalDiscounts">
+<summary>
+  Looks up a localized string similar to P_GetQuotePromotionals.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQueries">
+<summary>
+  Looks up a localized string similar to P_SearchInitialRequest.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQueryDetails">
+<summary>
+  Looks up a localized string similar to P_GetInitialRequest.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteAddressDetails">
+<summary>
+  Looks up a localized string similar to p_GetQuoteAddressDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteAddresses">
+<summary>
+  Looks up a localized string similar to p_GetQuoteAddress.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteCreditDetails">
+<summary>
+  Looks up a localized string similar to P_GetQuoteCredit.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteCustomerDetails">
+<summary>
+  Looks up a localized string similar to P_GetQuoteCustomer.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteDocumentToSendDetails">
+<summary>
+  Looks up a localized string similar to p_GetQuoteDocumentDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteEmpEntitlementDetails">
+<summary>
+  Looks up a localized string similar to P_GetQuoteEntitlementDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteEmpEntitlements">
+<summary>
+  Looks up a localized string similar to P_GetQuoteEntitlements.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteHistory">
+<summary>
+  Looks up a localized string similar to P_GetQuoteHistory.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteInformationSending">
+<summary>
+  Looks up a localized string similar to p_GetQuoteSendRecieve.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteInformationSendingDetails">
+<summary>
+  Looks up a localized string similar to p_GetQuoteSendRecieveDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuotePaymentDetails">
+<summary>
+  Looks up a localized string similar to P_GetQuotePaymentDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuotePayments">
+<summary>
+  Looks up a localized string similar to P_GetQuotePayment.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuotePricing">
+<summary>
+  Looks up a localized string similar to P_GetQuotePricingDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuotePricingDetails">
+<summary>
+  Looks up a localized string similar to P_GetQuotePricingDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuotePricingPolicyDetails">
+<summary>
+  Looks up a localized string similar to P_GetQuotePricingPolicy.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuotes">
+<summary>
+  Looks up a localized string similar to P_SEARCHQUOTES.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuotesDetails">
+<summary>
+  Looks up a localized string similar to P_GetQuotes.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteServices">
+<summary>
+  Looks up a localized string similar to P_GetQuoteServices.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteServiceTypes">
+<summary>
+  Looks up a localized string similar to GetQuoteServiceTypes.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuotesForAgreements">
+<summary>
+  Looks up a localized string similar to p_SearchQuotesForAgreements.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteTemplateDetails">
+<summary>
+  Looks up a localized string similar to P_QuoteTemplate.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetQuoteTransactionDetails">
+<summary>
+  Looks up a localized string similar to p_GetQuoteTransactionDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetReferralFee">
+<summary>
+  Looks up a localized string similar to P_GetQuoteReferralFees.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetReferralFeeDetails">
+<summary>
+  Looks up a localized string similar to P_GetQuoteReferralFeeDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetServiceItemAttachments">
+<summary>
+  Looks up a localized string similar to GetServiceItemAttachments.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetServiceProviderDetails">
+<summary>
+  Looks up a localized string similar to P_GetServiceProviderDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetServiceProviders">
+<summary>
+  Looks up a localized string similar to P_SearchServiceProviders.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetStatusMaster">
+<summary>
+  Looks up a localized string similar to P_GetStatusMaster.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetVisitingCorporateDetails">
+<summary>
+  Looks up a localized string similar to P_GetVisitingCorporateDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetVisitingCorporates">
+<summary>
+  Looks up a localized string similar to P_GetVisitingCorporates.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetVisitingDoctorDetails">
+<summary>
+  Looks up a localized string similar to P_GetVisitingDoctorDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.GetVisitingDoctors">
+<summary>
+  Looks up a localized string similar to P_GetVisitingDoctors.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.mvrefresh">
+<summary>
+  Looks up a localized string similar to p_mvrefresh.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.Notes">
+<summary>
+  Looks up a localized string similar to P_SearchNotes.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.PPGETCUSTOMERS">
+<summary>
+  Looks up a localized string similar to P_GETCUSTOMERS.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.procGetLabAgents">
+<summary>
+  Looks up a localized string similar to p_getlabAgents.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.procUpdateAgreementAlias">
+<summary>
+  Looks up a localized string similar to  P_UpdateAgreementServices.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.StoreRequest">
+<summary>
+  Looks up a localized string similar to CRM.StoreRequest.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateActivityDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateActivity.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateAddresses">
+<summary>
+  Looks up a localized string similar to CRM.UpdateAddresses.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateAgreementAddressDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateAgreementAddresses.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateAgreementDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateAgreement.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateAgreementDocumentsToSendDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateAgreementDocuments.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateAgreementEntitlement">
+<summary>
+  Looks up a localized string similar to P_UpdateAgrEmpEntitlements.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateAgreementInformationSendingDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateAgreementInformation.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateAgreementPaymentDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateAgreementPayment.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateAttachments">
+<summary>
+  Looks up a localized string similar to CRM.UpdateAttachments.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateCampaignDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateCampaigns.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateCampaignExpenseDetails">
+<summary>
+  Looks up a localized string similar to p_UpdateCampaignExpenses.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateCampaignPackageDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateCampignPackages.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateCampaignTargetDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateCampaignTargets.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateCampaignTemplateDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateCampaignTemplates.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateContacts">
+<summary>
+  Looks up a localized string similar to P_UpdateContactDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateCreditDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateQuoteCreditDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateCustomer">
+<summary>
+  Looks up a localized string similar to P_UpdateCustomers.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateCustomerRelation">
+<summary>
+  Looks up a localized string similar to P_UpdateCustomerRelationships.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateDevelopingQuotes">
+<summary>
+  Looks up a localized string similar to P_UpdateQuotes.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateDoctorsReport">
+<summary>
+  Looks up a localized string similar to P_UpdateDoctorsReport.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateEventDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateEvents.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateEventExpenseDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateEventExpenses.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateEventSessionDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateEventSessions.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateEventTargetDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateEventTargets.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateEventTemplateDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateEventTemplates.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateExclusions">
+<summary>
+  Looks up a localized string similar to P_UpdateQuoteExclusions.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateInformationSendingDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateQuoteInformation.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateInitialRequestDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateInitialRequest.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateNoteDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateNotes.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateOpportunity">
+<summary>
+  Looks up a localized string similar to P_UpdateOpportunity.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdatePromotionalDiscounts">
+<summary>
+  Looks up a localized string similar to P_UpdatePromotionalDiscounts.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateQuoteAddressDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateQuoteAddresses.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateQuoteDocumentsToSendDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateQuoteDocuments.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateQuoteEmpEntitlement">
+<summary>
+  Looks up a localized string similar to P_UpdateQuoteempEntitlements.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateQuotePaymentDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateQuotePayment.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateQuotePricingDetails">
+<summary>
+  Looks up a localized string similar to P_UPDATEQUOTEPRICINGDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateQuotePricingPolicy">
+<summary>
+  Looks up a localized string similar to P_UpdateQuotePricingPolicy.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateQuoteServices">
+<summary>
+  Looks up a localized string similar to P_UpdateQuotesServices.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateReferralFee">
+<summary>
+  Looks up a localized string similar to P_UpdateQuoteServices.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateRevenueDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateOppRevenue.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateServiceProvider">
+<summary>
+  Looks up a localized string similar to P_UpdateServiceProvider.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.DataAccessResources.UpdateVisitingCorporate">
+<summary>
+  Looks up a localized string similar to P_UpdateVisitingCustomers.
+</summary>
+</member>
+<member name="T:eHIS.CRM.DataAccess.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.CRM.DataAccess.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceProvider.AddOpportunity(System.String,System.String,System.String@)">
+ <summary>
+ 
+ </summary>
+ <param name="requestXml"></param>
+ <param name="opportunityID"></param> 
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceProvider.GetOpportunities(System.Int32,System.String,System.String,System.String,System.String,System.Int32,System.Int32,System.String,System.String,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ 
+ </summary>
+ <param name="opportunityID"></param>
+ <param name="opportunityName"></param>
+ <param name="CreatedFrom"></param>
+ <param name="CreatedTo"></param>
+ <param name="DueDate"></param>
+ <param name="SalesStage"></param>
+ <param name="opportunityStatus"></param>
+ <param name="primaryAssignedOwner"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceProvider.GetOpportunityDetails(System.Int32)">
+ <summary>
+ This method gets the CRM Search Details whem OpportunityID as input details,it calls the appropriate storedprocedure
+ </summary>
+ <param name="opportunityID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceProvider.GetContactDetails(System.Int32)">
+ <summary>
+ This method gets the CRM Search Details whem ContactID as input details,it calls the appropriate storedprocedure
+ </summary>
+ <param name="contactID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceProvider.AddContacts(System.String,System.String,System.Int32@)">
+ <summary>
+ 
+ </summary>
+ <param name="requestXml"></param>
+ <param name="loginID"></param>
+ <param name="ContactID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceTransactionHandler.GetOpportunities(eHIS.CRM.Utility.Entities.Search)">
+ <summary>
+ This method is for getting Search Details details,in turn it calls the GetContactDetails method of MarketingDataServiceProvider
+ </summary>
+ <param name="objSearch"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceTransactionHandler.GetOpportunityDetails(eHIS.CRM.Utility.Entities.Search)">
+ <summary>
+ this gets the CRM Search details,it in turn call the GetOpportunityDetails method of MarketingDataServiceProvider
+ </summary>
+ <param name="objSearch"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceTransactionHandler.GetOpportunityNotes(eHIS.CRM.Utility.Entities.Search)">
+ <summary>
+ this gets the CRM Search details,it in turn call the GetOpportunityNotes method of MarketingDataServiceProvider
+ </summary>
+ <param name="objSearch"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceTransactionHandler.GetOpportunityActivities(eHIS.CRM.Utility.Entities.Search)">
+ <summary>
+ this gets the CRM Search details,it in turn call the GetOpportunityActivities method of MarketingDataServiceProvider
+ </summary>
+ <param name="objSearch"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceTransactionHandler.GetOpportunityContacts(eHIS.CRM.Utility.Entities.Search)">
+ <summary>
+ this gets the CRM Search details,it in turn call the GetOpportunityContacts method of MarketingDataServiceProvider
+ </summary>
+ <param name="objSearch"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceTransactionHandler.GetOpportunityAttachments(eHIS.CRM.Utility.Entities.Search)">
+ <summary>
+ this gets the CRM Search details,it in turn call the GetOpportunityAttachments method of MarketingDataServiceProvider
+ </summary>
+ <param name="objSearch"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceTransactionHandler.GetContactDetails(eHIS.CRM.Utility.Entities.Search)">
+ <summary>
+ this gets the CRM Search details,it in turn call the ContactDetails method of MarketingDataServiceProvider
+ </summary>
+ <param name="objSearch"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceTransactionHandler.GetContacts(eHIS.CRM.Utility.Entities.Search)">
+ <summary>
+ This method is for getting Search Details details,in turn it calls the GetContactDetails method of MarketingDataServiceProvider
+ </summary>
+ <param name="objSearch"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceTransactionHandler.AddContacts(System.String,System.String,System.Int32@)">
+ <summary>
+ 
+ </summary>
+ <param name="requestXml"></param>
+ <param name="loginID"></param>
+ <param name="ContactID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceTransactionHandler.AddActivities(System.String,System.String,System.Int32@)">
+ <summary>
+ 
+ </summary>
+ <param name="requestXml"></param>
+ <param name="loginID"></param>
+ <param name="ActivityID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.MarketingDataServiceTransactionHandler.UpdateActivities(eHIS.CRM.Utility.Entities.ActivityRequest)">
+ <summary>
+ 
+ </summary>
+ <param name="objActivityRequest"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.DataAccess.QuotesDataServiceProvider.AddDevelopQuoteDetails(System.String,System.String,System.String@)">
+ <summary>
+ 
+ </summary>
+ <param name="requestXml"></param>
+ <param name="LoginID"></param>
+ <param name="QuoteID"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

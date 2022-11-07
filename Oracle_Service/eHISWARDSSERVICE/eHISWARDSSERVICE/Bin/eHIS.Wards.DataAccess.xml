@@ -1,0 +1,1130 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Wards.DataAccess
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Wards.DataAccess.My.Resources.DataAccessResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddABHAdmissionDetails">
+<summary>
+  Looks up a localized string similar to P_AddABHAdmissionDetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddABHPatientDischargeDetails">
+<summary>
+  Looks up a localized string similar to P_ADDABHDISCHARGEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddAdmissionDetails">
+<summary>
+  Looks up a localized string similar to P_AddAdmissionDetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddBedsideProcedure">
+<summary>
+  Looks up a localized string similar to P_AddBedsideProcedureDetail.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddBroughtDeadCertificateDetails">
+<summary>
+  Looks up a localized string similar to P_AddBroughtDeathCertificate.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddCaseSheetChiefComplaintDetails">
+<summary>
+  Looks up a localized string similar to P_AddCaseSheetDetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddCaseSheetDiagnosisDetails">
+<summary>
+  Looks up a localized string similar to P_ADDDIAGNOSIS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddCaseSheetHistoryDetails">
+<summary>
+  Looks up a localized string similar to P_AddPatientHistory.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddCaseSheetPhysicalExaminationDetails">
+<summary>
+  Looks up a localized string similar to P_ADDPHYSICALEXAMINATION.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddCaseSheetProgressNoteDetails">
+<summary>
+  Looks up a localized string similar to P_ADDPROGRESSNOTE.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddCaseSheetSurgeryDetails">
+<summary>
+  Looks up a localized string similar to P_ADDSURGERY.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddCaseSheetSystemicReviewDetails">
+<summary>
+  Looks up a localized string similar to P_ADDSYSTEMICREVIEW.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddCaseTransferRequest">
+<summary>
+  Looks up a localized string similar to P_AddCaseTransferRequest.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddCSSDItemReceiptDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateCSSDRequest.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddCSSDRequestDetails">
+<summary>
+  Looks up a localized string similar to P_UPDATECSSDREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddDailyAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_ADDDAILYASSESSMENT.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddDeathCertificateDetails">
+<summary>
+  Looks up a localized string similar to P_AddDeathCertificate.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddDeathDeclarationDetails">
+<summary>
+  Looks up a localized string similar to P_ADDDEATHDECLARATION.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddDisabilityCertificateDetails">
+<summary>
+  Looks up a localized string similar to P_AddDisablityCertificate.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddDischargeIntimationDetails">
+<summary>
+  Looks up a localized string similar to P_UPDATEDISCHARGEINTIMATION.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddDrugAdministrationDetails">
+<summary>
+  Looks up a localized string similar to P_SAVEDRUGADMIN.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddEquipmentRequestDetails">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddInitialAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_AddNursingAssesment.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddInitialFunctionalAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_AddInitFuncAssessment.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddInitialIDTRAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_AddInitIDTRAssessment.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddInitialNutritionAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_AddInitNutritionAssessment.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddInitialSocialWorkerAssessmentDetails">
+<summary>
+  Looks up a localized string similar to p_AddInitSocialAssessment.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddInjuryCertificateDetails">
+<summary>
+  Looks up a localized string similar to P_AddInjuryCertificate.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddLHKRequestDetails">
+<summary>
+  Looks up a localized string similar to P_AddLhkRequest.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddMedicalCertificateDetails">
+<summary>
+  Looks up a localized string similar to P_AddMedicalCertificate.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddNutritionalAssessmentDailyDetails">
+<summary>
+  Looks up a localized string similar to P_ADDNUTRITIONALDAILY.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddOPPatientToDoctorsDashBoard">
+<summary>
+  Looks up a localized string similar to P_ADDAVAILABLEPATIENTS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddOPRaisedServiceDetails">
+<summary>
+  Looks up a localized string similar to P_ADDOPRAISESERVICESBILLING.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddOPRaiseServiceDetails">
+<summary>
+  Looks up a localized string similar to P_ADDOPRAISESERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddOtherAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_ADDOTHERASSESSMENT_DAILY.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddOTRequestDetailIDForExistingRequestNo">
+<summary>
+  Looks up a localized string similar to P_ADDOTREQUESTDETAILID.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddPainAssessmentDetails">
+<summary>
+  Looks up a localized string similar to p_addpainassessment_daily.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddPatientDischargeDetails">
+<summary>
+  Looks up a localized string similar to P_ADDDISCHARGEDETAILS .
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddPatientDischargeDetailsDynamic">
+<summary>
+  Looks up a localized string similar to P_SAVEDISCHARGEDYNCDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddPatientInstructionDetails">
+<summary>
+  Looks up a localized string similar to P_AddPatientInstruction.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddPatientObservationDetails">
+<summary>
+  Looks up a localized string similar to P_AddPatientObservation.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddPerinatalDeathCertificateDetails">
+<summary>
+  Looks up a localized string similar to P_AddPerinatalDeathCertificate.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddPrescriptionDetails">
+<summary>
+  Looks up a localized string similar to P_AddPrescriptionDetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddPrescriptionQuickList">
+<summary>
+  Looks up a localized string similar to P_ADDDOCTORSDRUGQL.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddRadiologyObservationDetails">
+<summary>
+  Looks up a localized string similar to P_AddRadiologyObservations.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddReceivedDrugsFromPharmacyDetails">
+<summary>
+  Looks up a localized string similar to P_ADDDRUGADMIN.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddRehabilationNotes">
+<summary>
+  Looks up a localized string similar to P_ADDRehabilationNotes.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddSubjectiveObjectiveAssessmentPlanDetails">
+<summary>
+  Looks up a localized string similar to P_addSOAP.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AddToFavorites">
+<summary>
+  Looks up a localized string similar to P_ADDFAVOURITES.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.AssignNewAdmssionToNurse">
+<summary>
+  Looks up a localized string similar to P_AssignAdmissions.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelAdmission">
+<summary>
+  Looks up a localized string similar to P_CancelAdmissionNote.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelCSSDRequest">
+<summary>
+  Looks up a localized string similar to P_CANCELCSSDREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelEquipmentRequest">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelFavorites">
+<summary>
+  Looks up a localized string similar to P_CancelFavourites.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelLHKRequest">
+<summary>
+  Looks up a localized string similar to P_CancelLHKRequest.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelMRDRequestAgainstAppointmentId">
+<summary>
+  Looks up a localized string similar to P_CANCELMRDREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelOPConsultationDetails">
+<summary>
+  Looks up a localized string similar to P_CANCELOPDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelOtherServiceRequest">
+<summary>
+  Looks up a localized string similar to P_CANCELOTHERSERVICESREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelOTRequest">
+<summary>
+  Looks up a localized string similar to P_CANCELOTREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelOTRequestForAdmission">
+<summary>
+  Looks up a localized string similar to P_CANCELSURGERY.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelPatientInstructionDetails">
+<summary>
+  Looks up a localized string similar to P_CANCELINSTRUCTIONS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelPatientObservationDetails">
+<summary>
+  Looks up a localized string similar to P_CANCELOBSERVATIONS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelPhysioTherapyRequest">
+<summary>
+  Looks up a localized string similar to P_CANCELPHYSIOREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelPrescription">
+<summary>
+  Looks up a localized string similar to P_CancelPrescription.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelRadiologyRequest">
+<summary>
+  Looks up a localized string similar to P_CANCELRADIOLOGYREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.CancelRadiologyRequestForAdmission">
+<summary>
+  Looks up a localized string similar to P_DELETERADIOLOGYREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.DeleteOPPatientFromDoctorsDashBoard">
+<summary>
+  Looks up a localized string similar to P_DELETEAVAILABLEPATIENTS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.DeletePrescriptionQuickList">
+<summary>
+  Looks up a localized string similar to P_DELETEDOCTORSDRUGQL.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GenerateOPNumber">
+<summary>
+  Looks up a localized string similar to P_GENERATEOPNUMBER.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetActiveAdmissions">
+<summary>
+  Looks up a localized string similar to P_GETACTIVEADMISSIONS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetAdmissionDetails">
+<summary>
+  Looks up a localized string similar to P_GetAdmissiondetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetBasicSearchDetails">
+<summary>
+  Looks up a localized string similar to P_GetBasicSearchDetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetBasicSearchDetailsForOT">
+<summary>
+  Looks up a localized string similar to P_GetBasicSearchDetails_OT.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetBedsideProcedure">
+<summary>
+  Looks up a localized string similar to P_GetBedsideProcedure.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetBroughtDeadCertificateDetails">
+<summary>
+  Looks up a localized string similar to P_GetBroughtDeadCertificate.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetCaseSheetDetails">
+<summary>
+  Looks up a localized string similar to P_Get_CaseSheetDetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetCaseSheetPhysicalExaminationDetails">
+<summary>
+  Looks up a localized string similar to P_GETPHYSICALEXAMINATION.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetCaseSheetProgressNoteDetails">
+<summary>
+  Looks up a localized string similar to P_GETPROGRESSNOTE.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetCaseSheetSystemicReviewDetails">
+<summary>
+  Looks up a localized string similar to P_GETSYSTEMICREVIEW.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetCheckedOutOPPatientDetails">
+<summary>
+  Looks up a localized string similar to P_GETOPCHECKEDOUTPATIENTS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetCheckedOutPatients">
+<summary>
+  Looks up a localized string similar to P_getcheckedoutpatients.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetCSSDRequestDetails">
+<summary>
+  Looks up a localized string similar to P_GETCSSDREQUESTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDailyAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_GET_DAILYASSESSMENT.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDailyViewDatesForAnIPNumber">
+<summary>
+  Looks up a localized string similar to P_GetDailyViewDatesForIPNUMBER.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDailyViewDatesForAnIPNumberWithOT">
+<summary>
+  Looks up a localized string similar to P_GetDailyViewDatesForIP_NO_OT.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDailyViewDetails">
+<summary>
+  Looks up a localized string similar to P_GetDailyViewDetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDailyViewDetailsWithOT">
+<summary>
+  Looks up a localized string similar to P_GetDailyViewDetails_OT.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDeathCertificateDetails">
+<summary>
+  Looks up a localized string similar to P_GetBroughtDeadCertificate.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDeathDeclarationDetails">
+<summary>
+  Looks up a localized string similar to P_GETDEATHDECLARATIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDepartmentNamesForGivenRequestNumber">
+<summary>
+  Looks up a localized string similar to P_GETWORKLISTNAME.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDepartmentsMapped">
+<summary>
+  Looks up a localized string similar to P_GetDeptMaster.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDeptID">
+<summary>
+  Looks up a localized string similar to p_getdeptid.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDiagnosisForAnIPNumber">
+<summary>
+  Looks up a localized string similar to P_GETDIAGNOSISFORANIPNUMBER.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDisabilityCertificateDetails">
+<summary>
+  Looks up a localized string similar to P_GetDisabilityCertificate.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDischargeInitiatedPatients">
+<summary>
+  Looks up a localized string similar to P_GetDischrginitiatedPatients.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDischargeInitiationStatus">
+<summary>
+  Looks up a localized string similar to P_GETDISCHARGEINTIMATEFLAG.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDischargeIntimatedPatients">
+<summary>
+  Looks up a localized string similar to P_GETDISINTIMATEDPATIENTS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDischargeIntimationDetails">
+<summary>
+  Looks up a localized string similar to P_GETDISCHARGEINTIMATED.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDischargeSummary">
+<summary>
+  Looks up a localized string similar to P_Get_DischargeSummary.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDischargeSummaryDetailsForReport">
+<summary>
+  Looks up a localized string similar to P_Get_DischargeSummary_new.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDischargeSummaryDraftDetails">
+<summary>
+  Looks up a localized string similar to P_GetDischargeSummaryDraft.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDischargeSummaryDynamic">
+<summary>
+  Looks up a localized string similar to P_GET_DISCHARGESUMMARYDYNC.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetDrugAdministrationDetails">
+<summary>
+  Looks up a localized string similar to P_GetDrugAdmin.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetEquipmentRequestDetails">
+<summary>
+  Looks up a localized string similar to P_GETEQUIPMENTREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetFavorites">
+<summary>
+  Looks up a localized string similar to P_GETFAVOURITEMASTER.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetInitialAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_VIEWNURSEASSESSMENT.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetInitialFunctionalAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_GetInitFuncAssessment.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetInitialIDTRAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_GetInitIDTRAssessment.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetInitialNutritionAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_GetInitNutritionAssessment.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetInitialSocialWorkerAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_GetInitSocialAssessment.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetInjuryCertificateDetails">
+<summary>
+  Looks up a localized string similar to P_GetInjuryCertificate.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetIPDetailsForDeadPatient">
+<summary>
+  Looks up a localized string similar to P_GETAllIPDetailsForUHID.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetIPDetailsForGivenUHID">
+<summary>
+  Looks up a localized string similar to P_GETIPDetailsForUHID.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetIPPackageRequestDetails">
+<summary>
+  Looks up a localized string similar to P_GETPACKAGEREQUESTS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetIPPatientMappedToTheDoctor">
+<summary>
+  Looks up a localized string similar to P_GETIPDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetLHKDetails">
+<summary>
+  Looks up a localized string similar to P_GetLhkRequest.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetMedicalCertificateDetails">
+<summary>
+  Looks up a localized string similar to P_GetMedicalCertificate.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetMedicalRecordAvailabilityDetailsForGivenUHID">
+<summary>
+  Looks up a localized string similar to P_GETMRDDetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetMedicalRecordIssueRequestDetails">
+<summary>
+  Looks up a localized string similar to P_GETMEDRECORDREQUESTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetNewAdmissions">
+<summary>
+  Looks up a localized string similar to p_GetNewAdmissions.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetNewAdmissionsForHOD">
+<summary>
+  Looks up a localized string similar to p_getnewadmissionsfromadt.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetNewAdmissionsMappedToNurse">
+<summary>
+  Looks up a localized string similar to p_get_nursetaskallocation.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetNonRegularizedIPs">
+<summary>
+  Looks up a localized string similar to P_GETNONREGULARIZEDIPS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetNurseHODPatients">
+<summary>
+  Looks up a localized string similar to P_GETPATIENTLISTSFORHODFROMADT.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetNutritionalAssessmentDailyDetails">
+<summary>
+  Looks up a localized string similar to P_GETNUTRITIONALDAILY.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetObservationNotes">
+<summary>
+  Looks up a localized string similar to P_GetObservationNotes.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetOPConsultationDetails">
+<summary>
+  Looks up a localized string similar to P_GETOPDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetOPDetailsForGivenUHID">
+<summary>
+  Looks up a localized string similar to to be done.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetOPPatientsDeletedFromDoctorsDachBoard">
+<summary>
+  Looks up a localized string similar to P_GETDELETEDAVAILABLEPATIENTS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetOtherAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_GET_OTHERASSESSMENT_DAILY.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetOtherServiceRequestDetails">
+<summary>
+  Looks up a localized string similar to P_GETOTHERSERVICEREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetOTRequestDetails">
+<summary>
+  Looks up a localized string similar to P_GETOTREQUEST_NEW.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetOTRequestDetailsForAdmission">
+<summary>
+  Looks up a localized string similar to P_GetOTRequest.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetOTWorklistDetails">
+<summary>
+  Looks up a localized string similar to P_GETOTREQUESTDETAILS_NEW.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPainAssessmentDetails">
+<summary>
+  Looks up a localized string similar to P_GET_PAINASSESSMENT_DAILY.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPatientClinicalDocumentsForIPNumber">
+<summary>
+  Looks up a localized string similar to P_GetPatientClinicalDocs.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPatientHistory">
+<summary>
+  Looks up a localized string similar to P_Get_PatientHistory.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPatientInstructionDetails">
+<summary>
+  Looks up a localized string similar to P_GetInstruction.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPatientsAllocatedToNurse">
+<summary>
+  Looks up a localized string similar to p_get_nursetaskallocation.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPatientsAllocatedToNurseOT">
+<summary>
+  Looks up a localized string similar to P_GET_NURSETASKALLOCATION_ot.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPatientsAssignedForGivenLoginID">
+<summary>
+  Looks up a localized string similar to P_PATIENTASSIGNED.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPatientsMarkedForDischargeMappedToNurse">
+<summary>
+  Looks up a localized string similar to p_get_nursetaskallocation.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPatientsUnderHOD">
+<summary>
+  Looks up a localized string similar to P_GETPATIENTLISTSFORHOD.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPerinatalDeathCertificateDetails">
+<summary>
+  Looks up a localized string similar to P_GetPerinitalDeadCertificate.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPharmacyItems">
+<summary>
+  Looks up a localized string similar to p_getpharmacyitems.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPhysioTherapyRequestDetails">
+<summary>
+  Looks up a localized string similar to P_GETPHYSIOREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPrescriptionDetails">
+<summary>
+  Looks up a localized string similar to P_GetPrescription.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPrescriptionQuickList">
+<summary>
+  Looks up a localized string similar to P_GETDOCTORSDRUGQL.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetPrimarySecDoctor">
+<summary>
+  Looks up a localized string similar to P_GETPRIMARYSECDOCTOR.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetRadiologyObseravtionDetails">
+<summary>
+  Looks up a localized string similar to P_GETRadiologyObservations.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetRadiologyRequestDetails">
+<summary>
+  Looks up a localized string similar to P_GetRadiologyRequest.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetReferredTransferredCases">
+<summary>
+  Looks up a localized string similar to P_GETREFERRED_TRANSFER_CASES.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetRehabilationRequestDetails">
+<summary>
+  Looks up a localized string similar to P_Get_RehablitionRequest.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetServiceDetails">
+<summary>
+  Looks up a localized string similar to P_GETSERVICEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetServicesRaisedAgainstAnOPNumber">
+<summary>
+  Looks up a localized string similar to P_GETOPRAISESERVICESBILLING.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetServicesToBeRaisedAgainstAnOPNumber">
+<summary>
+  Looks up a localized string similar to P_GETOPSERVICEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetSubjectiveObjectiveAssessmentPlanDetails">
+<summary>
+  Looks up a localized string similar to P_GetSoap.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetTasksAllocatedToNurse">
+<summary>
+  Looks up a localized string similar to p_get_nursetaskallocation.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetTransferredCaseDetails">
+<summary>
+  Looks up a localized string similar to P_GetTransferCasesDetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetUHIDForAnIPNumber">
+<summary>
+  Looks up a localized string similar to P_GetUHID.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetUHIDForAnOPNumber">
+<summary>
+  Looks up a localized string similar to P_GETUHIDFOROP.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetVitalDetailsForAnIPNumber">
+<summary>
+  Looks up a localized string similar to P_GETVITALSFROMALLTABLES.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetVitalInstructionDetails">
+<summary>
+  Looks up a localized string similar to P_VIEWVITALINSTRUCTIONS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetWardsPatientMappedToTheDoctor">
+<summary>
+  Looks up a localized string similar to P_GETWARDPATIENTS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetWardsRaiseRequestDetails">
+<summary>
+  Looks up a localized string similar to P_GetWardsRequestDetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.GetWardsScreenPathsBasedOnAction">
+<summary>
+  Looks up a localized string similar to P_GETREQUESTACTIONDET.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.RaiseCSSDRequest">
+<summary>
+  Looks up a localized string similar to P_ADDCSSDREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.RaiseEquipmentRequest">
+<summary>
+  Looks up a localized string similar to P_ADDEQUIPMENTREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.RaiseIPPackageRequest">
+<summary>
+  Looks up a localized string similar to P_ADDPACKAGEREQUESTS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.RaiseMedicalRecordIssueRequest">
+<summary>
+  Looks up a localized string similar to P_ADDMRDRAISEREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.RaiseOtherServiceRequest">
+<summary>
+  Looks up a localized string similar to P_ADDOTHERSERVICESREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.RaiseOTRequest">
+<summary>
+  Looks up a localized string similar to P_ADDOTREQUEST_NEW.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.RaiseOTRequestForAdmission">
+<summary>
+  Looks up a localized string similar to P_ADDOTREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.RaisePhysioTherapyRequest">
+<summary>
+  Looks up a localized string similar to P_ADDPHYSIOREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.RaiseRadiologyRequest">
+<summary>
+  Looks up a localized string similar to P_ADDRADIOLOGYREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.RaiseRehabilationRequest">
+<summary>
+  Looks up a localized string similar to P_ADDRehabilationRequest.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.RaiseRequestForBedsideProcedure">
+<summary>
+  Looks up a localized string similar to P_ADDBEDSIDEMAPPINGSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.RegularizeAdmissionNote">
+<summary>
+  Looks up a localized string similar to P_UPDATEREGULARIZATIONFLAG.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.SaveABHDischargeSummaryDraft">
+<summary>
+  Looks up a localized string similar to P_SAVEABHDISCHARGEDRAFTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.SaveDischargeSummaryDraft">
+<summary>
+  Looks up a localized string similar to p_savedischargedraftdetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.SearchOPDetails">
+<summary>
+  Looks up a localized string similar to P_SEARCHOPDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateABHDischargeSummaryDraft">
+<summary>
+  Looks up a localized string similar to P_UPDTABHDISCHARGEDRAFTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateABHPatientAdmission">
+<summary>
+  Looks up a localized string similar to P_UPDATEABHADMISSIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateBillingNumberAgainstOPNumber">
+<summary>
+  Looks up a localized string similar to P_UPDATEOPPNUMBER.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateBillingStatusAgainstAnIPNumber">
+<summary>
+  Looks up a localized string similar to P_UPDATEBILLINGSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateBillingStatusOfRequestRaisedAgainstOPNumber">
+<summary>
+  Looks up a localized string similar to P_UPDATEOPSERVICEBILLINGSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateCheckInStatusAgainstAnIPNumber">
+<summary>
+  Looks up a localized string similar to P_UPDATENURSECHECKINCHKOUT.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateCheckInStatusOfABHAbscondingPatient">
+<summary>
+  Looks up a localized string similar to P_UPDATEABHNURSECHECKINCHKOUT.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateCheckInStatusOfAnAbscondingPatient">
+<summary>
+  Looks up a localized string similar to P_UPDATENURSECHECKINCHKOUT.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateCSSDRequestStatus">
+<summary>
+  Looks up a localized string similar to P_Updatecssdworklist.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateDietStatusAgainstAnIPNumber">
+<summary>
+  Looks up a localized string similar to P_UPDATEDIETSTARTEDFLAG.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateDischargeSummaryDraft">
+<summary>
+  Looks up a localized string similar to p_updatedischargedraftdetails.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateDrugAdministrationDetails">
+<summary>
+  Looks up a localized string similar to P_UpdateDrugAdmin.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateDrugReturnDetails">
+<summary>
+  Looks up a localized string similar to P_UPDATERETUNDRUGS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateEquipmentRequestStatus">
+<summary>
+  Looks up a localized string similar to P_UPDATEEQUIPMENTREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateFavorites">
+<summary>
+  Looks up a localized string similar to P_UpdateFavourites.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateIPDetailsAgainstAnAdmissionNote">
+<summary>
+  Looks up a localized string similar to P_UPDATEIPNUMBER.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateLHKRequestStatus">
+<summary>
+  Looks up a localized string similar to P_UPDATELHKREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateMedicalRecordIssueRequest">
+<summary>
+  Looks up a localized string similar to P_UPDATEMRRequest.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateMRDDoctorWorklist">
+<summary>
+  Looks up a localized string similar to P_UPDATEMRDDOCTORWORKLIST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateObservationNoteDetails">
+<summary>
+  Looks up a localized string similar to P_UPDATEOBSERVATIONNOTES.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateOPConsultationDetails">
+<summary>
+  Looks up a localized string similar to P_UPDATEOPDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateOPServiceDetails">
+<summary>
+  Looks up a localized string similar to P_UPDATEOPREQUESTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateOtherServiceRequestStatus">
+<summary>
+  Looks up a localized string similar to P_UPDATEOTHERSERVICEREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateOTRequestStatus">
+<summary>
+  Looks up a localized string similar to P_UPDATEOTWORKLIST_NEW.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateOTRequestStatusForAdmission">
+<summary>
+  Looks up a localized string similar to P_UPDATEOTWORKLIST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdatePatientAdmission">
+<summary>
+  Looks up a localized string similar to P_UPDATEADMISSIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdatePatientInstructionDetails">
+<summary>
+  Looks up a localized string similar to P_UPDATEPATIENTINSTRUCTION.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdatePATPrescription">
+<summary>
+  Looks up a localized string similar to P_UPDATETRANSACTIOSTATUSPRES.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdatePhysioTherapyRequestStatus">
+<summary>
+  Looks up a localized string similar to P_UPDATEPHYSIOREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdatePrescriptionDetails">
+<summary>
+  Looks up a localized string similar to p_updateprescdetailstatus.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateRadiologyRequestStatus">
+<summary>
+  Looks up a localized string similar to P_UPDATERADIOLOGYREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateRahabilationRequestStatus">
+<summary>
+  Looks up a localized string similar to P_UpdateRehablitionRequest.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateReferredTransferredCaseDetails">
+<summary>
+  Looks up a localized string similar to P_UPDATEREFERREDTRANSFERCASES.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateTransactionalStatus">
+<summary>
+  Looks up a localized string similar to P_UPDATETRANSACTIONALSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.UpdateTransactionalStatusOfRequestRaisedAgainstAnOPNumber">
+<summary>
+  Looks up a localized string similar to P_UPDATEOPSERVICETRANSSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.DataAccessResources.WardsRaiseRequest">
+<summary>
+  Looks up a localized string similar to P_AddRequest.
+</summary>
+</member>
+<member name="T:eHIS.Wards.DataAccess.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Wards.DataAccess.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:eHIS.Wards.DataAccess.DataServiceProvider.procGetDailyViewDatesForAnIPNumberwithOT">
+ Added to fetch data from Rel-II OT
+</member>
+</members>
+</doc>

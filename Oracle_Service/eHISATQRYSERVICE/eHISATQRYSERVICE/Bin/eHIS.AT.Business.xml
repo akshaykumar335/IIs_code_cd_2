@@ -1,0 +1,123 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.AT.Business
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.AT.Business.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.AT.Business.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.AT.Business.AdmissionServiceProvider.AddIPAdmission(System.String,System.String@)">
+ <summary>
+ This method contains functionality for adding IP admission
+ </summary>
+ <param name="requestXml"></param>
+ <param name="outputParam"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Business.AdmissionServiceProvider.CancelIPAdmission(System.String)">
+ <summary>
+ This method contains functionality for canceling IP admission
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Business.AdmissionServiceProvider.CancelEmergencyAdmission(System.String)">
+ <summary>
+ This method contains functionality for canceling emergency admission
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Business.BedBookingServiceProvider.AddBedBooking(System.String,System.String@)">
+ <summary>
+ This method contains functionality for adding bed booking details 
+ </summary>
+ <param name="requestXml"></param>
+ <param name="outputParam"></param>
+</member>
+<member name="M:eHIS.AT.Business.BedBookingServiceProvider.UpdateBedBooking(System.String)">
+ <summary>
+ This method contains functionality for updating bed booking details
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Business.BedBookingServiceProvider.CancelBedBooking(System.String)">
+ <summary>
+ This method containd functionality for canceling bed booking details
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Business.BedBookingServiceProvider.WaitingListBooking(System.String,System.String@)">
+ <summary>
+ This method contains functionality for booking bed under waiting list
+ </summary>
+ <param name="requestXml"></param>
+ <param name="outputParam"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Business.BlockOrLockBed.UpdateBlockLockStatus(System.String)">
+ <summary>
+ This method is used to block a bed
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Business.TransferServiceProvider.AddBedTransfer(System.String,System.String@)">
+ <summary>
+ This method is used for adding bed transfer details 
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Business.TransferServiceProvider.AddCategoryTransfer(System.String)">
+ <summary>
+ This method is used for adding category transfer details
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Business.TransferServiceProvider.CancelBedTransfer(System.String)">
+ <summary>
+ this method is used for cancelling bed transfer details
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.AT.Business.TransferServiceProvider.CancelCategoryTransfer(System.String)">
+ <summary>
+ this method is used for canceling category transfer details
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

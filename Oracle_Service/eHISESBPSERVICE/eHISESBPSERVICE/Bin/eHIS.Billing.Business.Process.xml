@@ -1,0 +1,1760 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.Billing.Business.Process
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.Billing.Business.Process.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:eHIS.Billing.Business.Process.My.Resources.ProcessorResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddActivateIPService">
+<summary>
+  Looks up a localized string similar to ADDACTIVATEIPSERVICE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddAdviceDetails">
+<summary>
+  Looks up a localized string similar to ADDADVICEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddAmbulanceDetails">
+<summary>
+  Looks up a localized string similar to ADDAMBULANCEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddARDataToStagingTable">
+<summary>
+  Looks up a localized string similar to ADDARDATATOSTAGINGTABLE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddBaselineApprovalDetails">
+<summary>
+  Looks up a localized string similar to ADDBASELINEAPPROVALDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddBaselineProposal">
+<summary>
+  Looks up a localized string similar to ADDBASELINEPROPOSAL.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddBaselinePublishDetails">
+<summary>
+  Looks up a localized string similar to ADDBASELINEPUBLISHDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddBillDetails">
+<summary>
+  Looks up a localized string similar to ADDBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddBillRealizationDetails">
+<summary>
+  Looks up a localized string similar to AddBillRealizationDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddBillReconciliationDetails">
+<summary>
+  Looks up a localized string similar to AddBillReconciliationDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddConvertToGeneralCredit">
+<summary>
+  Looks up a localized string similar to ADDCONVERTTOGENERALCREDIT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddCreditBillDetails">
+<summary>
+  Looks up a localized string similar to ADDCREDITBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddCreditTariff">
+<summary>
+  Looks up a localized string similar to ADDCREDITTARIFF.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddCurrencyConversionRate">
+<summary>
+  Looks up a localized string similar to ADDCURRENCYCONVERSIONRATE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddDepartmentDiscountBudget">
+<summary>
+  Looks up a localized string similar to ADDDEPARTMENTDISCOUNTBUDGET.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddDepositwaiver">
+<summary>
+  Looks up a localized string similar to ADDDEPOSITWAIVER.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddDiscountRaiseRequestDetails">
+<summary>
+  Looks up a localized string similar to ADDDISCOUNTRAISEREQUESTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddDiscountSetupDetails">
+<summary>
+  Looks up a localized string similar to ADDDISCOUNTSETUPDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddDoctorConsultation">
+<summary>
+  Looks up a localized string similar to ADDDOCTORCONSULTATION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddDoctorFeeTransaction">
+<summary>
+  Looks up a localized string similar to ADDDOCTORFEETRANSACTION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddEpisodeServiceForPatient">
+<summary>
+  Looks up a localized string similar to ADDEPISODESERVICEFORPATIENT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddExcludedServiceTypes">
+<summary>
+  Looks up a localized string similar to ADDEXCLUDEDSERVICETYPES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddHandlingCharges">
+<summary>
+  Looks up a localized string similar to ADDHANDLINGCHARGES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddInterimBillDetails">
+<summary>
+  Looks up a localized string similar to ADDINTERIMBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddIPBedDetails">
+<summary>
+  Looks up a localized string similar to ADDIPBEDDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddIPCashBillDetails">
+<summary>
+  Looks up a localized string similar to ADDIPCAHSBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddLogicBasedDefinition">
+<summary>
+  Looks up a localized string similar to ADDLOGICBASEDDEFINITION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddMMStoreMapping">
+<summary>
+  Looks up a localized string similar to ADDMMSTOREMAPPING.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddPackage">
+<summary>
+  Looks up a localized string similar to ADDPACKAGE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddPackagesForAgreement">
+<summary>
+  Looks up a localized string similar to ADDPACKAGESFORAGREEMENT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddPackagesForQuote">
+<summary>
+  Looks up a localized string similar to ADDPACKAGESFORQUOTE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddPaymentTransaction">
+<summary>
+  Looks up a localized string similar to ADDPAYMENTTRANSACTION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddPolicyManagement">
+<summary>
+  Looks up a localized string similar to ADDPOLICYMANAGEMENT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddPostDatedTransaction">
+<summary>
+  Looks up a localized string similar to ADDPOSTDATEDTRANSACTION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddServiceAgainstReqno">
+<summary>
+  Looks up a localized string similar to ADDSERVICEAGAINSTREQNO.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddServiceAliasDetails">
+<summary>
+  Looks up a localized string similar to ADDSERVICEALIASDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddServiceItemBLTP">
+<summary>
+  Looks up a localized string similar to ADDSERVICEITEMBLTP.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddServiceItemCloneDetails">
+<summary>
+  Looks up a localized string similar to ADDSERVICEITEMCLONEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddServiceItemDetails">
+<summary>
+  Looks up a localized string similar to ADDSERVICEITEMDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddServiceItemLocalDetails">
+<summary>
+  Looks up a localized string similar to ADDSERVICEITEMLOCALDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddTemplateApproval">
+<summary>
+  Looks up a localized string similar to ADDTEMPLATEAPPROVAL.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddTemplateAttachmentApproval">
+<summary>
+  Looks up a localized string similar to ADDTEMPLATEATTACHMENTAPPROVAL.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddTemplateProposal">
+<summary>
+  Looks up a localized string similar to ADDTEMPLATEPROPOSAL.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddTemplatePublish">
+<summary>
+  Looks up a localized string similar to ADDTEMPLATEPUBLISH.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddTemplateSubmit">
+<summary>
+  Looks up a localized string similar to ADDTEMPLATESUBMIT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddTempRequestService">
+<summary>
+  Looks up a localized string similar to ADDTEMPREQUESTSERVICE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.AddUpgradePackageDetails">
+<summary>
+  Looks up a localized string similar to ADDUPGRADEPACKAGEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.ApprovalTag">
+<summary>
+  Looks up a localized string similar to APPROVAL.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.BillEstimate">
+<summary>
+  Looks up a localized string similar to BILLESTIMATE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CancelAllUnBilledServices">
+<summary>
+  Looks up a localized string similar to CANCELALLUNBILLEDSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CancelAuthRequests">
+<summary>
+  Looks up a localized string similar to CANCELAUTHREQUESTS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CancelOPConsultation">
+<summary>
+  Looks up a localized string similar to CANCELOPCONSULTATION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CancelServices">
+<summary>
+  Looks up a localized string similar to CANCELSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CancelTransaction">
+<summary>
+  Looks up a localized string similar to CANCELTRANSACTION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CashAcknowledge">
+<summary>
+  Looks up a localized string similar to CASHACKNOWLEDGE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CashHandling">
+<summary>
+  Looks up a localized string similar to CASHHANDLING.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CashTransferFromHeadCashierToCounter">
+<summary>
+  Looks up a localized string similar to CASHTRANSFERFROMHEADCASHIERTOCOUNTER.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CollectDeposit">
+<summary>
+  Looks up a localized string similar to COLLECTDEPOSIT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CreditNoteApprove">
+<summary>
+  Looks up a localized string similar to CREDITNOTEAPPROVE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CreditNoteIssue">
+<summary>
+  Looks up a localized string similar to CREDITNOTEISSUE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CreditNoteReject">
+<summary>
+  Looks up a localized string similar to CREDITNOTEREJECT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CreditNoteRequest">
+<summary>
+  Looks up a localized string similar to CREDITNOTEREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.CrmGetServiceTariffs">
+<summary>
+  Looks up a localized string similar to CRMGETSERVICETARIFFS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.DebitNoteIssue">
+<summary>
+  Looks up a localized string similar to DEBITNOTEISSUE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.DeleteAccountAttachment">
+<summary>
+  Looks up a localized string similar to DELETEACCOUNTATTACHMENT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.DeletePackagesForQuote">
+<summary>
+  Looks up a localized string similar to DELETEPACKAGESFORQUOTE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GenerateInterimBill">
+<summary>
+  Looks up a localized string similar to GENERATEINTERIMBILL.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GenerateOPNumber">
+<summary>
+  Looks up a localized string similar to GENERATEOPNUMBER.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAccountAttachmentDetails">
+<summary>
+  Looks up a localized string similar to GETACCOUNTATTACHMENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAdmissionNoteServices">
+<summary>
+  Looks up a localized string similar to GetAdmissionNoteServices.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAdviceDetails">
+<summary>
+  Looks up a localized string similar to GETADVICEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAHCBillingPackages">
+<summary>
+  Looks up a localized string similar to GetAHCBillingPackages.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAHCFilteredServices">
+<summary>
+  Looks up a localized string similar to GETAHCFILTEREDSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAHCPackageCodeName">
+<summary>
+  Looks up a localized string similar to GetAHCPackageCodeName.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAHCPackageDetails">
+<summary>
+  Looks up a localized string similar to GetAHCPackageDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAHCPackageIDNames">
+<summary>
+  Looks up a localized string similar to GetAHCPackageIDNames.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAHCPackageName">
+<summary>
+  Looks up a localized string similar to GetAHCPackageName.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAHCPackageRelatedServices">
+<summary>
+  Looks up a localized string similar to GETAHCPACKAGERELATEDSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAHCPackages">
+<summary>
+  Looks up a localized string similar to GetAHCPackages.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAHCPackageServiceDepartment">
+<summary>
+  Looks up a localized string similar to GetAHCPackageServiceDepartment.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAHCServiceNames">
+<summary>
+  Looks up a localized string similar to GETAHCSERVICENAMES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAllEpisodeServices">
+<summary>
+  Looks up a localized string similar to GETALLEPISODESERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAllHandOvers">
+<summary>
+  Looks up a localized string similar to GETALLHANDOVERS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAllocationServices">
+<summary>
+  Looks up a localized string similar to GETALLOCATIONSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAmbulanceCharge">
+<summary>
+  Looks up a localized string similar to GETAMBULANCECHARGE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetApplicableTariff">
+<summary>
+  Looks up a localized string similar to GETAPPLICABLETARIFF.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAuthorityEmployeesFromDiscountSetup">
+<summary>
+  Looks up a localized string similar to GETAUTHORITYEMPLOYEESFROMDISCOUNTSETUP.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetAuthrequested">
+<summary>
+  Looks up a localized string similar to GETAUTHREQUESTED.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBaseAndProposalDetails">
+<summary>
+  Looks up a localized string similar to GETBASEANDPROPOSALDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBaseAndPublishDetails">
+<summary>
+  Looks up a localized string similar to GETBASEANDPUBLISHDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBaselineDetails">
+<summary>
+  Looks up a localized string similar to GETBASELINEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBaselineProposals">
+<summary>
+  Looks up a localized string similar to GETBASELINEPROPOSALS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBaselineTariffDetails">
+<summary>
+  Looks up a localized string similar to GETBASELINETARIFFDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBedCategoryServiceName">
+<summary>
+  Looks up a localized string similar to GETBEDCATEGORYSERVICENAME.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBillDetails">
+<summary>
+  Looks up a localized string similar to GETBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBillDetailsForDashboard">
+<summary>
+  Looks up a localized string similar to GETBILLDETAILSFORDASHBOARD.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBillDetailsForNoteRequest">
+<summary>
+  Looks up a localized string similar to GETBILLDETAILSFORNOTEREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBillingConstantDetails">
+<summary>
+  Looks up a localized string similar to GETBILLINGCONSTANTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBillingTypeForAHCDashBoard">
+<summary>
+  Looks up a localized string similar to GETBILLINGTYPEFORAHCDASHBOARD.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBillingTypeForOPDashboard">
+<summary>
+  Looks up a localized string similar to GETBILLINGTYPEFOROPDASHBOARD.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBilUnsettledBillDetails">
+<summary>
+  Looks up a localized string similar to GetBilUnsettledBillDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetBufferDetails">
+<summary>
+  Looks up a localized string similar to GETBUFFERDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCancelTransactionDetails">
+<summary>
+  Looks up a localized string similar to GETCANCELTRANSACTIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCascadingTemplate">
+<summary>
+  Looks up a localized string similar to GETCASCADINGTEMPLATE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCashAcknowledgeDetails">
+<summary>
+  Looks up a localized string similar to GETCASHACKNOWLEDGEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCashInHandDetails">
+<summary>
+  Looks up a localized string similar to GETCASHINHANDDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCashInHandTranDetails">
+<summary>
+  Looks up a localized string similar to GETCASHINHANDTRANDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCashTariffForServices">
+<summary>
+  Looks up a localized string similar to GETCASHTARIFFFORSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCategoryServices">
+<summary>
+  Looks up a localized string similar to GETCATEGORYSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCategoryServiceTariffs">
+<summary>
+  Looks up a localized string similar to GETCATEGORYSERVICETARIFFS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetClaimsToBePrepared">
+<summary>
+  Looks up a localized string similar to GetClaimsToBePrepared.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetClaimToBePreparedDetails">
+<summary>
+  Looks up a localized string similar to GetClaimToBePreparedDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetConvertToGeneralCredit">
+<summary>
+  Looks up a localized string similar to GETCONVERTTOGENERALCREDIT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCounterDetails">
+<summary>
+  Looks up a localized string similar to GETCOUNTERDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCounterShiftForUser">
+<summary>
+  Looks up a localized string similar to GETCOUNTERSHIFTFORUSER.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCounterTranDetails">
+<summary>
+  Looks up a localized string similar to GETCOUNTERTRANDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCreditBillDetails">
+<summary>
+  Looks up a localized string similar to GETCREDITBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCreditBillList">
+<summary>
+  Looks up a localized string similar to GETCREDITBILLLIST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCreditBillServiceItems">
+<summary>
+  Looks up a localized string similar to GETCREDITBILLSERVICEITEMS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCreditNoteApprovalDetails">
+<summary>
+  Looks up a localized string similar to GETCREDITNOTEAPPROVALDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCreditNoteDashBoardDetails">
+<summary>
+  Looks up a localized string similar to GETCREDITNOTEDASHBOARDDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCreditNoteDetails">
+<summary>
+  Looks up a localized string similar to GETCREDITNOTEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCreditNoteLimitDetails">
+<summary>
+  Looks up a localized string similar to GETCREDITNOTELIMITDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GETCRMPostedTariffs">
+<summary>
+  Looks up a localized string similar to GETCRMPOSTEDTARIFFS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCurrencyConversionRate">
+<summary>
+  Looks up a localized string similar to GETCURRENCYCONVERSIONRATE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCurrencyDetails">
+<summary>
+  Looks up a localized string similar to GETCURRENCYDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCurrencyName">
+<summary>
+  Looks up a localized string similar to GETCURRENCYNAME.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCustomerAnnualDetails">
+<summary>
+  Looks up a localized string similar to GETCUSTOMERANNUALDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetCustomerCategoryTypeName">
+<summary>
+  Looks up a localized string similar to GETCUSTOMERCATEGORYTYPENAME.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDatacenterServices">
+<summary>
+  Looks up a localized string similar to GETDATACENTERSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDayWiseAmounts">
+<summary>
+  Looks up a localized string similar to GETDAYWISEAMOUNTS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDefUnDefServiceBLTP">
+<summary>
+  Looks up a localized string similar to GETDEFUNDEFSERVICEBLTP.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDepartmentDiscountLimitDetails">
+<summary>
+  Looks up a localized string similar to GETDEPARTMENTDISCOUNTLIMITDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDepartmentList">
+<summary>
+  Looks up a localized string similar to GETDEPARTMENTLIST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDepartmentServices">
+<summary>
+  Looks up a localized string similar to GETDEPARTMENTSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDepositPaymentDetails">
+<summary>
+  Looks up a localized string similar to GETDEPOSITPAYMENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDepositwaiverDetails">
+<summary>
+  Looks up a localized string similar to GETDEPOSITWAIVERDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDepositWavierDashboardDetails">
+<summary>
+  Looks up a localized string similar to GETDEPOSITWAVIERDASHBOARDDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDeptDiscountEligibleEmployees">
+<summary>
+  Looks up a localized string similar to GETDEPTDISCOUNTELIGIBLEEMPLOYEES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDeptServiceTariffs">
+<summary>
+  Looks up a localized string similar to GETDEPTSERVICETARIFFS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDerivableServices">
+<summary>
+  Looks up a localized string similar to GETDERIVABLESERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDiscountableServiceDetails">
+<summary>
+  Looks up a localized string similar to GETDISCOUNTABLESERVICEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDiscountDashboardByRequestId">
+<summary>
+  Looks up a localized string similar to GETDISCOUNTDASHBOARDBYREQUESTID.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDiscountDashboardDetails">
+<summary>
+  Looks up a localized string similar to GETDISCOUNTDASHBOARDDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDiscountRaiseRequests">
+<summary>
+  Looks up a localized string similar to GETDISCOUNTRAISEREQUESTS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDiscountRequestDetails">
+<summary>
+  Looks up a localized string similar to GETDISCOUNTREQEUSTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDiscountSetupDetails">
+<summary>
+  Looks up a localized string similar to GETDISCOUNTSETUPDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDoctorConsultationDetails">
+<summary>
+  Looks up a localized string similar to GETDOCTORCONSULTATIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDoctorFee">
+<summary>
+  Looks up a localized string similar to GETDOCTORFEE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDoctorsCharge">
+<summary>
+  Looks up a localized string similar to GETDOCTORSCHARGE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetDoctorSpecialization">
+<summary>
+  Looks up a localized string similar to GETDOCTORSPECIALIZATION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetEmergencyServices">
+<summary>
+  Looks up a localized string similar to GETEMERGENCYSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetEmployeePendingTransactions">
+<summary>
+  Looks up a localized string similar to GETEMPLOYEEPENDINGTRANSACTIONS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetEmpStatusAndBalances">
+<summary>
+  Looks up a localized string similar to GETEMPSTATUSANDBALANCES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetEmpTranDetails">
+<summary>
+  Looks up a localized string similar to GETEMPTRANDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetEpisodeServiceItems">
+<summary>
+  Looks up a localized string similar to GETEPISODESERVICEITEMS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetEstimatedAmount">
+<summary>
+  Looks up a localized string similar to GETESTIMATEDAMOUNT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetExcludedServices">
+<summary>
+  Looks up a localized string similar to GETEXCLUDEDSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetExcludedServiceTypes">
+<summary>
+  Looks up a localized string similar to GETEXCLUDEDSERVICETYPES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetFeeServiceTypes">
+<summary>
+  Looks up a localized string similar to GETFEESERVICETYPES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetGeneralCreditDashBoardDetails">
+<summary>
+  Looks up a localized string similar to GETGENERALCREDITDASHBOARDDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetHandlingCharges">
+<summary>
+  Looks up a localized string similar to GETHANDLINGCHARGES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetHandOverAcknowledgeDetails">
+<summary>
+  Looks up a localized string similar to GETHANDOVERACKNOWLEDGEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetInterimBillDetails">
+<summary>
+  Looks up a localized string similar to GETINTERIMBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetInterimBillList">
+<summary>
+  Looks up a localized string similar to GETINTERIMBILLLIST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetInterimCashServices">
+<summary>
+  Looks up a localized string similar to GETINTERIMCASHSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetInterimCreditServices">
+<summary>
+  Looks up a localized string similar to GETINTERIMCREDITSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetInterimPatientDetails">
+<summary>
+  Looks up a localized string similar to GETINTERIMPATIENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPBedCategoryBreakUp">
+<summary>
+  Looks up a localized string similar to GETIPBEDCATEGORYBREAKUP.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPBillDetails">
+<summary>
+  Looks up a localized string similar to GETIPBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPBillNo">
+<summary>
+  Looks up a localized string similar to GETIPBILLNO.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPCashServices">
+<summary>
+  Looks up a localized string similar to GETIPCASHSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPCreditServices">
+<summary>
+  Looks up a localized string similar to GETIPCREDITSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPDepositDetailsForDashBoard">
+<summary>
+  Looks up a localized string similar to GETIPDEPOSITDETAILSFORDASHBOARD.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPEditableServices">
+<summary>
+  Looks up a localized string similar to GETIPEDITABLESERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPFinalBillDetails">
+<summary>
+  Looks up a localized string similar to GETIPFINALBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPPackageDetails">
+<summary>
+  Looks up a localized string similar to GETIPPACKAGEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPPackageMappedServices">
+<summary>
+  Looks up a localized string similar to GETIPPACKAGEMAPPEDSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPPreviousBillDetails">
+<summary>
+  Looks up a localized string similar to GETIPPREVIOUSDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPProfileDetails">
+<summary>
+  Looks up a localized string similar to GETIPPROFILEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPServiceApplicableDates">
+<summary>
+  Looks up a localized string similar to GETIPSERVICEAPPLICABLEDATES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetIPSurgicalServicesTypes">
+<summary>
+  Looks up a localized string similar to GETIPSURGICALSERVICESTYPES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetLabServiceDetails">
+<summary>
+  Looks up a localized string similar to GETLABSERVICEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetLocationBTDetails">
+<summary>
+  Looks up a localized string similar to GETLOCATIONBTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetLocationCounters">
+<summary>
+  Looks up a localized string similar to GETLOCATIONCOUNTERS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetLocationDetails">
+<summary>
+  Looks up a localized string similar to GETLOCATIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetLocationRegions">
+<summary>
+  Looks up a localized string similar to GETLOCATIONREGIONS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetLocationTemplates">
+<summary>
+  Looks up a localized string similar to GETLOCATIONTEMPLATES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetLogicBasedServiceDetails">
+<summary>
+  Looks up a localized string similar to GETLOGICBASEDSERVICEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetLogicBasedServiceItems">
+<summary>
+  Looks up a localized string similar to GETLOGICBASEDSERVICEITEMS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetLovDetail">
+<summary>
+  Looks up a localized string similar to GETLOVDETAIL.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetMappedPackage">
+<summary>
+  Looks up a localized string similar to GetMappedPackage.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetMasterPackageDetails">
+<summary>
+  Looks up a localized string similar to GETMASTERPACKAGEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetMasterPackageDetailsForQuote">
+<summary>
+  Looks up a localized string similar to GETMASTERPACKAGEDETAILSFORQUOTE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetMinDepForIPPackage">
+<summary>
+  Looks up a localized string similar to GETMINDEPFORIPPACKAGE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetMMStoreMap">
+<summary>
+  Looks up a localized string similar to GETMMSTOREMAP.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetMultipleServiceItemDetails">
+<summary>
+  Looks up a localized string similar to GETMULTIPLESERVICEITEMDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetOpDetails">
+<summary>
+  Looks up a localized string similar to GetOpDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetOPPatientDetails">
+<summary>
+  Looks up a localized string similar to GETOPPATIENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetOpPatientList">
+<summary>
+  Looks up a localized string similar to GETOPPATIENTLIST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetOPRaisedDietDetails">
+<summary>
+  Looks up a localized string similar to GETOPRAISEDDIETDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetOPServiceTypeORDepartment">
+<summary>
+  Looks up a localized string similar to GETOPSERVICETYPEORDEPARTMENT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetOraAppsIntData">
+<summary>
+  Looks up a localized string similar to GETORAAPPSINTDATA.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetOracleFinancePostingInformation">
+<summary>
+  Looks up a localized string similar to GETORACLEFINANCEPOSTINGINFORMATION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetOraFinPostedData">
+<summary>
+  Looks up a localized string similar to GETORAFINPOSTEDDATA.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetOraFinPostingResponse">
+<summary>
+  Looks up a localized string similar to GETORAFINPOSTINGRESPONSE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetOtherServiceTypeID">
+<summary>
+  Looks up a localized string similar to GETOTHERSERVICETYPEID.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPackageDetails">
+<summary>
+  Looks up a localized string similar to GETPACKAGEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPackageList">
+<summary>
+  Looks up a localized string similar to GETPACKAGELIST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPatientAccountBalance">
+<summary>
+  Looks up a localized string similar to GETPATIENTACCOUNTBALANCE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPatientAccountDetails">
+<summary>
+  Looks up a localized string similar to GETPATIENTACCOUNTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPatientAHCBillDetails">
+<summary>
+  Looks up a localized string similar to GETPATIENTAHCBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPatientBillDetails">
+<summary>
+  Looks up a localized string similar to GETPATIENTBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPatientDetailsFromAT">
+<summary>
+  Looks up a localized string similar to GETPATIENTDETAILSFROMAT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPatientDiscountDetails">
+<summary>
+  Looks up a localized string similar to GETPATIENTDISCOUNTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPatientEpisodeDetails">
+<summary>
+  Looks up a localized string similar to GETPATIENTEPISODEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPatinetPolicyDetails">
+<summary>
+  Looks up a localized string similar to GETPATINETPOLICYDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPayerAndServiceItemDetails">
+<summary>
+  Looks up a localized string similar to GETPAYERANDSERVICEITEMDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPayerBillRealizationDetails">
+<summary>
+  Looks up a localized string similar to GetPayerBillRealizationDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPayerWiseDistributionDetails">
+<summary>
+  Looks up a localized string similar to GETPAYERWISEDISTRIBUTIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPaymentModes">
+<summary>
+  Looks up a localized string similar to GETPAYMENTMODES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPendingApprovalsTag">
+<summary>
+  Looks up a localized string similar to GETPENDINGAPPROVALS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPreviousBillDetails">
+<summary>
+  Looks up a localized string similar to GETPREVIOUSBILLDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPreviousEstimateDetail">
+<summary>
+  Looks up a localized string similar to GETPREVIOUSESTIMATEDETAIL.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetPreviousEstimateList">
+<summary>
+  Looks up a localized string similar to GETPREVIOUSESTIMATELIST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetProposalServiceTypes">
+<summary>
+  Looks up a localized string similar to GETPROPOSALSERVICETYPES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetRadiologyDeptService">
+<summary>
+  Looks up a localized string similar to GETRADIOLOGYDEPTSERVICE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetRaisedServiceDetails">
+<summary>
+  Looks up a localized string similar to GETRAISEDSERVICEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetRaisedServices">
+<summary>
+  Looks up a localized string similar to GETRAISEDSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetReceiptDetails">
+<summary>
+  Looks up a localized string similar to GETRECEIPTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetRecentService">
+<summary>
+  Looks up a localized string similar to GETRECENTSERVICE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetReferenceDetails">
+<summary>
+  Looks up a localized string similar to GETREFERENCEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetReferenceTemplate">
+<summary>
+  Looks up a localized string similar to GETREFERENCETEMPLATE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetRoomRentDetails">
+<summary>
+  Looks up a localized string similar to GETROOMRENTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetSchedularDetails">
+<summary>
+  Looks up a localized string similar to GETSCHEDULARDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetSearchPackage">
+<summary>
+  Looks up a localized string similar to GETSEARCHPACKAGE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetSearchPackageQuote">
+<summary>
+  Looks up a localized string similar to GETSEARCHPACKAGEQUOTE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetSearchPackageWards">
+<summary>
+  Looks up a localized string similar to GetSearchPackageWards.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceAliasNames">
+<summary>
+  Looks up a localized string similar to GETSERVICEALIASNAMES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceDetails">
+<summary>
+  Looks up a localized string similar to GETSERVICEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceEquipNFacility">
+<summary>
+  Looks up a localized string similar to GETSERVICEEQUIPNFACILITY.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceItemDetails">
+<summary>
+  Looks up a localized string similar to GETSERVICEITEMDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceItemForType">
+<summary>
+  Looks up a localized string similar to GETSERVICEITEMFORTYPE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceItems">
+<summary>
+  Looks up a localized string similar to GETSERVICEITEMS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceItemsList">
+<summary>
+  Looks up a localized string similar to GETSERVICEITEMSLIST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceItemTariffs">
+<summary>
+  Looks up a localized string similar to GETSERVICEITEMTARIFFS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceName">
+<summary>
+  Looks up a localized string similar to GETSERVICENAME.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServicenames">
+<summary>
+  Looks up a localized string similar to GETSERVICENAMES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceNamesFromBilling">
+<summary>
+  Looks up a localized string similar to GETSERVICENAMESFROMBILLING.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceNamesFromBillingOnDept">
+<summary>
+  Looks up a localized string similar to GETSERVICENAMESFROMBILLINGONDEPT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceRelations">
+<summary>
+  Looks up a localized string similar to GETSERVICERELATIONS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceRequestDetails">
+<summary>
+  Looks up a localized string similar to GETSERVICEREQUESTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceRequests">
+<summary>
+  Looks up a localized string similar to GETSERVICEREQUESTS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceResourceDetails">
+<summary>
+  Looks up a localized string similar to GETSERVICERESOURCEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServices">
+<summary>
+  Looks up a localized string similar to GETSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServicesForDept">
+<summary>
+  Looks up a localized string similar to GETSERVICESFORDEPT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServicesForNonHuman">
+<summary>
+  Looks up a localized string similar to GetServicesForNonHuman.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServicesForOP">
+<summary>
+  Looks up a localized string similar to GETSERVICESFOROP.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceTariffs">
+<summary>
+  Looks up a localized string similar to GETSERVICETARIFFS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceTemplateTariffs">
+<summary>
+  Looks up a localized string similar to GETSERVICETEMPLATETARIFFS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceTypeForItem">
+<summary>
+  Looks up a localized string similar to GETSERVICETYPEFORITEM.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetServiceTypeList">
+<summary>
+  Looks up a localized string similar to GETSERVICETYPELIST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetShiftAllotedDetails">
+<summary>
+  Looks up a localized string similar to GETSHIFTALLOTEDDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetSubDeptServices">
+<summary>
+  Looks up a localized string similar to GETSUBDEPTSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetSubDeptServiceTariffs">
+<summary>
+  Looks up a localized string similar to GETSUBDEPTSERVICETARIFFS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetSurgeryChargesForPackage">
+<summary>
+  Looks up a localized string similar to GETSURGERYCHARGESFORPACKAGES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetSurgeryList">
+<summary>
+  Looks up a localized string similar to GETSURGERYLIST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTariffApplicability">
+<summary>
+  Looks up a localized string similar to GETTARIFFAPPLICABILITY.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTariffDetails">
+<summary>
+  Looks up a localized string similar to GETTARIFFDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTariffList">
+<summary>
+  Looks up a localized string similar to GETTARIFFLIST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTariffOnLoadDetails">
+<summary>
+  Looks up a localized string similar to GETTARIFFONLOADDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTariffProposals">
+<summary>
+  Looks up a localized string similar to GETTARIFFPROPOSALS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTariffToBePublished">
+<summary>
+  Looks up a localized string similar to GETTARIFFTOBEPUBLISHED.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTemplateAttachmentProposalDetails">
+<summary>
+  Looks up a localized string similar to GETTEMPLATEATTACHMENTPROPOSALDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTemplateProposalDetails">
+<summary>
+  Looks up a localized string similar to GETTEMPLATEPROPOSALDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTemplateReferenceFlag">
+<summary>
+  Looks up a localized string similar to GETTEMPLATEREFERENCEFLAG.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTemplates">
+<summary>
+  Looks up a localized string similar to GETTEMPLATES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTempRequestService">
+<summary>
+  Looks up a localized string similar to GETTEMPREQUESTSERVICE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTherapeuticServiceTypes">
+<summary>
+  Looks up a localized string similar to GETTHERAPEUTICSERVICETYPES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTodaysPostDatedDetails">
+<summary>
+  Looks up a localized string similar to GETTODAYSPOSTDATEDDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTranAmountForEndShift">
+<summary>
+  Looks up a localized string similar to GETTRANAMOUNTFORENDSHIFT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTranPartDetails">
+<summary>
+  Looks up a localized string similar to GETTRANPARTDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTransactionDetails">
+<summary>
+  Looks up a localized string similar to GETTRANSACTIONDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTypeServices">
+<summary>
+  Looks up a localized string similar to GETTYPESERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetTypeServiceTariffs">
+<summary>
+  Looks up a localized string similar to GETTYPESERVICETARIFFS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetUhidBufferDetails">
+<summary>
+  Looks up a localized string similar to GETUHIDBUFFERDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetUnBilledServices">
+<summary>
+  Looks up a localized string similar to GETUNBILLEDSERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetUnsettledBillDetails">
+<summary>
+  Looks up a localized string similar to GetUnsettledBillDetails.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetUnsettledBills">
+<summary>
+  Looks up a localized string similar to GetUnsettledBills.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetWorkingDate">
+<summary>
+  Looks up a localized string similar to GETWORKINGDATE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GetWorkingDateEmployees">
+<summary>
+  Looks up a localized string similar to GETWORKINGDATEEMPLOYEES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.GLPostingFromBilling">
+<summary>
+  Looks up a localized string similar to GLPOSTINGFROMBILLING.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.IPBillGeneration">
+<summary>
+  Looks up a localized string similar to IPBILLGENERATION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.IPBillPreparation">
+<summary>
+  Looks up a localized string similar to IPBILLPREPARATION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.NoData">
+<summary>
+  Looks up a localized string similar to There are no records with data provided.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.OPBillGeneration">
+<summary>
+  Looks up a localized string similar to OPBILLGENERATION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.OPBillPreparation">
+<summary>
+  Looks up a localized string similar to OPBILLPREPARATION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.Payment">
+<summary>
+  Looks up a localized string similar to PAYMENT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.QueryTransactionSearch">
+<summary>
+  Looks up a localized string similar to QUERYTRANSACTIONSEARCH.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.RaiseServices">
+<summary>
+  Looks up a localized string similar to RAISESERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.Refund">
+<summary>
+  Looks up a localized string similar to REFUND.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.RefundAuthorization">
+<summary>
+  Looks up a localized string similar to REFUNDAUTHORIZATION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.ResetApplicableDates">
+<summary>
+  Looks up a localized string similar to RESETAPPLICABLEDATES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.TransferCashInHandToOracleFinance">
+<summary>
+  Looks up a localized string similar to TRANSFERCASHINHANDTOORACLEFINANCE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateAdviceDetails">
+<summary>
+  Looks up a localized string similar to UPDATEADVICEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateAmbulanceDetails">
+<summary>
+  Looks up a localized string similar to UPDATEAMBULANCEDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateApplicableTariff">
+<summary>
+  Looks up a localized string similar to UPDATEAPPLICABLETARIFF.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateAuthorizationResponse">
+<summary>
+  Looks up a localized string similar to UPDATEAUTHORIZATIONRESPONSE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateBillingStatus">
+<summary>
+  Looks up a localized string similar to UpdateBillingStatus.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateBloodBankServicesIp">
+<summary>
+  Looks up a localized string similar to UPDATEBLOODBANKSERVICESIP.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateBufferDetails">
+<summary>
+  Looks up a localized string similar to UPDATEBUFFERDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateConvertToGeneralCredit">
+<summary>
+  Looks up a localized string similar to UPDATECONVERTTOGENERALCREDIT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateCurrencyConversionRate">
+<summary>
+  Looks up a localized string similar to UPDATECURRENCYCONVERSIONRATE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateDepartmentDiscountLimit">
+<summary>
+  Looks up a localized string similar to UPDATEDEPARTMENTDISCOUNTLIMIT.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateDepositWaiver">
+<summary>
+  Looks up a localized string similar to UPDATEDEPOSITWAIVER.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateDiscountRequestStatus">
+<summary>
+  Looks up a localized string similar to UPDATEDISCOUNTREQUESTSTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateDiscountSetup">
+<summary>
+  Looks up a localized string similar to UPDATEDISCOUNTSETUPDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateDoctorFeeTransaction">
+<summary>
+  Looks up a localized string similar to UPDATEDOCTORFEETRANSACTION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpDateEditableServices">
+<summary>
+  Looks up a localized string similar to UPDATEEDITABLESERVICES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateEpisodeBilling">
+<summary>
+  Looks up a localized string similar to UPDATEEPISODEBILLING.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateIPServiceApplicableDates">
+<summary>
+  Looks up a localized string similar to UPDATEIPSERVICEAPPLICABLEDATES.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateLabServiceStatusTag">
+<summary>
+  Looks up a localized string similar to UPDATELABSERVICESTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateOpdetails">
+<summary>
+  Looks up a localized string similar to UPDATEOPDETAILS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdatePackage">
+<summary>
+  Looks up a localized string similar to UPDATEPACKAGE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdatePackageForQuote">
+<summary>
+  Looks up a localized string similar to UPDATEPACKAGEFORQUOTE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdatePackageUpgradation">
+<summary>
+  Looks up a localized string similar to UPDATEPACKAGEUPGRADATION.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdatePatientBillClaimStatus">
+<summary>
+  Looks up a localized string similar to UpdatePatientBillClaimStatus.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateRaisedServiceStatus">
+<summary>
+  Looks up a localized string similar to UPDATERAISEDSERVICESTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateServiceStatus">
+<summary>
+  Looks up a localized string similar to UPDATESERVICESTATUS.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateTemplateReferenceFlag">
+<summary>
+  Looks up a localized string similar to UPDATETEMPLATEREFERENCEFLAG.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateTempServiceRequest">
+<summary>
+  Looks up a localized string similar to UPDATETEMPSERVICEREQUEST.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateTransactionToClose">
+<summary>
+  Looks up a localized string similar to UPDATETRANSACTIONTOCLOSE.
+</summary>
+</member>
+<member name="P:eHIS.Billing.Business.Process.My.Resources.ProcessorResources.UpdateWorkingDateTranOpen">
+<summary>
+  Looks up a localized string similar to UPDATEWORKINGDATETRANOPEN.
+</summary>
+</member>
+<member name="M:eHIS.Billing.Business.Process.ActionProcessor.Process(eHIS.Billing.Utility.Entities.ActionRequest,System.String,System.String@,System.Data.DataSet@)">
+ <summary>
+ This method contains functionality for calling various methods based upon 
+ action specified in the Xml.
+ </summary>
+ <param name="objActionRequest"></param>
+ <param name="requestXml"></param>
+ <param name="outputParam"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Billing.Business.Process.ActionProcessor.ProcessQuery(System.String,System.String@)">
+ <summary>
+ This method contains functionality for processing different queries based 
+ upon action specified in xml
+ </summary>
+ <param name="requestXml"></param>
+ <param name="responseXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Billing.Business.Process.ResponseProcessor.SendResponse">
+ <summary>
+ This method is used for reading various elements of Master XML and calling 
+ respective methods based on source action
+ </summary>
+ <returns>Integer</returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.Billing.Business.Process.ResponseProcessor.SerializeObject">
+ <summary>
+ This method is used for Serializing Object
+ </summary>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Billing.Business.Process.ResponseProcessor.ProcessResponse(System.String)">
+ <summary>
+ This method is used for Processing the Response
+ </summary>
+ <param name="masterXml"></param>
+ <returns>Integer</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.Billing.Business.Process.ResponseProcessor.DeserializeObject(System.String)">
+ <summary>
+ This method is used for Deserializing Object
+ </summary>
+ <param name="xmlInput"></param>
+ <returns>RegistrationResponseProcessor</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

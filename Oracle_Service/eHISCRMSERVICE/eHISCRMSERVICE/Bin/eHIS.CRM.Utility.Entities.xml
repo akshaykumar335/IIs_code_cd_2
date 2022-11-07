@@ -1,0 +1,622 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.CRM.Utility.Entities
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.CRM.Utility.Entities.My.Resources.CRM">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.AddOpportunity">
+<summary>
+  Looks up a localized string similar to GetOpportunityDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.UpdateOpportunity">
+<summary>
+  Looks up a localized string similar to UpdateOpportunity.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.GetOpportunityDetails">
+<summary>
+  Looks up a localized string similar to GetOpportunityDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.GetOpportunities">
+<summary>
+  Looks up a localized string similar to GetOpportunities.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.GetOpportunityByType">
+<summary>
+  Looks up a localized string similar to GetOpportunityByType.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.RequestTypeDueForTheMonthOpportunities">
+<summary>
+  Looks up a localized string similar to RequestTypeDueForTheMonthOpportunities.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.RequestTypeAllOpportunities">
+<summary>
+  Looks up a localized string similar to RequestTypeAllOpportunities.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.RequestTypeAllRecentlyCreatedOpportunities">
+<summary>
+  Looks up a localized string similar to RequestTypeAllRecentlyCreatedOpportunities.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.RequestTypeAllClosedOpportunities">
+<summary>
+  Looks up a localized string similar to RequestTypeAllClosedOpportunities.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.RequestTypeAllActiveOpportunities">
+<summary>
+  Looks up a localized string similar to RequestTypeAllActiveOpportunities.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.RequestTypeMyOpportunities">
+<summary>
+  Looks up a localized string similar to RequestTypeMyOpportunities.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.RequestTypeMyTopOpportunities">
+<summary>
+  Looks up a localized string similar to RequestTypeMyTopOpportunities.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.GetContactDetails">
+<summary>
+  Looks up a localized string similar to GetContactDetails.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.GetContactDetailsByType">
+<summary>
+  Looks up a localized string similar to GetContactDetailsByType.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.GetContacts">
+<summary>
+  Looks up a localized string similar to GetContacts.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.RequestTypeAllActiveContacts">
+<summary>
+  Looks up a localized string similar to AllactiveContacts.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.RequestTypeAllContacts">
+<summary>
+  Looks up a localized string similar to AllContacts.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.RequestTypeAllRecentlyCreatedContacts">
+<summary>
+  Looks up a localized string similar to AllrecentlyCreatedContacts.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.RequestTypemyContacts">
+<summary>
+  Looks up a localized string similar to MyContacts.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.CRM.RequestTypeMyTopContacts">
+<summary>
+  Looks up a localized string similar to MyTopContacts.
+</summary>
+</member>
+<member name="T:eHIS.CRM.Utility.Entities.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.CRM.Utility.Entities.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ActionRequest.SerializeObject">
+ <summary>
+ This method contains functionality for serializing an object
+ </summary>
+ <returns>String</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ActionRequest.DeserializeToObject(System.String)">
+ <summary>
+ This method contains functionality for deserializing xml request
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ActivityRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ActivityRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.AttachmentsRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.AttachmentsRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.AuthorizationRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.AuthorizationRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ClaimsRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ClaimsRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ClaimsSearchRequest.SerializeObject">
+ <summary>
+ This is for serializing
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ClaimsSearchRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.EligibilityRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.EligibilityRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.PolicyRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.PolicyRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.PreAuthorizationRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.PreAuthorizationRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.CampaignRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.CampaignRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.CampaignTargetRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.CampaignTargetRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ChecklistRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ChecklistRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ContactsRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ContactsRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.CRMResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.CRMResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.CustomerRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.CustomerRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.DoctorsReportRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.DoctorsReportRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.EventRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.EventRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.EventTargetRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.EventTargetRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.InitialQueryRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.InitialQueryRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.InternationalMarketingRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.InternationalMarketingRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ServiceProviderRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.ServiceProviderRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.MasterSearchRequest.SerializeObject">
+ <summary>
+ This is for serializing
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.MasterSearchRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.NotesRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.NotesRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.OpportunityRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.OpportunityRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.AgreementRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.AgreementRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.EmployeeEntitlementsRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.EmployeeEntitlementsRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.PlanInformationRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.PlanInformationRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.QuoteRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.QuoteRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.QuotesSearchRequest.SerializeObject">
+ <summary>
+ This is for serializing
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.QuotesSearchRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.RevenueRequest.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.RevenueRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.SearchRequest.SerializeObject">
+ <summary>
+ This is for serializing
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.SearchRequest.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.SearchResponse.SerializeObject">
+ <summary>
+  This method is for serialization
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.CRM.Utility.Entities.SearchResponse.DeserializeToObject(System.String)">
+ <summary>
+ this method is for deserialization
+ </summary>
+ <param name="xmlInput"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

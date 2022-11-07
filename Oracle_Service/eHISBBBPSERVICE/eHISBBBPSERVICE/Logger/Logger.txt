@@ -1,0 +1,28 @@
+in ProcessRequest
+<?xml version="1.0" encoding="utf-16"?>
+<ATSoapRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ReplyCharacteristics ReplyTo="ReplyTo" RequestTo="RequestTo" />
+  <MessageBody>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;BedBookingRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;BedBooking HiddenFieldRegistrationNo="" HBookingNumber="" HiddenFieldStatus1="" FromDate="01-Jan-1900" ToDate="01-Jan-1900" HiddenFieldGridStatus="" HiddenConformSubmit="" HiddenRefDoctor="" LocationCode="" SelectedCategory="" HiddenConformMessage="" HiddenAdmitBtn="" HiddenCancelConformMessage="" HiddenCategory="" HiddenBtnStatus="" ExpDateOfAdmission="01-Jan-1900" BookNo="b849" AdmissionNoteAvailable="0" AuthorizationRequired="" AdmissionNoteType="Online" PaymentMode="Cash" UHID="U1798" PRN="" ExpectedDurationOfStay="1" ExpectedDateOfAdmission="24-Jul-2007" Category="21" SpecificPreference="ZSxZxc" ReasonForBedBooking="asdas" OnlineBedBookingNumber="" BookingDate="24-Jul-2007" ModificationDate="24-Jul-2007" ReasonForModification="reason modified again" CancellationDate="01-Jan-1900" ReasonForCancellation="" LocationID="1" LoginID="10019" EmpNo="" CorporateCode=""&gt;
+    &lt;AdmissionNote MLCase="0" MLCaseNo="" ReferralTypeID="0" CategoryID="0" ReasonForAdmission="0" FilePath="" FileName="" FileType="" ProvisionalDiagnosis="" DateofAdmission="01-Jan-1900" AdmittingDoctorName="0" ReferringDoctorName="0" AdmittingDepartment="0" /&gt;
+    &lt;PolicyNo /&gt;
+  &lt;/BedBooking&gt;
+  &lt;ActionRequest&gt;
+    &lt;Target /&gt;
+    &lt;Identifier&gt;0292ad3d-888e-418c-acb7-09158949b936&lt;/Identifier&gt;
+    &lt;LoginID&gt;Apollo&lt;/LoginID&gt;
+    &lt;Action&gt;UPDATEBEDBOOKING&lt;/Action&gt;
+  &lt;/ActionRequest&gt;
+&lt;/BedBookingRequest&gt;</MessageBody>
+  <SourceAction>Bedbooking</SourceAction>
+</ATSoapRequest>
+after deseria ****
+in ProcessBedBookingRequest
+<?xml version="1.0" encoding="utf-16"?>
+<ATResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CorrelationID>0292ad3d-888e-418c-acb7-09158949b936</CorrelationID>
+  <ResultCode>0</ResultCode>
+  <ErrorMessage />
+  <Response />
+</ATResponse>

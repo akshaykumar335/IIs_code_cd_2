@@ -1,0 +1,133 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eHIS.ES.Business
+</name>
+</assembly>
+<members>
+<member name="T:eHIS.ES.Business.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eHIS.ES.Business.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eHIS.ES.Business.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eHIS.ES.Business.ESServiceProvider.AppointmentBooking(System.String,System.String@)">
+ <summary>
+ It for adding Appointment details,it inturn calls the method of DataServicetransactionhandler
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.ES.Business.ESServiceProvider.UpdateAppointmentDetails(System.String,System.String@)">
+ <summary>
+ It is for updating the Appointment details,it inturn calls the method of DataServiceTransactionHandler
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.ES.Business.ESServiceProvider.CancelAppointmentDetails(System.String,System.String@)">
+ <summary>
+ It is for cancelling the Appointment details,it inturn calls the method of DataServiceTransactionHandler
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:eHIS.ES.Business.ESServiceProvider.AddServiceCalendar(System.String,System.String@)">
+ <summary>
+ It for adding ServiceCalendar details,it inturn calls the method of DataServicetransactionhandler
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Business.ESServiceProvider.AddResourceCalendar(System.String,System.String@)">
+ <summary>
+ It for adding ResourceCalendar details,it inturn calls the method of DataServicetransactionhandler
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Business.QueryServiceProvider.GetAppointments(System.String)">
+ <summary>
+ this method is used for getting the Appointment details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Business.QueryServiceProvider.GetApptDetailsForDates(System.String)">
+ <summary>
+ this method is used for getting the Appointment details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Business.QueryServiceProvider.GetApptDetailsForID(System.String)">
+ <summary>
+ this method is used for getting the Appointment details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Business.QueryServiceProvider.ConflictCheck(System.String)">
+ <summary>
+ It is for checking conflicts for an Appointment,it inturn calls the method of DataServiceTransactionHandler
+ </summary>
+ <param name="requestXml"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Business.QueryServiceProvider.GetCalendarDetails(System.String)">
+ <summary>
+ this method is used for getting the calendar details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Business.QueryServiceProvider.GetServicedetails(System.String)">
+ <summary>
+ this method is used for getting the service details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Business.QueryServiceProvider.GetResourcedetails(System.String)">
+ <summary>
+ this method is used for getting the service details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+<member name="M:eHIS.ES.Business.QueryServiceProvider.SearchServices(System.String)">
+ <summary>
+ this method is used for getting the service details which in turn calls the method of transaction handler
+ </summary>
+ <param name="requestXml"></param>
+ <returns>DataSet</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
